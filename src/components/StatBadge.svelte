@@ -1,9 +1,8 @@
 <script>
-  let { icon, label, value, variant = 'default' } = $props()
+  let { label, value, variant = 'default' } = $props()
 </script>
 
 <span class="stat-badge" class:stat-badge--accent={variant === 'accent'}>
-  <span class="stat-badge__icon" aria-hidden="true">{icon}</span>
   <span class="stat-badge__value">{value}</span>
   <span class="stat-badge__label">{label}</span>
 </span>
@@ -12,7 +11,7 @@
   .stat-badge {
     display: inline-flex;
     align-items: center;
-    gap: 6px;
+    gap: 4px;
     padding: 4px 10px;
     border-radius: 6px;
     font-size: 12px;
@@ -25,10 +24,6 @@
     background: var(--blue-bg);
     border-color: var(--blue-border);
     color: var(--blue-text);
-  }
-
-  .stat-badge__icon {
-    font-size: 13px;
   }
 
   .stat-badge__value {

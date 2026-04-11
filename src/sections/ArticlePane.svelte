@@ -8,19 +8,21 @@
 
 <div class="pane-wrapper">
   <!-- Original -->
-  <div class="pane">
+  <div class="pane pane--original">
     <div class="pane__header">
       <span class="pane__label">Original</span>
+      <div class="pane__header-stats">
+        {#if getSelectedSource()}
+          <StatBadge label="Words" value={getSelectedSource().metadata.wordCount} />
+          <StatBadge label="Level" value={getSelectedSource().metadata.readingLevel} />
+          <StatBadge label="Lang" value={getSelectedSource().metadata.language.toUpperCase()} />
+        {/if}
+      </div>
     </div>
     {#if getSelectedSource()}
       <article class="pane__content">
         <h2 class="pane__headline">{getSelectedSource().headline}</h2>
         <div class="pane__body">{getSelectedSource().body}</div>
-        <div class="pane__stats">
-          <StatBadge icon="\ud83d\udcca" label="words" value={getSelectedSource().metadata.wordCount} />
-          <StatBadge icon="\ud83c\udf93" label="" value={getSelectedSource().metadata.readingLevel} />
-          <StatBadge icon="\ud83c\udf10" label="" value={getSelectedSource().metadata.language.toUpperCase()} />
-        </div>
       </article>
     {/if}
   </div>
@@ -29,38 +31,24 @@
   <div class="pane pane--adapted" aria-live="polite">
     <div class="pane__header">
       <span class="pane__label pane__label--adapted">Adapted</span>
+      <div class="pane__header-stats">
+        {#if getSelectedAdaptation()}
+          <StatBadge label="Words" value={getSelectedAdaptation().stats.wordCount} variant="accent" />
+          <StatBadge label="Level" value={getSelectedAdaptation().stats.readingLevel} variant="accent" />
+          <StatBadge label="Lang" value={getSelectedAdaptation().profile.languageLabel} variant="accent" />
+        {/if}
+      </div>
     </div>
     {#if getSelectedAdaptation()}
       {#key adaptationKey}
         <article class="pane__content" lang={getSelectedAdaptation().profile.language} in:fade={{ duration: 200 }}>
           <h2 class="pane__headline pane__headline--adapted">{getSelectedAdaptation().headline}</h2>
           <div class="pane__body">{getSelectedAdaptation().body}</div>
-          <div class="pane__stats">
-            <StatBadge icon="\ud83d\udcca" label="words" value={getSelectedAdaptation().stats.wordCount} variant="accent" />
-            <StatBadge icon="\ud83c\udf93" label="" value={getSelectedAdaptation().stats.readingLevel} variant="accent" />
-            <StatBadge icon="\ud83c\udf10" label="" value={getSelectedAdaptation().profile.languageLabel} variant="accent" />
-          </div>
         </article>
       {/key}
     {/if}
   </div>
 </div>
-
-<!-- Mobile: collapsible original -->
-<details class="mobile-original">
-  <summary>View original article</summary>
-  {#if getSelectedSource()}
-    <article class="pane__content">
-      <h2 class="pane__headline">{getSelectedSource().headline}</h2>
-      <div class="pane__body">{getSelectedSource().body}</div>
-      <div class="pane__stats">
-        <StatBadge icon="\ud83d\udcca" label="words" value={getSelectedSource().metadata.wordCount} />
-        <StatBadge icon="\ud83c\udf93" label="" value={getSelectedSource().metadata.readingLevel} />
-        <StatBadge icon="\ud83c\udf10" label="" value={getSelectedSource().metadata.language.toUpperCase()} />
-      </div>
-    </article>
-  {/if}
-</details>
 
 <style>
   .pane-wrapper {
@@ -75,15 +63,34 @@
     border: 1px solid var(--border);
     background: var(--surface);
     overflow: hidden;
+    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.2);
+    min-width: 0;
+    max-width: 100%;
   }
 
   .pane--adapted {
     border-color: var(--blue-border);
+    box-shadow: 0 2px 16px rgba(96, 165, 250, 0.08);
   }
 
   .pane__header {
-    padding: 10px 16px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px;
+    padding: 8px 14px;
     border-bottom: 1px solid var(--border);
+  }
+
+  .pane__header-stats {
+    display: flex;
+    gap: 6px;
+    overflow-x: auto;
+    scrollbar-width: none;
+  }
+
+  .pane__header-stats::-webkit-scrollbar {
+    display: none;
   }
 
   .pane__label {
@@ -92,6 +99,7 @@
     text-transform: uppercase;
     letter-spacing: 0.05em;
     color: var(--text-ui-dim);
+    flex-shrink: 0;
   }
 
   .pane__label--adapted {
@@ -100,14 +108,16 @@
 
   .pane__content {
     padding: 16px;
+    overflow-y: auto;
   }
 
   .pane__headline {
-    font-size: 16px;
+    font-size: 17px;
     font-weight: 700;
     color: var(--text-bright);
     margin: 0 0 12px;
     line-height: 1.4;
+    overflow-wrap: break-word;
   }
 
   .pane__headline--adapted {
@@ -119,56 +129,40 @@
     line-height: 1.7;
     color: var(--text-ui);
     white-space: pre-line;
-    margin-bottom: 16px;
+    overflow-wrap: break-word;
+    word-break: break-word;
   }
 
-  .pane__stats {
-    display: flex;
-    gap: 8px;
-    flex-wrap: wrap;
-    padding-top: 12px;
-    border-top: 1px solid var(--border);
-  }
-
-  .mobile-original {
-    display: none;
-    margin: 0 20px;
-    border-radius: 10px;
-    border: 1px solid var(--border);
-    background: var(--surface);
-  }
-
-  .mobile-original summary {
-    padding: 12px 16px;
-    font-size: 13px;
-    font-weight: 600;
-    color: var(--text-ui);
-    cursor: pointer;
-  }
-
-  .mobile-original .pane__content {
-    border-top: 1px solid var(--border);
-  }
-
-  @media (max-width: 768px) {
+  @media (max-width: 900px) {
     .pane-wrapper {
       grid-template-columns: 1fr;
+      gap: 12px;
+      padding: 0 12px;
+    }
+  }
+
+  @media (max-width: 480px) {
+    .pane-wrapper {
+      padding: 0 8px;
+      gap: 8px;
     }
 
-    .pane-wrapper .pane:first-child {
-      position: absolute;
-      width: 1px;
-      height: 1px;
-      padding: 0;
-      margin: -1px;
-      overflow: hidden;
-      clip: rect(0, 0, 0, 0);
-      white-space: nowrap;
-      border: 0;
+    .pane__content {
+      padding: 12px;
     }
 
-    .mobile-original {
-      display: block;
+    .pane__headline {
+      font-size: 15px;
+      margin: 0 0 8px;
+    }
+
+    .pane__body {
+      font-size: 13px;
+      line-height: 1.6;
+    }
+
+    .pane__header {
+      padding: 6px 10px;
     }
   }
 </style>
