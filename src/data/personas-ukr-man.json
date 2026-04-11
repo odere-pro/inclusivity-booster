@@ -1,0 +1,60 @@
+[
+  {
+    "id": "dmytro-uk-child-man",
+    "name": "Dmytro",
+    "description": "Ukrainian-speaking child, 9, Bromma",
+    "avatar": "👦🏽",
+    "gender": "man",
+    "adaptations": {
+      "housing": "housing-uk-child-simple-man",
+      "immigration": "immigration-uk-child-simple-man"
+    }
+  },
+  {
+    "id": "andriy-uk-teen-man",
+    "name": "Andriy",
+    "description": "Ukrainian-speaking teenager, 17, Hammarby Sjöstad",
+    "avatar": "👦🏼",
+    "gender": "man",
+    "adaptations": {
+      "housing": "housing-uk-teen-standard-man",
+      "immigration": "immigration-uk-teen-standard-man"
+    }
+  },
+  {
+    "id": "oleksandr-uk-young-adult-man",
+    "name": "Oleksandr",
+    "description": "Ukrainian-speaking young adult, 21, Lidingö",
+    "avatar": "👨🏼",
+    "gender": "man",
+    "format": "linkedin",
+    "adaptations": {
+      "housing": "housing-uk-young-adult-standard-man",
+      "immigration": "immigration-uk-young-adult-standard-man"
+    }
+  },
+  {
+    "id": "taras-uk-adult-man",
+    "name": "Taras",
+    "description": "Ukrainian-speaking adult, 35, Husby",
+    "avatar": "👨🏻",
+    "gender": "man",
+    "format": "linkedin",
+    "adaptations": {
+      "housing": "housing-uk-adult-expert-man",
+      "immigration": "immigration-uk-adult-expert-man"
+    }
+  },
+  {
+    "id": "bohdan-uk-senior-man",
+    "name": "Bohdan",
+    "description": "Ukrainian-speaking senior, 73, Sundbyberg",
+    "avatar": "👴🏼",
+    "gender": "man",
+    "format": "linkedin",
+    "adaptations": {
+      "housing": "housing-uk-senior-expert-man",
+      "immigration": "immigration-uk-senior-expert-man"
+    }
+  }
+]

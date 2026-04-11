@@ -1,0 +1,230 @@
+[
+  {
+    "id": "housing-en-young-adult-standard-non-binary",
+    "sourceId": "housing",
+    "profile": {
+      "language": "en",
+      "languageLabel": "English",
+      "ageGroup": "young-adult",
+      "readingLevel": "standard",
+      "gender": "non-binary",
+      "culturalLens": "neutral",
+      "format": "social-media"
+    },
+    "headline": "Stockholm is building 3,200 affordable homes — here's what you need to know",
+    "body": "Stockholm just approved 2.4 billion SEK for 3,200 new affordable homes in Järva, Skärholmen, and Farsta. 40% of units are reserved for lower-income households, and the city is shifting from a lottery to income-based allocation.\n\nOver 42,000 households are on the waiting list. Construction starts next year, applications open January 2027. Everyone with permanent residency qualifies — no matter where they're from.\n\nHousing policy is often framed around nuclear families, but this matters for everyone — including non-binary people navigating a housing system that rarely accounts for non-traditional household structures. Income-based allocation at least means your identity isn't the barrier — your economic situation is evaluated the same as anyone else's.",
+    "dimensions": {
+      "tone": "Conversational social-media voice, direct and engaging",
+      "vocabulary": "Uses 'income-based allocation' with context, accessible but not dumbed down",
+      "format": "Social media style: punchy opening, key facts, personal relevance",
+      "culturalFraming": "Challenges nuclear family framing, centres non-binary experiences in housing discourse"
+    },
+    "changes": [
+      "Adapted to social media format with direct address",
+      "Challenged nuclear family assumptions in housing policy",
+      "Centred non-binary experience without making it the only lens",
+      "Maintained all policy data in accessible format"
+    ],
+    "inclusivityMeta": [
+      { "change": "Named 'non-traditional household structures' as underserved by housing policy", "reason": "Housing policy defaults to nuclear family assumptions — naming this gap validates non-binary people's housing experiences" },
+      { "change": "Stated 'your identity isn't the barrier'", "reason": "Directly addresses the concern that gender identity could be used against applicants in a bureaucratic system" },
+      { "change": "Used gender-neutral language throughout (no he/she defaults)", "reason": "Non-binary readers are consistently misgendered in policy communications — neutral language is baseline inclusion" },
+      { "change": "Framed income-based allocation as identity-neutral", "reason": "Highlights a structural advantage of the new system: evaluation criteria that don't depend on gender presentation" }
+    ],
+    "stats": {
+      "wordCount": 140,
+      "readingLevel": "Standard",
+      "avgSentenceLength": 16
+    }
+  },
+  {
+    "id": "immigration-en-young-adult-standard-non-binary",
+    "sourceId": "immigration",
+    "profile": {
+      "language": "en",
+      "languageLabel": "English",
+      "ageGroup": "young-adult",
+      "readingLevel": "standard",
+      "gender": "non-binary",
+      "culturalLens": "neutral",
+      "format": "social-media"
+    },
+    "headline": "Sweden's new language requirement for residency — and what it means for you",
+    "body": "From March 2027, permanent residency in Sweden requires conversational Swedish (CEFR B1). You'll be tested at SFI centres if you're a non-EU national with 3+ years on a temporary permit.\n\nExemptions: over 65, documented learning disabilities, refugees with subsidiary protection. About 34,000 people are in scope.\n\nHere's what's not in the policy: any recognition that non-binary people already navigate extra bureaucratic friction — from misgendered forms to binary-only identity systems. The language test itself is gender-neutral, which is good. But the support systems around it — childcare access, workplace accommodations — are often built around assumptions that don't fit everyone. Advocating for inclusive SFI environments matters as much as the test itself.",
+    "dimensions": {
+      "tone": "Direct social-media voice with advocacy framing",
+      "vocabulary": "Uses 'CEFR B1' with explanation, accessible policy language",
+      "format": "Social media style: facts first, then personal analysis and call to action",
+      "culturalFraming": "Highlights bureaucratic friction non-binary people face beyond the policy itself"
+    },
+    "changes": [
+      "Adapted to social media format",
+      "Named extra bureaucratic friction non-binary people experience",
+      "Noted the test is gender-neutral but support systems aren't",
+      "Added advocacy framing about inclusive SFI environments"
+    ],
+    "inclusivityMeta": [
+      { "change": "Named 'misgendered forms and binary-only identity systems' as existing friction", "reason": "Policy doesn't exist in a vacuum — non-binary people face compounding barriers the policy text doesn't acknowledge" },
+      { "change": "Noted the test is gender-neutral but support systems aren't", "reason": "Distinguishes between formal equality and substantive equality — neutral rules in biased systems produce unequal outcomes" },
+      { "change": "Called for 'inclusive SFI environments'", "reason": "Advocacy framing empowers the reader to push for change rather than passively accept structural gaps" },
+      { "change": "Used 'you' and 'everyone' rather than gendered pronouns", "reason": "Consistent gender-neutral address validates non-binary identity throughout the text" }
+    ],
+    "stats": {
+      "wordCount": 142,
+      "readingLevel": "Standard",
+      "avgSentenceLength": 16
+    }
+  },
+  {
+    "id": "housing-en-adult-expert-non-binary",
+    "sourceId": "housing",
+    "profile": {
+      "language": "en",
+      "languageLabel": "English",
+      "ageGroup": "adult",
+      "readingLevel": "expert",
+      "gender": "non-binary",
+      "culturalLens": "neutral",
+      "format": "social-media"
+    },
+    "headline": "Stockholm's 2.4B SEK housing policy: structurally fair or structurally blind?",
+    "body": "Stockholm City Council allocated 2.4 billion SEK for 3,200 affordable units in Järva, Skärholmen, and Farsta, with 40% reserved for households below the median income threshold. The shift from lottery to income-linked earmarking addresses one axis of inequality — economic — while leaving others unexamined.\n\nThe 42,000-household queue underscores demand. Construction begins Q3 2026, applications January 2027. All permanent residents qualify regardless of citizenship.\n\nThe policy's household definitions rely on legal categories that often fail non-binary people: cohabitation registries, family composition assessments, and income-splitting calculations all assume binary gender pairings. While the income-linked model is identity-neutral in principle, its implementation infrastructure encodes binary assumptions. True structural fairness requires auditing these downstream mechanisms for gender-diverse exclusion patterns.",
+    "dimensions": {
+      "tone": "Expert social-media analysis — sharp, structural, critical",
+      "vocabulary": "Full policy vocabulary plus gender theory: 'binary assumptions', 'downstream mechanisms', 'exclusion patterns'",
+      "format": "Expert social post: data, structural critique, call for systemic audit",
+      "culturalFraming": "Examines how formally neutral policy encodes binary gender assumptions at implementation level"
+    },
+    "changes": [
+      "Retained full technical complexity",
+      "Analysed how household definitions encode binary gender assumptions",
+      "Distinguished between principle-level neutrality and implementation-level bias",
+      "Called for auditing downstream mechanisms for gender-diverse exclusion"
+    ],
+    "inclusivityMeta": [
+      { "change": "Identified 'cohabitation registries and family composition assessments' as encoding binary assumptions", "reason": "Formal neutrality at the policy level can mask implementation-level discrimination against non-binary households" },
+      { "change": "Distinguished 'identity-neutral in principle' from implementation encoding 'binary assumptions'", "reason": "This gap between principle and practice is where non-binary exclusion actually occurs" },
+      { "change": "Called for 'auditing downstream mechanisms'", "reason": "Expert-level advocacy — auditing implementation is more impactful than debating policy text" },
+      { "change": "Framed housing through 'multiple axes of inequality'", "reason": "Intersectional analysis reveals that fixing economic inequality alone doesn't address gender identity-based exclusion" }
+    ],
+    "stats": {
+      "wordCount": 155,
+      "readingLevel": "Expert",
+      "avgSentenceLength": 21
+    }
+  },
+  {
+    "id": "immigration-en-adult-expert-non-binary",
+    "sourceId": "immigration",
+    "profile": {
+      "language": "en",
+      "languageLabel": "English",
+      "ageGroup": "adult",
+      "readingLevel": "expert",
+      "gender": "non-binary",
+      "culturalLens": "neutral",
+      "format": "social-media"
+    },
+    "headline": "CEFR B1 mandate: gender-neutral test, gender-blind infrastructure",
+    "body": "The Swedish Migration Agency's CEFR B1 proficiency requirement for permanent residency (March 2027) applies to all non-EU nationals with 3+ years on temporary permits. Testing at SFI centres, exemptions for over-65s, documented learning disabilities, and subsidiary protection refugees. ~34,000 affected.\n\nThe test itself doesn't ask your gender. But the infrastructure around it does — repeatedly. SFI registration forms, support service eligibility, and even classroom groupings often default to binary gender categories. For non-binary people, every institutional touchpoint becomes a site of potential misgendering.\n\nThe policy's silence on gender identity isn't neutrality — it's erasure by omission. Structural inclusion would mean gender-diverse intake processes, trained SFI staff, and complaint mechanisms that recognise non-binary discrimination. Until then, formal equality of the test masks substantive inequality of the system.",
+    "dimensions": {
+      "tone": "Expert critical analysis — structural, incisive, advocacy-oriented",
+      "vocabulary": "Full technical language: 'erasure by omission', 'substantive inequality', 'institutional touchpoint'",
+      "format": "Expert social post: policy facts, systemic critique, concrete demands",
+      "culturalFraming": "Distinguishes between test neutrality and systemic gender-binary encoding"
+    },
+    "changes": [
+      "Retained all technical policy details",
+      "Analysed how SFI infrastructure defaults to binary gender",
+      "Named policy silence on gender identity as 'erasure by omission'",
+      "Listed concrete structural inclusion measures"
+    ],
+    "inclusivityMeta": [
+      { "change": "Named 'erasure by omission' — policy silence on gender identity", "reason": "Not mentioning non-binary people isn't neutral; in binary-default systems it means exclusion" },
+      { "change": "Identified SFI registration forms as defaulting to binary categories", "reason": "Concrete examples of where non-binary people encounter systemic friction in supposedly universal services" },
+      { "change": "Proposed 'gender-diverse intake processes and trained SFI staff'", "reason": "Moves from critique to actionable demands that could be implemented within existing infrastructure" },
+      { "change": "Distinguished 'formal equality of the test' from 'substantive inequality of the system'", "reason": "This distinction is central to understanding how equal rules produce unequal outcomes for marginalised genders" }
+    ],
+    "stats": {
+      "wordCount": 160,
+      "readingLevel": "Expert",
+      "avgSentenceLength": 20
+    }
+  },
+  {
+    "id": "housing-en-senior-expert-non-binary",
+    "sourceId": "housing",
+    "profile": {
+      "language": "en",
+      "languageLabel": "English",
+      "ageGroup": "senior",
+      "readingLevel": "expert",
+      "gender": "non-binary",
+      "culturalLens": "neutral",
+      "format": "social-media"
+    },
+    "headline": "Affordable housing at 70: where age, gender identity, and policy gaps collide",
+    "body": "Stockholm's 2.4B SEK allocation for 3,200 affordable units (Järva, Skärholmen, Farsta) reserves 40% for below-median-income households. Income-linked earmarking replaces lottery allocation. 42,000+ on the queue. Construction Q3 2026, applications January 2027.\n\nFor older non-binary people, this policy sits at a triple intersection: age-related accessibility needs, income constraints from pension systems that may not reflect a full career (especially for those who transitioned later in life), and housing systems that categorise residents by binary gender for everything from shared facilities to next-of-kin documentation.\n\nThe policy is silent on all three intersections. Age-adapted housing provisions are absent. Gender-diverse household recognition is absent. The assumption that income-linking alone creates equity ignores the compounding disadvantages that older non-binary people carry into the housing system.",
+    "dimensions": {
+      "tone": "Expert intersectional analysis — age, gender identity, economic precarity",
+      "vocabulary": "Full policy vocabulary plus intersectional framework: 'triple intersection', 'compounding disadvantages'",
+      "format": "Expert social post: facts, intersectional analysis, policy gap identification",
+      "culturalFraming": "Centres the specific experience of ageing as a non-binary person in binary systems"
+    },
+    "changes": [
+      "Retained full policy data in compressed expert format",
+      "Identified triple intersection of age, gender identity, and income",
+      "Named pension system gaps for people who transitioned later in life",
+      "Highlighted binary categorisation in housing facilities and documentation"
+    ],
+    "inclusivityMeta": [
+      { "change": "Named 'triple intersection' of age, gender identity, and income", "reason": "Intersectional framing reveals compounding disadvantages invisible when each axis is examined separately" },
+      { "change": "Referenced pension gaps for 'those who transitioned later in life'", "reason": "Career interruptions from transition affect lifetime earnings, directly impacting housing affordability in retirement" },
+      { "change": "Identified 'shared facilities and next-of-kin documentation' as binary-encoded", "reason": "Concrete examples show where non-binary seniors encounter systemic exclusion in housing infrastructure" },
+      { "change": "Stated the policy is 'silent on all three intersections'", "reason": "Explicit naming of absence prevents the default assumption that silence equals inclusion" }
+    ],
+    "stats": {
+      "wordCount": 162,
+      "readingLevel": "Expert",
+      "avgSentenceLength": 22
+    }
+  },
+  {
+    "id": "immigration-en-senior-expert-non-binary",
+    "sourceId": "immigration",
+    "profile": {
+      "language": "en",
+      "languageLabel": "English",
+      "ageGroup": "senior",
+      "readingLevel": "expert",
+      "gender": "non-binary",
+      "culturalLens": "neutral",
+      "format": "social-media"
+    },
+    "headline": "Language requirement at 70: the intersection of age exemptions and gender identity erasure",
+    "body": "The CEFR B1 requirement for permanent residency (March 2027) exempts applicants over 65 — which covers many older non-binary people. But the exemption's framing reveals a deeper issue: it treats age as a standalone category, ignoring how gender identity shapes the experience of ageing within immigration systems.\n\nNon-EU nationals with 3+ years on temporary permits are in scope. SFI testing nationwide. ~34,000 affected. Additional exemptions for learning disabilities and subsidiary protection.\n\nFor non-binary seniors who do fall within scope (those under 65), the SFI system presents compounding barriers: binary registration systems, gendered classroom dynamics, and assessment environments designed without gender-diverse people in mind. The age exemption provides relief from the test but not from the system's binary architecture. True inclusion for older non-binary migrants requires both policy protection and infrastructure redesign.",
+    "dimensions": {
+      "tone": "Expert intersectional critique — age, gender identity, migration",
+      "vocabulary": "Full technical language: 'binary architecture', 'compounding barriers', 'infrastructure redesign'",
+      "format": "Expert social post: exemption analysis, systemic critique, inclusion demands",
+      "culturalFraming": "Examines how age exemptions interact with — but don't address — gender identity erasure"
+    },
+    "changes": [
+      "Retained all policy details and exemption categories",
+      "Analysed how age exemptions fail to address gender identity dimensions",
+      "Identified SFI system barriers specific to non-binary seniors",
+      "Distinguished between policy protection and infrastructure redesign"
+    ],
+    "inclusivityMeta": [
+      { "change": "Analysed age exemption as treating 'age as a standalone category'", "reason": "Single-axis exemptions miss how age and gender identity interact to create unique barriers" },
+      { "change": "Named 'binary registration systems and gendered classroom dynamics' in SFI", "reason": "Concrete infrastructure problems that older non-binary people encounter even when the policy itself is neutral" },
+      { "change": "Distinguished 'relief from the test' from 'relief from the system's binary architecture'", "reason": "Exemption from one requirement doesn't address the systemic binary encoding that pervades immigration infrastructure" },
+      { "change": "Called for both 'policy protection and infrastructure redesign'", "reason": "Complete inclusion requires change at both the rule level and the implementation level" }
+    ],
+    "stats": {
+      "wordCount": 165,
+      "readingLevel": "Expert",
+      "avgSentenceLength": 23
+    }
+  }
+]

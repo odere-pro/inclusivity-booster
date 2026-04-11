@@ -29,13 +29,23 @@
 
   <!-- Adapted -->
   <div class="pane pane--adapted" aria-live="polite">
-    <div class="pane__header">
+    <div class="pane__header pane__header--wrap">
       <span class="pane__label pane__label--adapted">Adapted</span>
       <div class="pane__header-stats">
         {#if getSelectedAdaptation()}
-          <StatBadge label="Words" value={getSelectedAdaptation().stats.wordCount} variant="accent" />
-          <StatBadge label="Level" value={getSelectedAdaptation().stats.readingLevel} variant="accent" />
-          <StatBadge label="Lang" value={getSelectedAdaptation().profile.languageLabel} variant="accent" />
+          {@const p = getSelectedAdaptation().profile}
+          {@const s = getSelectedAdaptation().stats}
+          <StatBadge label="Lang" value={p.languageLabel} variant="accent" />
+          <StatBadge label="Level" value={s.readingLevel} variant="accent" />
+          <StatBadge label="Age" value={p.ageGroup.split('-').map(w => w[0].toUpperCase() + w.slice(1)).join(' ')} variant="accent" />
+          <StatBadge label="Gender" value={p.gender[0].toUpperCase() + p.gender.slice(1)} variant="accent" />
+          {#if p.culturalLens}
+            <StatBadge label="Lens" value={p.culturalLens[0].toUpperCase() + p.culturalLens.slice(1)} variant="accent" />
+          {/if}
+          {#if p.format}
+            <StatBadge label="Format" value={p.format.split('-').map(w => w[0].toUpperCase() + w.slice(1)).join(' ')} variant="accent" />
+          {/if}
+          <StatBadge label="Words" value={s.wordCount} variant="accent" />
         {/if}
       </div>
     </div>
@@ -82,8 +92,13 @@
     border-bottom: 1px solid var(--border);
   }
 
+  .pane__header--wrap {
+    flex-wrap: wrap;
+  }
+
   .pane__header-stats {
     display: flex;
+    flex-wrap: wrap;
     gap: 6px;
     overflow-x: auto;
     scrollbar-width: none;

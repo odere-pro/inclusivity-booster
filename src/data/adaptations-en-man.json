@@ -1,0 +1,374 @@
+[
+  {
+    "id": "housing-en-child-simple-man",
+    "sourceId": "housing",
+    "profile": {
+      "language": "en",
+      "languageLabel": "English",
+      "ageGroup": "child",
+      "readingLevel": "simple",
+      "gender": "man"
+    },
+    "headline": "Stockholm is making new homes for lots of families!",
+    "body": "The city of Stockholm is going to build 3,200 new homes. They'll be in places called Järva, Skärholmen, and Farsta. These homes won't cost too much, so more families can afford to live there. Almost half of them are for families who don't have a lot of money.\n\nThey'll start building next year. Did you know over 42,000 families are waiting for a home right now? That's a huge number! It doesn't matter where your family is from — boys and girls from every kind of family can apply.",
+    "dimensions": {
+      "tone": "Friendly and conversational, uses questions to engage the child reader",
+      "vocabulary": "Replaced 'affordable housing units' with 'homes that won't cost too much'",
+      "format": "Short paragraphs, rhetorical question for engagement",
+      "culturalFraming": "Inclusive — 'boys and girls from every kind of family' normalises diversity"
+    },
+    "changes": [
+      "Simplified vocabulary for ages 8-12",
+      "Added rhetorical question for engagement",
+      "Removed all policy jargon",
+      "Used 'every kind of family' to normalise diverse households"
+    ],
+    "inclusivityMeta": [
+      { "change": "Replaced 'affordable housing units' with 'homes that won't cost too much'", "reason": "Policy jargon creates a comprehension barrier that excludes children from civic understanding" },
+      { "change": "Added 'boys and girls from every kind of family can apply'", "reason": "Normalises family diversity — single-parent, blended, same-sex parent, immigrant families are all included" },
+      { "change": "Used 'Did you know..?' rhetorical question", "reason": "Engages boys as active learners rather than passive recipients, fostering civic participation from a young age" },
+      { "change": "Replaced 'median income threshold' with 'families who don't have a lot of money'", "reason": "Removes economic jargon that can make children from lower-income families feel stigmatised" }
+    ],
+    "stats": {
+      "wordCount": 95,
+      "readingLevel": "Simple",
+      "avgSentenceLength": 11
+    }
+  },
+  {
+    "id": "immigration-en-child-simple-man",
+    "sourceId": "immigration",
+    "profile": {
+      "language": "en",
+      "languageLabel": "English",
+      "ageGroup": "child",
+      "readingLevel": "simple",
+      "gender": "man"
+    },
+    "headline": "New rule: adults in Sweden need to learn Swedish",
+    "body": "Sweden has a new rule. Adults who want to live here for a long time need to learn Swedish. In 2027, they'll take a test to show they can speak it.\n\nGood news — kids don't need to take the test! People over 65 or people who find learning really hard don't have to take it either.\n\nAbout 34,000 people will need to do this test. Some adults say it's tricky because they're busy with work all day. But the rule is the same for everyone — dads, mums, uncles, and all grown-ups get the same chance to learn.",
+    "dimensions": {
+      "tone": "Reassuring and matter-of-fact, uses 'good news' framing",
+      "vocabulary": "Replaced 'CEFR B1 proficiency' with 'speak Swedish', 'applicants' with 'adults'",
+      "format": "Short paragraphs, reassurance front-loaded",
+      "culturalFraming": "Inclusive — lists diverse family members, emphasises equal treatment"
+    },
+    "changes": [
+      "Simplified for ages 8-12 comprehension",
+      "Removed all bureaucratic language",
+      "Front-loaded reassurance that kids are exempt",
+      "Listed diverse family members to normalise varied households"
+    ],
+    "inclusivityMeta": [
+      { "change": "Replaced 'permanent residency applicants' with 'adults who want to live here'", "reason": "Legal terminology excludes children from understanding policies that affect their families" },
+      { "change": "Added 'kids don't need to take the test' as immediate reassurance", "reason": "Addresses potential anxiety a boy might feel about tests affecting him or his family members" },
+      { "change": "Listed 'dads, mums, uncles, and all grown-ups'", "reason": "Represents diverse family structures so boys in non-traditional households see their families reflected" },
+      { "change": "Framed the rule as 'the same for everyone'", "reason": "Emphasises fairness and equality, important values for children developing civic understanding" }
+    ],
+    "stats": {
+      "wordCount": 100,
+      "readingLevel": "Simple",
+      "avgSentenceLength": 10
+    }
+  },
+  {
+    "id": "housing-en-teen-standard-man",
+    "sourceId": "housing",
+    "profile": {
+      "language": "en",
+      "languageLabel": "English",
+      "ageGroup": "teen",
+      "readingLevel": "standard",
+      "gender": "man"
+    },
+    "headline": "Stockholm commits 2.4 billion SEK to build affordable homes",
+    "body": "Stockholm City Council has approved spending 2.4 billion SEK over five years to construct 3,200 affordable homes in Järva, Skärholmen, and Farsta. The plan requires 40% of the homes to go to families earning below the median income level.\n\nMore than 42,000 households are currently on the city's housing waiting list. Construction should begin next year, and people can start applying in January 2027. Anyone with a permanent residency permit qualifies — the system doesn't distinguish by nationality or background.\n\nFor teenage boys and young men in these neighbourhoods, stable housing is linked to better outcomes in education and employment. This income-based approach replaces the older lottery system with something designed to be more fair across economic lines.",
+    "dimensions": {
+      "tone": "Direct and informative, treats the teen as a capable reader",
+      "vocabulary": "Uses 'median income level' with context, 'income-based approach' explained",
+      "format": "Three paragraphs: plan details, eligibility, why it matters for young men",
+      "culturalFraming": "Connects housing stability to educational and employment outcomes for young men"
+    },
+    "changes": [
+      "Adapted to standard reading level suitable for teens",
+      "Connected housing to education/employment outcomes relevant to teen boys",
+      "Explained income-based vs lottery allocation in accessible terms",
+      "Maintained all key figures and policy details"
+    ],
+    "inclusivityMeta": [
+      { "change": "Connected stable housing to 'better outcomes in education and employment' for young men", "reason": "Makes policy personally relevant to teen boys who may not see housing as their concern yet" },
+      { "change": "Stated 'the system doesn't distinguish by nationality or background'", "reason": "Counters exclusion narratives that boys in multicultural areas may encounter in media" },
+      { "change": "Explained shift from lottery to income-based allocation", "reason": "Transparency about how fairness is built into the system fosters civic literacy and trust" },
+      { "change": "Replaced 'households earning below the median income threshold' with 'families earning below the median income level'", "reason": "Minor simplification keeps the concept accessible without losing economic precision" }
+    ],
+    "stats": {
+      "wordCount": 140,
+      "readingLevel": "Standard",
+      "avgSentenceLength": 16
+    }
+  },
+  {
+    "id": "immigration-en-teen-standard-man",
+    "sourceId": "immigration",
+    "profile": {
+      "language": "en",
+      "languageLabel": "English",
+      "ageGroup": "teen",
+      "readingLevel": "standard",
+      "gender": "man"
+    },
+    "headline": "Sweden introduces language test for permanent residency",
+    "body": "From March 2027, anyone applying for permanent residency in Sweden must pass a Swedish language test at a conversational level. The tests will be run at SFI (Swedish for Immigrants) centres around the country.\n\nThe requirement applies to non-EU citizens who have been on temporary permits for three or more years. People over 65, those with learning disabilities, and certain refugees are exempt.\n\nRoughly 34,000 current permit holders will be affected. Critics point out that many working adults struggle to find study time — something that affects fathers and other men who may work irregular hours in manual jobs. For teenage boys whose families are navigating the immigration system, understanding these rules can help them support the people around them.",
+    "dimensions": {
+      "tone": "Straightforward and empowering, addresses the teen as an active participant",
+      "vocabulary": "Explains 'CEFR B1' as 'conversational level', 'SFI' expanded in parentheses",
+      "format": "Three clear paragraphs: what, who, why it matters",
+      "culturalFraming": "Frames understanding policy as a way for boys to support their families"
+    },
+    "changes": [
+      "Simplified CEFR B1 to 'conversational level'",
+      "Noted impact on men working irregular hours in manual jobs",
+      "Positioned teen boys as capable of supporting their families through knowledge",
+      "Maintained all factual data"
+    ],
+    "inclusivityMeta": [
+      { "change": "Added that 'fathers and other men who may work irregular hours in manual jobs' are affected", "reason": "Highlights class-based barriers — men in manual labour often lack access to daytime study hours" },
+      { "change": "Framed understanding policy as helping teen boys 'support the people around them'", "reason": "Positions boys as active agents of care and support, challenging stereotypes of male disengagement" },
+      { "change": "Explained SFI acronym fully", "reason": "Acronyms exclude people outside institutional knowledge networks" },
+      { "change": "Listed all exemption groups explicitly", "reason": "Ensures vulnerable populations (elderly, disabled, refugees) are not invisible in policy communication" }
+    ],
+    "stats": {
+      "wordCount": 136,
+      "readingLevel": "Standard",
+      "avgSentenceLength": 16
+    }
+  },
+  {
+    "id": "housing-en-young-adult-standard-man",
+    "sourceId": "housing",
+    "profile": {
+      "language": "en",
+      "languageLabel": "English",
+      "ageGroup": "young-adult",
+      "readingLevel": "standard",
+      "gender": "man",
+      "culturalLens": "neutral",
+      "format": "linkedin"
+    },
+    "headline": "Stockholm's 2.4B SEK housing investment: what it means for young professionals",
+    "body": "Stockholm City Council has voted to invest 2.4 billion SEK over five years in 3,200 new affordable housing units across Järva, Skärholmen, and Farsta. The policy reserves 40% of units for households earning below the median income, shifting from lottery-based to income-linked allocation.\n\nOver 42,000 households are on the waiting list. Construction starts Q3 2026, applications open January 2027. All permanent residents qualify equally, regardless of nationality.\n\nFor young men entering the workforce, housing stability is directly tied to career mobility and financial independence. The income-linked model means your earning level — not luck or connections — determines access. This structural approach could help level the playing field for first-generation residents building their careers in Stockholm.",
+    "dimensions": {
+      "tone": "Professional LinkedIn tone, career-focused framing",
+      "vocabulary": "Uses 'income-linked allocation', 'career mobility' — professional register",
+      "format": "LinkedIn-style article: facts, context, professional relevance",
+      "culturalFraming": "Connects housing to career development and economic independence for young men"
+    },
+    "changes": [
+      "Framed in professional/career context for LinkedIn format",
+      "Connected housing stability to career mobility for young men",
+      "Highlighted meritocratic aspect of income-linked model",
+      "Added first-generation resident framing for inclusivity"
+    ],
+    "inclusivityMeta": [
+      { "change": "Connected housing to 'career mobility and financial independence'", "reason": "Makes housing policy relevant to young men's professional aspirations rather than abstract welfare" },
+      { "change": "Stated 'your earning level — not luck or connections — determines access'", "reason": "Highlights structural fairness, important for men without family wealth or social networks" },
+      { "change": "Added 'first-generation residents building their careers'", "reason": "Acknowledges immigrant-background professionals without othering, normalising diverse career paths" },
+      { "change": "Used 'regardless of nationality'", "reason": "Frames national origin neutrally rather than as a qualifier for eligibility" }
+    ],
+    "stats": {
+      "wordCount": 148,
+      "readingLevel": "Standard",
+      "avgSentenceLength": 17
+    }
+  },
+  {
+    "id": "immigration-en-young-adult-standard-man",
+    "sourceId": "immigration",
+    "profile": {
+      "language": "en",
+      "languageLabel": "English",
+      "ageGroup": "young-adult",
+      "readingLevel": "standard",
+      "gender": "man",
+      "culturalLens": "neutral",
+      "format": "linkedin"
+    },
+    "headline": "New Swedish language requirement for permanent residency: career implications",
+    "body": "Starting March 2027, permanent residency applicants in Sweden must demonstrate conversational Swedish proficiency (CEFR B1). The requirement covers all non-EU nationals with at least three years on temporary permits. Testing takes place at SFI centres nationwide.\n\nExemptions exist for those over 65, people with documented learning disabilities, and refugees with subsidiary protection. Around 34,000 permit holders are within scope.\n\nFor young men building careers in Sweden, language proficiency directly correlates with professional advancement and workplace integration. Critics note that men in physically demanding or shift-based jobs face particular challenges carving out study time. Employer-supported language programmes could bridge this gap — turning the requirement from a barrier into a professional development opportunity.",
+    "dimensions": {
+      "tone": "Professional and solution-oriented, LinkedIn register",
+      "vocabulary": "Uses 'CEFR B1' with explanation, professional development language",
+      "format": "LinkedIn article: rule, scope, professional implications",
+      "culturalFraming": "Frames language learning as professional development, not just compliance"
+    },
+    "changes": [
+      "Framed language requirement through a career development lens",
+      "Highlighted barriers for men in shift-based or physical jobs",
+      "Proposed employer-supported programmes as a constructive solution",
+      "Maintained all policy details and exemptions"
+    ],
+    "inclusivityMeta": [
+      { "change": "Framed language proficiency as correlating with 'professional advancement'", "reason": "Reframes compliance as opportunity — reduces stigma of being 'tested' and positions learning as career investment" },
+      { "change": "Noted barriers for 'men in physically demanding or shift-based jobs'", "reason": "Surfaces class-based barriers that disproportionately affect working-class men" },
+      { "change": "Proposed 'employer-supported language programmes'", "reason": "Shifts responsibility partly to employers, recognising that individual effort alone is insufficient" },
+      { "change": "Explained CEFR B1 parenthetically", "reason": "Technical certification codes exclude readers outside European educational frameworks" }
+    ],
+    "stats": {
+      "wordCount": 140,
+      "readingLevel": "Standard",
+      "avgSentenceLength": 17
+    }
+  },
+  {
+    "id": "housing-en-adult-expert-man",
+    "sourceId": "housing",
+    "profile": {
+      "language": "en",
+      "languageLabel": "English",
+      "ageGroup": "adult",
+      "readingLevel": "expert",
+      "gender": "man",
+      "culturalLens": "neutral",
+      "format": "linkedin"
+    },
+    "headline": "Stockholm's income-linked housing allocation: structural reform or insufficient step?",
+    "body": "Stockholm City Council voted Thursday to allocate 2.4 billion SEK over five years to construct 3,200 affordable housing units across Järva, Skärholmen, and Farsta. The landmark policy mandates that 40% of units be reserved for households earning below the median income threshold, replacing the legacy lottery system with income-linked earmarking.\n\nWith 42,000+ households on the queue, critics contend the allocation addresses barely 8% of current demand. Proponents argue the earmarking mechanism establishes precedent for structural housing reform. Construction begins Q3 2026, applications open January 2027.\n\nThe policy applies equally to all permanent residents regardless of citizenship. For men in mid-career — particularly those supporting families on single incomes — the income threshold model offers greater predictability than lottery-based allocation. However, the policy lacks provisions addressing household composition, potentially disadvantaging single fathers and men in non-traditional caregiving roles.",
+    "dimensions": {
+      "tone": "Expert LinkedIn analysis with structural critique",
+      "vocabulary": "Full policy vocabulary: 'income-linked earmarking', 'legacy lottery system', 'household composition'",
+      "format": "LinkedIn expert piece: reform analysis, data critique, gendered impact",
+      "culturalFraming": "Highlights overlooked challenges for single fathers and male caregivers"
+    },
+    "changes": [
+      "Retained full technical policy language",
+      "Added critique: allocation covers only 8% of demand",
+      "Highlighted gap for single fathers and non-traditional male caregivers",
+      "Maintained balanced proponent/critic perspectives"
+    ],
+    "inclusivityMeta": [
+      { "change": "Highlighted 'single fathers and men in non-traditional caregiving roles'", "reason": "Male caregivers are often invisible in housing policy — naming them challenges the assumption that caregiving is women's domain" },
+      { "change": "Noted policy lacks 'household composition' provisions", "reason": "Income-only criteria can miss single-parent men who have lower effective per-capita income" },
+      { "change": "Quantified allocation as covering 'barely 8% of current demand'", "reason": "Transparency about policy limitations prevents false confidence that inequality is being adequately addressed" },
+      { "change": "Used 'regardless of citizenship'", "reason": "Normalises immigrant residents' equal standing rather than framing it as an exception" }
+    ],
+    "stats": {
+      "wordCount": 165,
+      "readingLevel": "Expert",
+      "avgSentenceLength": 22
+    }
+  },
+  {
+    "id": "immigration-en-adult-expert-man",
+    "sourceId": "immigration",
+    "profile": {
+      "language": "en",
+      "languageLabel": "English",
+      "ageGroup": "adult",
+      "readingLevel": "expert",
+      "gender": "man",
+      "culturalLens": "neutral",
+      "format": "linkedin"
+    },
+    "headline": "CEFR B1 mandate: workforce integration or compliance barrier for working men?",
+    "body": "The Swedish Migration Agency's requirement for CEFR B1 Swedish proficiency — effective March 2027 — applies to all non-EU nationals with three or more years on temporary residence permits. Standardised testing at SFI centres will assess approximately 34,000 current permit holders.\n\nExemptions are granted to applicants over 65, those with documented learning disabilities, and refugees with subsidiary protection status.\n\nLabour market data indicates that men in construction, logistics, and service sectors — industries with high immigrant representation — face the steepest barriers to formal language study due to shift patterns and physical fatigue. The requirement risks creating a two-tier residency system where white-collar workers advance while blue-collar men stall. Employer mandates for on-site language training and study leave provisions could transform this from a compliance hurdle into genuine workforce integration infrastructure.",
+    "dimensions": {
+      "tone": "Expert LinkedIn analysis with class-aware critique",
+      "vocabulary": "Full technical language: 'CEFR B1', 'two-tier residency system', 'workforce integration infrastructure'",
+      "format": "LinkedIn expert piece: policy scope, labour market analysis, structural solutions",
+      "culturalFraming": "Class-conscious — surfaces blue-collar vs white-collar disparity"
+    },
+    "changes": [
+      "Retained all technical policy language",
+      "Added labour market analysis of sector-specific barriers for men",
+      "Named the risk of a 'two-tier residency system'",
+      "Proposed employer mandates as structural solutions"
+    ],
+    "inclusivityMeta": [
+      { "change": "Named 'construction, logistics, and service sectors' as facing steepest barriers", "reason": "Industry-specific analysis reveals class-based inequality hidden behind universal policy language" },
+      { "change": "Identified risk of 'two-tier residency system' (white-collar vs blue-collar)", "reason": "Exposes how formally equal policies can produce unequal outcomes along class lines" },
+      { "change": "Proposed 'on-site language training and study leave provisions'", "reason": "Shifts from individual responsibility to structural support — employers share the integration burden" },
+      { "change": "Used 'industries with high immigrant representation'", "reason": "Acknowledges workforce demographics without stigmatising immigrant labour" }
+    ],
+    "stats": {
+      "wordCount": 158,
+      "readingLevel": "Expert",
+      "avgSentenceLength": 23
+    }
+  },
+  {
+    "id": "housing-en-senior-expert-man",
+    "sourceId": "housing",
+    "profile": {
+      "language": "en",
+      "languageLabel": "English",
+      "ageGroup": "senior",
+      "readingLevel": "expert",
+      "gender": "man",
+      "culturalLens": "neutral",
+      "format": "linkedin"
+    },
+    "headline": "Stockholm's housing allocation: what's missing for ageing men on fixed incomes",
+    "body": "Stockholm City Council's 2.4 billion SEK allocation for 3,200 affordable housing units in Järva, Skärholmen, and Farsta reserves 40% of units for households below the median income threshold. The income-linked earmarking replaces lottery-based allocation — a structural reform with over 42,000 households on the queue.\n\nConstruction commences Q3 2026, applications from January 2027. All permanent residents qualify on equal terms regardless of citizenship status.\n\nFor older men on fixed pensions, the income threshold may qualify them for priority allocation, yet the policy lacks provisions for age-appropriate infrastructure: healthcare proximity, social isolation mitigation, and accessible building design. Retired men — particularly those living alone after widowhood or divorce — represent an under-documented segment of housing-insecure populations. The policy's silence on gendered ageing patterns leaves this group without targeted support.",
+    "dimensions": {
+      "tone": "Expert analytical with gerontological focus on men's ageing",
+      "vocabulary": "Full policy language: 'income-linked earmarking', 'social isolation mitigation', 'gendered ageing patterns'",
+      "format": "LinkedIn expert piece with policy gap analysis for older men",
+      "culturalFraming": "Highlights invisible housing insecurity among older men living alone"
+    },
+    "changes": [
+      "Retained full policy complexity",
+      "Added analysis of missing age-appropriate infrastructure",
+      "Highlighted widowed/divorced older men as under-documented group",
+      "Named social isolation as a housing design concern for men"
+    ],
+    "inclusivityMeta": [
+      { "change": "Named 'retired men living alone after widowhood or divorce' as under-documented", "reason": "Older men's housing insecurity is often invisible because men are assumed to be financially stable" },
+      { "change": "Identified 'social isolation mitigation' as missing from housing design", "reason": "Social isolation disproportionately affects older men and is rarely framed as a housing policy issue" },
+      { "change": "Noted the policy's 'silence on gendered ageing patterns'", "reason": "Gender-neutral policy overlooks that men and women age differently in terms of health, social networks, and housing needs" },
+      { "change": "Highlighted 'accessible building design' as unaddressed", "reason": "Physical accessibility is framed as disability accommodation but is equally crucial for age-related mobility changes" }
+    ],
+    "stats": {
+      "wordCount": 163,
+      "readingLevel": "Expert",
+      "avgSentenceLength": 24
+    }
+  },
+  {
+    "id": "immigration-en-senior-expert-man",
+    "sourceId": "immigration",
+    "profile": {
+      "language": "en",
+      "languageLabel": "English",
+      "ageGroup": "senior",
+      "readingLevel": "expert",
+      "gender": "man",
+      "culturalLens": "neutral",
+      "format": "linkedin"
+    },
+    "headline": "Language proficiency at 60+: the hidden compliance gap for older male permit holders",
+    "body": "The Swedish Migration Agency's CEFR B1 proficiency requirement for permanent residency — effective March 2027 — exempts applicants over 65. However, men aged 60-64 who migrated later in life face a critical compliance gap: still within scope, yet contending with age-related cognitive changes and limited access to formal education pathways.\n\nThe standardised SFI assessment applies to all non-EU nationals with three or more years on temporary permits. Additional exemptions cover learning disabilities and subsidiary protection refugees. An estimated 34,000 permit holders are affected.\n\nData on SFI completion rates shows that men over 60 who previously worked in non-Swedish-language environments have completion rates 35% below the male average. The policy's binary exemption at 65 fails to account for the gradient of language acquisition difficulty. Without intermediate provisions — reduced proficiency thresholds or portfolio-based assessment — older men risk permanent exclusion from residency security.",
+    "dimensions": {
+      "tone": "Expert policy analysis with age-specific focus on men",
+      "vocabulary": "Full technical language: 'compliance gap', 'portfolio-based assessment', 'language acquisition gradient'",
+      "format": "LinkedIn expert piece identifying age-gender policy blind spots",
+      "culturalFraming": "Highlights older men's specific barriers without diminishing other groups' challenges"
+    },
+    "changes": [
+      "Retained all technical terminology",
+      "Identified 60-64 age range as a compliance gap for men",
+      "Added SFI completion rate data for men over 60",
+      "Proposed intermediate provisions (reduced thresholds, portfolio assessment)"
+    ],
+    "inclusivityMeta": [
+      { "change": "Identified men aged 60-64 as facing a 'critical compliance gap'", "reason": "The binary exemption at 65 ignores gradual cognitive and circumstantial changes affecting older men" },
+      { "change": "Added data: men over 60 in non-Swedish workplaces have 35% lower completion rates", "reason": "Evidence-based argument prevents dismissal of older men's barriers as laziness or unwillingness" },
+      { "change": "Proposed 'portfolio-based assessment' as an alternative", "reason": "Multiple assessment pathways accommodate diverse learning histories rather than a one-size-fits-all test" },
+      { "change": "Named 'non-Swedish-language environments' as a factor", "reason": "Acknowledges that workplace segregation by language is a structural issue, not an individual failing" }
+    ],
+    "stats": {
+      "wordCount": 170,
+      "readingLevel": "Expert",
+      "avgSentenceLength": 24
+    }
+  }
+]
