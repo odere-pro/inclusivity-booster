@@ -55,8 +55,17 @@
 
   .persona-bar__chips {
     display: flex;
-    gap: 6px;
-    flex-wrap: wrap;
+    gap: 8px;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    -webkit-overflow-scrolling: touch;
+    padding-bottom: 4px;
+    scrollbar-width: thin;
+    scrollbar-color: var(--border-2) transparent;
+  }
+
+  .persona-bar__chips > :global(*) {
+    scroll-snap-align: start;
   }
 
   .persona-bar__empty {
@@ -65,23 +74,6 @@
     color: var(--text-ui-dim);
     font-style: italic;
     padding: 4px 0;
-  }
-
-  @media (max-width: 768px) {
-    .persona-bar {
-      padding: 2px 12px 8px;
-    }
-
-    .persona-bar__chips {
-      overflow-x: auto;
-      flex-wrap: nowrap;
-      scrollbar-width: none;
-      padding-bottom: 2px;
-    }
-
-    .persona-bar__chips::-webkit-scrollbar {
-      display: none;
-    }
   }
 
   @media (max-width: 480px) {

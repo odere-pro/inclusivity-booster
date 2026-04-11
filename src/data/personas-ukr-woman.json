@@ -1,0 +1,60 @@
+[
+  {
+    "id": "oksana-uk-child-woman",
+    "name": "Oksana",
+    "description": "Ukrainian-speaking child, 9, Hägersten",
+    "avatar": "👧🏽",
+    "gender": "woman",
+    "adaptations": {
+      "housing": "housing-uk-child-simple-woman",
+      "immigration": "immigration-uk-child-simple-woman"
+    }
+  },
+  {
+    "id": "olena-uk-teen-woman",
+    "name": "Olena",
+    "description": "Ukrainian-speaking teenager, 15, Vällingby",
+    "avatar": "👩🏻",
+    "gender": "woman",
+    "adaptations": {
+      "housing": "housing-uk-teen-standard-woman",
+      "immigration": "immigration-uk-teen-standard-woman"
+    }
+  },
+  {
+    "id": "natalia-uk-young-adult-woman",
+    "name": "Natalia",
+    "description": "Ukrainian-speaking young adult, 20, Kungsholmen",
+    "avatar": "👩🏾",
+    "gender": "woman",
+    "format": "article",
+    "adaptations": {
+      "housing": "housing-uk-young-adult-standard-woman",
+      "immigration": "immigration-uk-young-adult-standard-woman"
+    }
+  },
+  {
+    "id": "iryna-uk-adult-woman",
+    "name": "Iryna",
+    "description": "Ukrainian-speaking adult, 31, Rinkeby",
+    "avatar": "👩🏽",
+    "gender": "woman",
+    "format": "article",
+    "adaptations": {
+      "housing": "housing-uk-adult-expert-woman",
+      "immigration": "immigration-uk-adult-expert-woman"
+    }
+  },
+  {
+    "id": "tetiana-uk-senior-woman",
+    "name": "Tetiana",
+    "description": "Ukrainian-speaking senior, 68, Solna",
+    "avatar": "👵🏾",
+    "gender": "woman",
+    "format": "article",
+    "adaptations": {
+      "housing": "housing-uk-senior-expert-woman",
+      "immigration": "immigration-uk-senior-expert-woman"
+    }
+  }
+]

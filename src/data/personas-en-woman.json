@@ -1,0 +1,60 @@
+[
+  {
+    "id": "emma-en-child-woman",
+    "name": "Emma",
+    "description": "English-speaking child, 11, Rinkeby",
+    "avatar": "👧🏽",
+    "gender": "woman",
+    "adaptations": {
+      "housing": "housing-en-child-simple-woman",
+      "immigration": "immigration-en-child-simple-woman"
+    }
+  },
+  {
+    "id": "olivia-en-teen-woman",
+    "name": "Olivia",
+    "description": "English-speaking teenager, 17, Kista",
+    "avatar": "👩🏻",
+    "gender": "woman",
+    "adaptations": {
+      "housing": "housing-en-teen-standard-woman",
+      "immigration": "immigration-en-teen-standard-woman"
+    }
+  },
+  {
+    "id": "sophia-en-young-adult-woman",
+    "name": "Sophia",
+    "description": "English-speaking young adult, 29, Solna",
+    "avatar": "👩🏾",
+    "gender": "woman",
+    "format": "article",
+    "adaptations": {
+      "housing": "housing-en-young-adult-standard-woman",
+      "immigration": "immigration-en-young-adult-standard-woman"
+    }
+  },
+  {
+    "id": "charlotte-en-adult-woman",
+    "name": "Charlotte",
+    "description": "English-speaking adult, 38, Tensta",
+    "avatar": "👩🏽",
+    "gender": "woman",
+    "format": "article",
+    "adaptations": {
+      "housing": "housing-en-adult-expert-woman",
+      "immigration": "immigration-en-adult-expert-woman"
+    }
+  },
+  {
+    "id": "amelia-en-senior-woman",
+    "name": "Amelia",
+    "description": "English-speaking senior, 55, Vällingby",
+    "avatar": "👵🏾",
+    "gender": "woman",
+    "format": "article",
+    "adaptations": {
+      "housing": "housing-en-senior-expert-woman",
+      "immigration": "immigration-en-senior-expert-woman"
+    }
+  }
+]

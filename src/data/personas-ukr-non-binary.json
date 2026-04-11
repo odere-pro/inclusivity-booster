@@ -1,0 +1,38 @@
+[
+  {
+    "id": "sasha-uk-young-adult-non-binary",
+    "name": "Sasha",
+    "description": "Ukrainian-speaking young adult, 27, Östermalm",
+    "avatar": "🧑🏽",
+    "gender": "non-binary",
+    "format": "social-media",
+    "adaptations": {
+      "housing": "housing-uk-young-adult-standard-non-binary",
+      "immigration": "immigration-uk-young-adult-standard-non-binary"
+    }
+  },
+  {
+    "id": "zhenya-uk-adult-non-binary",
+    "name": "Zhenya",
+    "description": "Ukrainian-speaking adult, 35, Kista",
+    "avatar": "🧑🏿",
+    "gender": "non-binary",
+    "format": "social-media",
+    "adaptations": {
+      "housing": "housing-uk-adult-expert-non-binary",
+      "immigration": "immigration-uk-adult-expert-non-binary"
+    }
+  },
+  {
+    "id": "lesya-uk-senior-non-binary",
+    "name": "Lesya",
+    "description": "Ukrainian-speaking senior, 71, Södermalm",
+    "avatar": "🧓🏽",
+    "gender": "non-binary",
+    "format": "social-media",
+    "adaptations": {
+      "housing": "housing-uk-senior-expert-non-binary",
+      "immigration": "immigration-uk-senior-expert-non-binary"
+    }
+  }
+]

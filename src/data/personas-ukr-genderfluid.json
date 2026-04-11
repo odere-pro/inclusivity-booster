@@ -1,0 +1,38 @@
+[
+  {
+    "id": "myroslav-uk-young-adult-genderfluid",
+    "name": "Myroslav",
+    "description": "Ukrainian-speaking young adult, 22, Skärholmen",
+    "avatar": "🧑🏼",
+    "gender": "genderfluid",
+    "format": "newsletter",
+    "adaptations": {
+      "housing": "housing-uk-young-adult-standard-genderfluid",
+      "immigration": "immigration-uk-young-adult-standard-genderfluid"
+    }
+  },
+  {
+    "id": "zlata-uk-adult-genderfluid",
+    "name": "Zlata",
+    "description": "Ukrainian-speaking adult, 49, Nacka",
+    "avatar": "🧑🏻",
+    "gender": "genderfluid",
+    "format": "newsletter",
+    "adaptations": {
+      "housing": "housing-uk-adult-expert-genderfluid",
+      "immigration": "immigration-uk-adult-expert-genderfluid"
+    }
+  },
+  {
+    "id": "svit-uk-senior-genderfluid",
+    "name": "Svit",
+    "description": "Ukrainian-speaking senior, 59, Vasastan",
+    "avatar": "🧓🏻",
+    "gender": "genderfluid",
+    "format": "newsletter",
+    "adaptations": {
+      "housing": "housing-uk-senior-expert-genderfluid",
+      "immigration": "immigration-uk-senior-expert-genderfluid"
+    }
+  }
+]

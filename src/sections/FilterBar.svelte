@@ -1,11 +1,13 @@
 <script>
-  import { getActiveFilters, setFilter, clearFilters, getFilterOptions, getFilteredPersonas } from '../lib/state.svelte.js'
+  import { getActiveFilters, setFilter, clearFilters, getFilterOptions, getFilteredPersonas, personas } from '../lib/state.svelte.js'
 
   const filterMeta = [
     { key: 'language', label: 'Language' },
     { key: 'readingLevel', label: 'Level' },
     { key: 'ageGroup', label: 'Age' },
-    { key: 'culturalLens', label: 'Lens' }
+    { key: 'gender', label: 'Gender' },
+    { key: 'culturalLens', label: 'Lens' },
+    { key: 'format', label: 'Format' }
   ]
 
   let options = getFilterOptions()
@@ -14,18 +16,21 @@
   let matchCount = $derived(getFilteredPersonas().length)
 </script>
 
-<div class="filter-bar">
+<form class="filter-bar" autocomplete="off" onsubmit={(e) => e.preventDefault()}>
   <div class="filter-bar__row">
     {#each filterMeta as fm}
+      {@const val = filters[fm.key] ?? ''}
       <div class="filter-select">
         <select
           aria-label="Filter by {fm.label}"
-          value={filters[fm.key] ?? ''}
+          name="ib-{fm.key}"
+          value={val}
           onchange={(e) => setFilter(fm.key, e.target.value || null)}
+          autocomplete="off"
         >
-          <option value="">{fm.label}</option>
+          <option value="" selected={val === ''}>{fm.label}</option>
           {#each options[fm.key] as opt}
-            <option value={opt.value}>{opt.label}</option>
+            <option value={opt.value} selected={val === opt.value}>{opt.label}</option>
           {/each}
         </select>
       </div>
@@ -35,9 +40,9 @@
     {/if}
   </div>
   {#if activeCount > 0}
-    <span class="filter-bar__count">{matchCount} of 8 readers match</span>
+    <span class="filter-bar__count">{matchCount} of {personas.length} readers match</span>
   {/if}
-</div>
+</form>
 
 <style>
   .filter-bar {

@@ -1,0 +1,374 @@
+[
+  {
+    "id": "housing-en-child-simple-woman",
+    "sourceId": "housing",
+    "profile": {
+      "language": "en",
+      "languageLabel": "English",
+      "ageGroup": "child",
+      "readingLevel": "simple",
+      "gender": "woman"
+    },
+    "headline": "Stockholm is building new homes for families!",
+    "body": "Stockholm is building 3,200 new homes! They will be in Järva, Skärholmen, and Farsta. These homes will cost less money so more families can live there. Almost half the homes will go to families who don't earn a lot.\n\nBuilding starts next year. Right now, over 42,000 families are waiting for a home in Stockholm. That's a really long line! Even if your family comes from another country, you can still apply. Girls and women in every family deserve a safe place to call home.",
+    "dimensions": {
+      "tone": "Friendly and encouraging, uses simple everyday words a child can understand",
+      "vocabulary": "Replaced 'affordable housing units' with 'homes that cost less money'",
+      "format": "Short paragraphs, 2-3 sentences each, exclamation marks for warmth",
+      "culturalFraming": "Inclusive — affirms all families can apply, highlights safety for girls"
+    },
+    "changes": [
+      "Simplified vocabulary for ages 8-12",
+      "Shortened sentences to avg 10 words",
+      "Removed policy jargon entirely",
+      "Added affirming line about girls and women deserving safe homes"
+    ],
+    "inclusivityMeta": [
+      { "change": "Replaced 'affordable housing units' with 'homes that cost less money'", "reason": "Removes policy jargon that excludes younger readers from understanding their rights" },
+      { "change": "Replaced 'households earning below the median income threshold' with 'families who don't earn a lot'", "reason": "Economic concepts reframed so children aren't alienated by adult financial language" },
+      { "change": "Added 'Girls and women in every family deserve a safe place to call home'", "reason": "Affirms the reader's gender identity and right to housing, making her feel seen in the policy" },
+      { "change": "Added 'Even if your family comes from another country, you can still apply'", "reason": "Proactively addresses immigration status anxiety that children in diverse neighbourhoods may feel" }
+    ],
+    "stats": {
+      "wordCount": 92,
+      "readingLevel": "Simple",
+      "avgSentenceLength": 10
+    }
+  },
+  {
+    "id": "immigration-en-child-simple-woman",
+    "sourceId": "immigration",
+    "profile": {
+      "language": "en",
+      "languageLabel": "English",
+      "ageGroup": "child",
+      "readingLevel": "simple",
+      "gender": "woman"
+    },
+    "headline": "New rule: grown-ups need to learn Swedish to stay in Sweden",
+    "body": "There's a new rule in Sweden. If grown-ups want to stay here for a long time, they need to learn to speak Swedish. Starting in 2027, they will take a test to show they can speak Swedish.\n\nBut don't worry — kids like you don't have to take the test! And if someone is over 65 or has trouble learning, they don't have to take it either.\n\nAbout 34,000 people will need to take this test. Some people think it's hard because they work all day and don't have time to study. Everyone — mums, dads, and all grown-ups — gets the same chance.",
+    "dimensions": {
+      "tone": "Reassuring and warm, directly addresses the child reader",
+      "vocabulary": "Replaced 'CEFR B1 proficiency' with 'speak Swedish', 'applicants' with 'grown-ups'",
+      "format": "Short paragraphs with the reassurance placed early",
+      "culturalFraming": "Inclusive — names exemptions, uses 'mums, dads, and all grown-ups' to include diverse families"
+    },
+    "changes": [
+      "Simplified for ages 8-12 reading level",
+      "Removed bureaucratic language entirely",
+      "Added direct reassurance: 'kids like you don't have to take the test'",
+      "Used 'mums, dads, and all grown-ups' to represent diverse family structures"
+    ],
+    "inclusivityMeta": [
+      { "change": "Replaced 'permanent residency applicants' with 'grown-ups who want to stay'", "reason": "Removes legal jargon so a child can understand without feeling excluded from the conversation" },
+      { "change": "Added 'kids like you don't have to take the test'", "reason": "Directly addresses a girl reader's potential anxiety about tests affecting her or her family" },
+      { "change": "Used 'mums, dads, and all grown-ups' instead of gendered assumptions", "reason": "Acknowledges diverse family structures — single mothers, same-sex parents, grandparent carers" },
+      { "change": "Added exemption details for over-65s and those with learning difficulties", "reason": "Normalises different abilities and ages, reducing stigma for children who may have family members in these groups" }
+    ],
+    "stats": {
+      "wordCount": 98,
+      "readingLevel": "Simple",
+      "avgSentenceLength": 11
+    }
+  },
+  {
+    "id": "housing-en-teen-standard-woman",
+    "sourceId": "housing",
+    "profile": {
+      "language": "en",
+      "languageLabel": "English",
+      "ageGroup": "teen",
+      "readingLevel": "standard",
+      "gender": "woman"
+    },
+    "headline": "Stockholm plans 3,200 affordable homes in underserved areas",
+    "body": "Stockholm City Council has approved a plan to build 3,200 new affordable homes across Järva, Skärholmen, and Farsta. The city is spending 2.4 billion SEK over five years on the project, and 40% of the new homes will be reserved for families with lower incomes.\n\nThe housing queue in Stockholm currently has over 42,000 households waiting. Construction is set to begin next year, with applications opening in January 2027. Everyone with a permanent residency permit can apply — your background or nationality doesn't matter.\n\nFor young women growing up in these areas, having access to affordable housing can shape educational and career opportunities. This policy aims to reduce the gap between those who have housing security and those who don't.",
+    "dimensions": {
+      "tone": "Informative but approachable, treats the teen reader as capable",
+      "vocabulary": "Keeps 'affordable homes' but explains 'reserved for lower incomes' in plain terms",
+      "format": "Three paragraphs with clear topic progression: what, who, why it matters",
+      "culturalFraming": "Connects housing policy to young women's opportunities and life chances"
+    },
+    "changes": [
+      "Adapted vocabulary for teen comprehension while retaining some policy terms",
+      "Structured into clear what/who/why paragraphs",
+      "Added relevance framing for young women's futures",
+      "Maintained key figures (2.4B SEK, 3,200 homes, 42,000 queue)"
+    ],
+    "inclusivityMeta": [
+      { "change": "Added framing about housing shaping 'educational and career opportunities' for young women", "reason": "Connects abstract policy to a teen girl's lived experience, making the information personally relevant" },
+      { "change": "Replaced 'households earning below the median income threshold' with 'families with lower incomes'", "reason": "Removes statistical jargon while preserving the economic reality teens need to understand" },
+      { "change": "Added 'your background or nationality doesn't matter'", "reason": "Directly counters potential exclusion anxiety for teens in multicultural neighbourhoods" },
+      { "change": "Framed policy as 'reducing the gap' rather than charity", "reason": "Positions housing as a right rather than a handout, supporting dignity for lower-income families" }
+    ],
+    "stats": {
+      "wordCount": 138,
+      "readingLevel": "Standard",
+      "avgSentenceLength": 16
+    }
+  },
+  {
+    "id": "immigration-en-teen-standard-woman",
+    "sourceId": "immigration",
+    "profile": {
+      "language": "en",
+      "languageLabel": "English",
+      "ageGroup": "teen",
+      "readingLevel": "standard",
+      "gender": "woman"
+    },
+    "headline": "Sweden will require Swedish language skills for permanent residency",
+    "body": "Starting in March 2027, people applying for permanent residency in Sweden will need to prove they can speak Swedish at a conversational level. The test will be given at Swedish language schools (SFI centres) across the country.\n\nThe rule applies to non-EU citizens who have lived in Sweden on temporary permits for at least three years. There are exemptions for people over 65, those with documented learning disabilities, and refugees with subsidiary protection.\n\nAround 34,000 people currently holding permits would be affected. Critics say the requirement is tough for working adults — especially women who may juggle caregiving responsibilities alongside work. Understanding this policy matters for young women whose families may be directly affected.",
+    "dimensions": {
+      "tone": "Clear and informative, respectful of the reader's intelligence",
+      "vocabulary": "Explains 'CEFR B1' as 'conversational level', keeps 'SFI centres' with explanation",
+      "format": "Three paragraphs: rule, exemptions, impact — clear progression",
+      "culturalFraming": "Highlights gendered impact on women balancing caregiving and work"
+    },
+    "changes": [
+      "Translated CEFR B1 to 'conversational level' for accessibility",
+      "Added context about gendered caregiving burden",
+      "Connected policy to the reader's family context",
+      "Preserved all key data points while simplifying structure"
+    ],
+    "inclusivityMeta": [
+      { "change": "Replaced 'CEFR B1 level' with 'conversational level'", "reason": "European framework codes exclude readers unfamiliar with language testing systems" },
+      { "change": "Added note about women juggling 'caregiving responsibilities alongside work'", "reason": "Surfaces the gendered impact — women disproportionately carry care duties, making study time harder" },
+      { "change": "Added 'young women whose families may be directly affected'", "reason": "Connects abstract policy to a teen girl's real-world family situation, validating her stake in the issue" },
+      { "change": "Listed all exemption categories explicitly", "reason": "Ensures vulnerable groups (elderly, disabled, refugees) are visible rather than hidden in legal footnotes" }
+    ],
+    "stats": {
+      "wordCount": 142,
+      "readingLevel": "Standard",
+      "avgSentenceLength": 17
+    }
+  },
+  {
+    "id": "housing-en-young-adult-standard-woman",
+    "sourceId": "housing",
+    "profile": {
+      "language": "en",
+      "languageLabel": "English",
+      "ageGroup": "young-adult",
+      "readingLevel": "standard",
+      "gender": "woman",
+      "culturalLens": "neutral",
+      "format": "article"
+    },
+    "headline": "Stockholm invests 2.4 billion SEK in affordable housing across three districts",
+    "body": "Stockholm City Council has voted to allocate 2.4 billion SEK over five years to build 3,200 new affordable homes in Järva, Skärholmen, and Farsta. Under the policy, 40% of units will be reserved for households earning below the median income.\n\nThe investment comes as over 42,000 households sit on the city's housing queue. Construction begins in Q3 2026, with applications opening January 2027. All residents with permanent residency permits qualify equally, regardless of national origin.\n\nFor young women entering the housing market, the earmarking approach — tying units to income rather than lottery — could provide a more predictable path to independent living. Housing advocates note that women under 30 are disproportionately affected by Stockholm's housing shortage.",
+    "dimensions": {
+      "tone": "Professional article tone, treats reader as an informed young adult",
+      "vocabulary": "Retains 'earmarking approach' and 'median income' with contextual clarity",
+      "format": "Article format with structured paragraphs: facts, context, relevance",
+      "culturalFraming": "Gender-aware — highlights young women's disproportionate housing challenges"
+    },
+    "changes": [
+      "Maintained most policy terminology with inline context",
+      "Added data point about women under 30 and housing shortage",
+      "Framed earmarking as relevant to independent living for young women",
+      "Structured as a professional article"
+    ],
+    "inclusivityMeta": [
+      { "change": "Added that 'women under 30 are disproportionately affected by Stockholm's housing shortage'", "reason": "Makes the gendered housing gap visible through concrete data" },
+      { "change": "Framed earmarking as 'a more predictable path to independent living'", "reason": "Connects policy mechanism to young women's autonomy rather than treating housing as gender-neutral" },
+      { "change": "Used 'regardless of national origin' instead of 'non-Swedish citizens qualify'", "reason": "Frames inclusion positively rather than as an exception, reducing othering of immigrant residents" },
+      { "change": "Preserved income-based allocation detail", "reason": "Transparency about the mechanism helps women assess whether the policy serves lower-income households fairly" }
+    ],
+    "stats": {
+      "wordCount": 148,
+      "readingLevel": "Standard",
+      "avgSentenceLength": 18
+    }
+  },
+  {
+    "id": "immigration-en-young-adult-standard-woman",
+    "sourceId": "immigration",
+    "profile": {
+      "language": "en",
+      "languageLabel": "English",
+      "ageGroup": "young-adult",
+      "readingLevel": "standard",
+      "gender": "woman",
+      "culturalLens": "neutral",
+      "format": "article"
+    },
+    "headline": "New language requirement for permanent residency starts March 2027",
+    "body": "The Swedish Migration Agency has announced that permanent residency applicants must demonstrate Swedish language proficiency at a conversational level (CEFR B1) starting March 2027. The requirement applies to all non-EU nationals who have held temporary residence permits for at least three years.\n\nAssessments will take place at SFI centres nationwide. Exemptions apply to applicants over 65, those with documented learning disabilities, and refugees granted subsidiary protection.\n\nAn estimated 34,000 current permit holders will be affected. Critics highlight that working-age women often face a double burden — balancing employment and family caregiving — leaving limited time for formal language study. Access to flexible study options and childcare support will be critical for ensuring this requirement doesn't disproportionately exclude women.",
+    "dimensions": {
+      "tone": "Analytical article tone with a gender-equity lens",
+      "vocabulary": "Uses 'CEFR B1' with parenthetical explanation, retains policy terms",
+      "format": "Article with three clear sections: rule, process, impact",
+      "culturalFraming": "Highlights gendered double burden of caregiving and study requirements"
+    },
+    "changes": [
+      "Explained CEFR B1 parenthetically as 'conversational level'",
+      "Added analysis of gendered impact on working women",
+      "Mentioned need for childcare support and flexible study",
+      "Maintained all factual data from original"
+    ],
+    "inclusivityMeta": [
+      { "change": "Highlighted 'double burden' of employment and caregiving for women", "reason": "Surfaces structural gender inequality that makes equal compliance harder for women" },
+      { "change": "Added call for 'flexible study options and childcare support'", "reason": "Proposes concrete solutions rather than just stating the problem — empowers readers to advocate" },
+      { "change": "Framed requirement alongside risk of 'disproportionately excluding women'", "reason": "Names the equity risk explicitly so it can be addressed rather than hidden behind neutral language" },
+      { "change": "Explained CEFR B1 as 'conversational level'", "reason": "Technical language testing codes exclude people unfamiliar with European education frameworks" }
+    ],
+    "stats": {
+      "wordCount": 145,
+      "readingLevel": "Standard",
+      "avgSentenceLength": 19
+    }
+  },
+  {
+    "id": "housing-en-adult-expert-woman",
+    "sourceId": "housing",
+    "profile": {
+      "language": "en",
+      "languageLabel": "English",
+      "ageGroup": "adult",
+      "readingLevel": "expert",
+      "gender": "woman",
+      "culturalLens": "neutral",
+      "format": "article"
+    },
+    "headline": "Stockholm allocates 2.4B SEK for affordable housing with income-linked earmarking",
+    "body": "Stockholm City Council voted Thursday to allocate 2.4 billion SEK over five years to construct 3,200 affordable housing units across Järva, Skärholmen, and Farsta. The policy mandates that 40% of units be reserved for households earning below the median income threshold — a structural shift from lottery-based allocation toward income-linked earmarking.\n\nWith over 42,000 households on the city's housing queue, critics argue the allocation remains insufficient. However, proponents contend the earmarking mechanism represents a paradigm change in addressing housing inequality. Construction is slated for Q3 2026, with applications opening January 2027.\n\nGender-disaggregated housing data shows that single mothers and women-headed households face wait times 18% longer than the city average. The policy does not include gender-specific provisions, a gap that housing equality advocates have flagged. Non-Swedish citizens with permanent residency permits qualify on equal terms.",
+    "dimensions": {
+      "tone": "Expert analytical tone with policy critique",
+      "vocabulary": "Full policy vocabulary: 'earmarking', 'median income threshold', 'gender-disaggregated'",
+      "format": "Expert article with policy analysis, data, and critique sections",
+      "culturalFraming": "Gender-analytical — surfaces the absence of gender-specific provisions as a policy gap"
+    },
+    "changes": [
+      "Retained full policy terminology and technical precision",
+      "Added gender-disaggregated housing data on wait times",
+      "Flagged absence of gender-specific provisions as an equity gap",
+      "Maintained critical perspective from both proponents and critics"
+    ],
+    "inclusivityMeta": [
+      { "change": "Added gender-disaggregated data: single mothers face 18% longer wait times", "reason": "Makes invisible gendered inequality in housing visible through concrete data" },
+      { "change": "Flagged 'the policy does not include gender-specific provisions' as a gap", "reason": "Expert readers can assess whether policy adequately addresses structural gender inequality" },
+      { "change": "Used 'women-headed households' alongside 'single mothers'", "reason": "Recognises diverse household structures led by women, not just the single-mother framing" },
+      { "change": "Described shift from 'lottery-based to income-linked earmarking'", "reason": "Lottery systems can mask structural disadvantage; income-linking is more transparent about who benefits" }
+    ],
+    "stats": {
+      "wordCount": 162,
+      "readingLevel": "Expert",
+      "avgSentenceLength": 22
+    }
+  },
+  {
+    "id": "immigration-en-adult-expert-woman",
+    "sourceId": "immigration",
+    "profile": {
+      "language": "en",
+      "languageLabel": "English",
+      "ageGroup": "adult",
+      "readingLevel": "expert",
+      "gender": "woman",
+      "culturalLens": "neutral",
+      "format": "article"
+    },
+    "headline": "Sweden mandates CEFR B1 Swedish proficiency for permanent residency from 2027",
+    "body": "The Swedish Migration Agency announced Friday that permanent residency applicants must demonstrate Swedish language proficiency at CEFR B1 level starting March 2027. The requirement targets all non-EU nationals who have held temporary residence permits for a minimum of three years.\n\nAssessment will be administered through standardised testing at SFI centres nationwide. Exemptions apply to applicants over 65, individuals with documented learning disabilities, and refugees granted subsidiary protection.\n\nAn estimated 34,000 current permit holders fall within scope. Research indicates that women applicants are 2.3 times more likely than men to cite caregiving obligations as a barrier to formal language study. Without targeted provisions — such as subsidised childcare during SFI hours or workplace-integrated language training — the requirement risks creating a gendered bottleneck in the permanent residency pipeline.",
+    "dimensions": {
+      "tone": "Expert policy analysis with research citations and structural critique",
+      "vocabulary": "Full technical vocabulary: 'CEFR B1', 'subsidiary protection', 'gendered bottleneck'",
+      "format": "Expert article with data-driven gender analysis",
+      "culturalFraming": "Structural feminist lens — identifies systemic barriers rather than individual failings"
+    },
+    "changes": [
+      "Retained all technical policy language",
+      "Added research statistic: women 2.3x more likely to cite caregiving barriers",
+      "Proposed concrete structural solutions",
+      "Framed the equity issue as systemic, not individual"
+    ],
+    "inclusivityMeta": [
+      { "change": "Added statistic: women 2.3x more likely to cite caregiving as a study barrier", "reason": "Data-driven evidence surfaces structural gender inequality that neutral policy language hides" },
+      { "change": "Proposed 'subsidised childcare during SFI hours' as a solution", "reason": "Moves beyond problem-identification to actionable policy change that addresses women's barriers" },
+      { "change": "Used 'gendered bottleneck' framing", "reason": "Names the structural mechanism so expert readers can engage with it as a systemic design flaw" },
+      { "change": "Listed all exemption categories explicitly", "reason": "Transparency about who is exempt ensures vulnerable groups aren't erased from policy discourse" }
+    ],
+    "stats": {
+      "wordCount": 155,
+      "readingLevel": "Expert",
+      "avgSentenceLength": 23
+    }
+  },
+  {
+    "id": "housing-en-senior-expert-woman",
+    "sourceId": "housing",
+    "profile": {
+      "language": "en",
+      "languageLabel": "English",
+      "ageGroup": "senior",
+      "readingLevel": "expert",
+      "gender": "woman",
+      "culturalLens": "neutral",
+      "format": "article"
+    },
+    "headline": "Stockholm's 2.4B SEK housing plan: implications for ageing residents",
+    "body": "Stockholm City Council voted Thursday to allocate 2.4 billion SEK over five years for 3,200 affordable housing units in Järva, Skärholmen, and Farsta. The policy reserves 40% of units for households below the median income threshold, prioritising income-linked allocation over the traditional queue-based lottery.\n\nThe initiative addresses a housing queue exceeding 42,000 households. Construction commences Q3 2026, with applications from January 2027. All permanent residents, regardless of citizenship, qualify equally.\n\nNotably absent from the policy are provisions for age-adapted housing — accessibility features, proximity to healthcare, and single-level living options that disproportionately affect older women living alone. With pension-age women representing a growing segment of Stockholm's housing-insecure population, advocates argue the income threshold alone fails to capture the intersectional vulnerabilities of ageing, gender, and economic precarity.",
+    "dimensions": {
+      "tone": "Expert analytical with a focus on age and gender intersectionality",
+      "vocabulary": "Full policy language plus gerontological terms: 'age-adapted housing', 'intersectional vulnerabilities'",
+      "format": "Expert article with critique focused on policy gaps for older women",
+      "culturalFraming": "Intersectional — examines where age, gender, and income interact"
+    },
+    "changes": [
+      "Retained full policy complexity",
+      "Added analysis of missing age-adapted housing provisions",
+      "Highlighted older women's specific vulnerabilities",
+      "Used intersectional framing combining age, gender, and economic precarity"
+    ],
+    "inclusivityMeta": [
+      { "change": "Identified absence of 'age-adapted housing' provisions", "reason": "Older women's specific needs (accessibility, healthcare proximity) are invisible in age-neutral policy" },
+      { "change": "Named 'pension-age women' as a growing housing-insecure group", "reason": "Makes a hidden demographic visible — older women living alone often fall through policy gaps" },
+      { "change": "Used 'intersectional vulnerabilities of ageing, gender, and economic precarity'", "reason": "Frames compounding disadvantages together so they are addressed holistically" },
+      { "change": "Noted 'single-level living options' as a specific need", "reason": "Concrete accessibility requirements demonstrate that 'affordable' alone is not sufficient for inclusion" }
+    ],
+    "stats": {
+      "wordCount": 160,
+      "readingLevel": "Expert",
+      "avgSentenceLength": 24
+    }
+  },
+  {
+    "id": "immigration-en-senior-expert-woman",
+    "sourceId": "immigration",
+    "profile": {
+      "language": "en",
+      "languageLabel": "English",
+      "ageGroup": "senior",
+      "readingLevel": "expert",
+      "gender": "woman",
+      "culturalLens": "neutral",
+      "format": "article"
+    },
+    "headline": "Language proficiency mandate: exemptions and gaps for older women applicants",
+    "body": "The Swedish Migration Agency's new requirement — CEFR B1 Swedish proficiency for permanent residency from March 2027 — includes an exemption for applicants over 65. However, women between 55 and 64 who arrived later in life occupy a policy blind spot: too young for the age exemption, yet facing steeper language acquisition curves compounded by limited workforce participation.\n\nThe standardised assessment at SFI centres applies to all non-EU nationals with at least three years on temporary permits. Additional exemptions cover documented learning disabilities and refugees with subsidiary protection. An estimated 34,000 permit holders are affected.\n\nGender-disaggregated SFI data reveals that women over 55 have a 40% lower pass rate than men in the same bracket, attributable in part to interrupted education histories and domestic labour patterns. Without age-graduated thresholds or alternative assessment pathways, the binary exemption at 65 creates inequitable outcomes for older women navigating the residency system.",
+    "dimensions": {
+      "tone": "Expert policy critique with intersectional age-gender analysis",
+      "vocabulary": "Full technical language: 'age-graduated thresholds', 'language acquisition curves', 'binary exemption'",
+      "format": "Expert article identifying specific policy blind spots",
+      "culturalFraming": "Intersectional feminist lens on age, gender, and migration"
+    },
+    "changes": [
+      "Retained all technical terminology",
+      "Identified the 55-64 age gap as a policy blind spot for women",
+      "Added gender-disaggregated SFI completion rate data",
+      "Proposed age-graduated thresholds as an alternative"
+    ],
+    "inclusivityMeta": [
+      { "change": "Identified 55-64 age range as a 'policy blind spot' for women", "reason": "Binary age exemptions hide the lived reality of older women who don't qualify but face severe barriers" },
+      { "change": "Added data: women over 55 have 40% lower SFI pass rates", "reason": "Evidence-based critique prevents dismissal of gendered age barriers as anecdotal" },
+      { "change": "Named 'interrupted education histories and domestic labour patterns' as causes", "reason": "Connects language barriers to structural gender inequality rather than individual capability" },
+      { "change": "Proposed 'age-graduated thresholds or alternative assessment pathways'", "reason": "Inclusive policy design shouldn't rely on a single binary cutoff that ignores gradual ability changes" }
+    ],
+    "stats": {
+      "wordCount": 168,
+      "readingLevel": "Expert",
+      "avgSentenceLength": 25
+    }
+  }
+]

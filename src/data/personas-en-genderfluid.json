@@ -1,0 +1,38 @@
+[
+  {
+    "id": "ash-en-young-adult-genderfluid",
+    "name": "Ash",
+    "description": "English-speaking young adult, 23, Vasastan",
+    "avatar": "🧑🏼",
+    "gender": "genderfluid",
+    "format": "newsletter",
+    "adaptations": {
+      "housing": "housing-en-young-adult-standard-genderfluid",
+      "immigration": "immigration-en-young-adult-standard-genderfluid"
+    }
+  },
+  {
+    "id": "morgan-en-adult-genderfluid",
+    "name": "Morgan",
+    "description": "English-speaking adult, 33, Bromma",
+    "avatar": "🧑🏻",
+    "gender": "genderfluid",
+    "format": "newsletter",
+    "adaptations": {
+      "housing": "housing-en-adult-expert-genderfluid",
+      "immigration": "immigration-en-adult-expert-genderfluid"
+    }
+  },
+  {
+    "id": "rowan-en-senior-genderfluid",
+    "name": "Rowan",
+    "description": "English-speaking senior, 66, Lidingö",
+    "avatar": "🧓🏻",
+    "gender": "genderfluid",
+    "format": "newsletter",
+    "adaptations": {
+      "housing": "housing-en-senior-expert-genderfluid",
+      "immigration": "immigration-en-senior-expert-genderfluid"
+    }
+  }
+]

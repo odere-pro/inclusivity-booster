@@ -1,0 +1,60 @@
+[
+  {
+    "id": "james-en-child-man",
+    "name": "James",
+    "description": "English-speaking child, 9, Husby",
+    "avatar": "👦🏽",
+    "gender": "man",
+    "adaptations": {
+      "housing": "housing-en-child-simple-man",
+      "immigration": "immigration-en-child-simple-man"
+    }
+  },
+  {
+    "id": "liam-en-teen-man",
+    "name": "Liam",
+    "description": "English-speaking teenager, 15, Nacka",
+    "avatar": "👦🏼",
+    "gender": "man",
+    "adaptations": {
+      "housing": "housing-en-teen-standard-man",
+      "immigration": "immigration-en-teen-standard-man"
+    }
+  },
+  {
+    "id": "noah-en-young-adult-man",
+    "name": "Noah",
+    "description": "English-speaking young adult, 20, Sundbyberg",
+    "avatar": "👨🏼",
+    "gender": "man",
+    "format": "linkedin",
+    "adaptations": {
+      "housing": "housing-en-young-adult-standard-man",
+      "immigration": "immigration-en-young-adult-standard-man"
+    }
+  },
+  {
+    "id": "oliver-en-adult-man",
+    "name": "Oliver",
+    "description": "English-speaking adult, 39, Farsta",
+    "avatar": "👨🏻",
+    "gender": "man",
+    "format": "linkedin",
+    "adaptations": {
+      "housing": "housing-en-adult-expert-man",
+      "immigration": "immigration-en-adult-expert-man"
+    }
+  },
+  {
+    "id": "henry-en-senior-man",
+    "name": "Henry",
+    "description": "English-speaking senior, 65, Hammarby Sjöstad",
+    "avatar": "👴🏼",
+    "gender": "man",
+    "format": "linkedin",
+    "adaptations": {
+      "housing": "housing-en-senior-expert-man",
+      "immigration": "immigration-en-senior-expert-man"
+    }
+  }
+]

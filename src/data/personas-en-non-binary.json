@@ -1,0 +1,38 @@
+[
+  {
+    "id": "river-en-young-adult-non-binary",
+    "name": "River",
+    "description": "English-speaking young adult, 19, Södermalm",
+    "avatar": "🧑🏽",
+    "gender": "non-binary",
+    "format": "social-media",
+    "adaptations": {
+      "housing": "housing-en-young-adult-standard-non-binary",
+      "immigration": "immigration-en-young-adult-standard-non-binary"
+    }
+  },
+  {
+    "id": "alex-en-adult-non-binary",
+    "name": "Alex",
+    "description": "English-speaking adult, 42, Hägersten",
+    "avatar": "🧑🏿",
+    "gender": "non-binary",
+    "format": "social-media",
+    "adaptations": {
+      "housing": "housing-en-adult-expert-non-binary",
+      "immigration": "immigration-en-adult-expert-non-binary"
+    }
+  },
+  {
+    "id": "sam-en-senior-non-binary",
+    "name": "Sam",
+    "description": "English-speaking senior, 70, Kungsholmen",
+    "avatar": "🧓🏽",
+    "gender": "non-binary",
+    "format": "social-media",
+    "adaptations": {
+      "housing": "housing-en-senior-expert-non-binary",
+      "immigration": "immigration-en-senior-expert-non-binary"
+    }
+  }
+]

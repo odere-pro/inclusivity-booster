@@ -1,0 +1,230 @@
+[
+  {
+    "id": "housing-en-young-adult-standard-genderfluid",
+    "sourceId": "housing",
+    "profile": {
+      "language": "en",
+      "languageLabel": "English",
+      "ageGroup": "young-adult",
+      "readingLevel": "standard",
+      "gender": "genderfluid",
+      "culturalLens": "neutral",
+      "format": "newsletter"
+    },
+    "headline": "Stockholm's new affordable housing plan: 3,200 homes, income-based access",
+    "body": "Stockholm City Council approved 2.4 billion SEK over five years for 3,200 affordable homes in Järva, Skärholmen, and Farsta. The key shift: 40% of units will be allocated based on income rather than the old lottery system.\n\nWith 42,000+ households waiting, demand far outstrips supply. Construction starts next year, applications open January 2027. Permanent residents qualify equally regardless of nationality.\n\nFor genderfluid people, housing systems present a specific challenge: forms, interviews, and household assessments often require fixed gender categories. The income-based model is a step forward because it evaluates economic need rather than personal identity. But the application process itself still needs to catch up — gender-inclusive forms and trained housing officers would make the system genuinely accessible.",
+    "dimensions": {
+      "tone": "Newsletter voice — informative, warm, community-oriented",
+      "vocabulary": "Accessible standard language with clear policy terms explained",
+      "format": "Newsletter format: summary, context, community relevance",
+      "culturalFraming": "Highlights how fixed-category systems affect genderfluid applicants"
+    },
+    "changes": [
+      "Adapted to newsletter format with community focus",
+      "Named fixed-category systems as a barrier for genderfluid people",
+      "Affirmed income-based model as identity-neutral progress",
+      "Called for gender-inclusive forms and trained staff"
+    ],
+    "inclusivityMeta": [
+      { "change": "Named 'fixed gender categories' in forms and assessments as a barrier", "reason": "Genderfluid people are uniquely affected by systems that require a single fixed gender answer" },
+      { "change": "Affirmed income-based allocation as evaluating 'economic need rather than personal identity'", "reason": "Highlights how this specific policy mechanism avoids identity-based discrimination" },
+      { "change": "Called for 'gender-inclusive forms and trained housing officers'", "reason": "Concrete, achievable improvements that make existing systems accessible to genderfluid applicants" },
+      { "change": "Used gender-neutral language throughout — no he/she defaults", "reason": "Consistent neutral address validates genderfluid identity without requiring the reader to pick a side" }
+    ],
+    "stats": {
+      "wordCount": 145,
+      "readingLevel": "Standard",
+      "avgSentenceLength": 16
+    }
+  },
+  {
+    "id": "immigration-en-young-adult-standard-genderfluid",
+    "sourceId": "immigration",
+    "profile": {
+      "language": "en",
+      "languageLabel": "English",
+      "ageGroup": "young-adult",
+      "readingLevel": "standard",
+      "gender": "genderfluid",
+      "culturalLens": "neutral",
+      "format": "newsletter"
+    },
+    "headline": "Language requirement update: what genderfluid residents should know",
+    "body": "From March 2027, permanent residency requires conversational Swedish (CEFR B1). The test is at SFI centres for non-EU nationals with 3+ years on temporary permits. Exemptions: over 65, documented learning disabilities, subsidiary protection refugees. ~34,000 people in scope.\n\nThe language test itself is the same for everyone — no gendered components. That's the good part. The challenge is everything around it: SFI enrolment forms often require selecting M or F, classroom environments may not acknowledge gender fluidity, and support services may assume binary identities.\n\nGenderfluid people shouldn't have to navigate misgendering just to access language education. Pushing for SFI centres to adopt inclusive registration and training is just as important as studying for the test itself.",
+    "dimensions": {
+      "tone": "Newsletter voice — supportive, practical, empowering",
+      "vocabulary": "Explains CEFR B1 as 'conversational Swedish', accessible language",
+      "format": "Newsletter: facts, personal relevance, community call to action",
+      "culturalFraming": "Separates test fairness from infrastructure bias — centres genderfluid experience"
+    },
+    "changes": [
+      "Adapted to newsletter format with practical focus",
+      "Separated test neutrality from infrastructure bias",
+      "Named SFI enrolment forms as requiring binary gender selection",
+      "Framed advocacy for inclusive SFI centres as community action"
+    ],
+    "inclusivityMeta": [
+      { "change": "Named 'SFI enrolment forms requiring M or F' as a barrier", "reason": "Binary-only forms force genderfluid people to misidentify themselves to access a public service" },
+      { "change": "Separated test fairness from systemic bias", "reason": "Distinguishing where the system works vs where it fails helps target advocacy effectively" },
+      { "change": "Framed advocacy as 'just as important as studying for the test'", "reason": "Validates genderfluid people's right to inclusive environments, not just equal test access" },
+      { "change": "Used 'genderfluid people shouldn't have to navigate misgendering'", "reason": "Direct, affirming statement that names the problem without hedging — matches the reader's lived experience" }
+    ],
+    "stats": {
+      "wordCount": 138,
+      "readingLevel": "Standard",
+      "avgSentenceLength": 15
+    }
+  },
+  {
+    "id": "housing-en-adult-expert-genderfluid",
+    "sourceId": "housing",
+    "profile": {
+      "language": "en",
+      "languageLabel": "English",
+      "ageGroup": "adult",
+      "readingLevel": "expert",
+      "gender": "genderfluid",
+      "culturalLens": "neutral",
+      "format": "newsletter"
+    },
+    "headline": "Income-linked housing allocation: progress on economics, silence on gender diversity",
+    "body": "Stockholm's 2.4B SEK allocation for 3,200 affordable units (Järva, Skärholmen, Farsta) introduces income-linked earmarking — 40% reserved for below-median-income households, replacing lottery allocation. Over 42,000 households on the queue. Construction Q3 2026, applications January 2027. All permanent residents eligible.\n\nThe income-linked mechanism is gender-identity-neutral by design, which avoids direct discrimination. However, the implementation layer — household registration, cohabitation verification, and income assessment protocols — operates on binary gender infrastructure. Genderfluid people whose legal gender markers may change, or who live in household configurations not recognised by binary frameworks, face administrative friction that income neutrality alone cannot resolve.\n\nA truly inclusive allocation system would decouple household assessment from gender categorisation entirely, evaluating economic need through income data alone rather than through binary-encoded household models.",
+    "dimensions": {
+      "tone": "Expert newsletter analysis — structural, precise, solution-oriented",
+      "vocabulary": "Full policy vocabulary plus gender infrastructure terms: 'binary-encoded household models', 'administrative friction'",
+      "format": "Expert newsletter: policy facts, implementation critique, structural proposal",
+      "culturalFraming": "Analyses how binary infrastructure undermines gender-neutral policy intent"
+    },
+    "changes": [
+      "Retained full policy complexity",
+      "Analysed binary infrastructure in household registration and verification",
+      "Identified legal gender marker changes as creating administrative friction",
+      "Proposed decoupling household assessment from gender categorisation"
+    ],
+    "inclusivityMeta": [
+      { "change": "Identified 'household registration and cohabitation verification' as binary-encoded", "reason": "Implementation-level binary defaults undermine policy-level neutrality for genderfluid residents" },
+      { "change": "Named 'legal gender markers that may change' as a friction point", "reason": "Genderfluid people who update legal markers face administrative inconsistencies across databases" },
+      { "change": "Proposed 'decoupling household assessment from gender categorisation'", "reason": "Structural redesign eliminates the root cause rather than patching individual instances of bias" },
+      { "change": "Distinguished 'gender-identity-neutral by design' from binary implementation", "reason": "This distinction reveals where reform effort should focus: implementation, not policy text" }
+    ],
+    "stats": {
+      "wordCount": 158,
+      "readingLevel": "Expert",
+      "avgSentenceLength": 22
+    }
+  },
+  {
+    "id": "immigration-en-adult-expert-genderfluid",
+    "sourceId": "immigration",
+    "profile": {
+      "language": "en",
+      "languageLabel": "English",
+      "ageGroup": "adult",
+      "readingLevel": "expert",
+      "gender": "genderfluid",
+      "culturalLens": "neutral",
+      "format": "newsletter"
+    },
+    "headline": "CEFR B1 requirement: when gender-neutral testing meets gender-rigid infrastructure",
+    "body": "The Migration Agency's CEFR B1 Swedish proficiency mandate (March 2027) applies to all non-EU nationals with 3+ years on temporary permits. SFI-administered testing, exemptions for over-65s, learning disabilities, and subsidiary protection. ~34,000 in scope.\n\nThe assessment instrument is gender-neutral — no gendered content, no identity-based scoring. However, the SFI registration and tracking system requires a fixed gender marker, creating a systemic mismatch for genderfluid individuals whose identity doesn't conform to a single permanent category.\n\nThis mismatch cascades: enrolment records may conflict with ID documents, attendance tracking may create inconsistencies, and support referrals may default to binary assumptions. The result is that genderfluid people face administrative burden that cisgender applicants never encounter. Structural resolution requires SFI systems to support flexible or non-binary gender markers — a technical change that would cascade positive effects across all non-binary identities.",
+    "dimensions": {
+      "tone": "Expert newsletter critique — systemic, evidence-based, solutions-oriented",
+      "vocabulary": "Full technical language: 'systemic mismatch', 'cascading effects', 'administrative burden'",
+      "format": "Expert newsletter: policy scope, systemic analysis, technical solution",
+      "culturalFraming": "Centres genderfluid experience of administrative systems — identity vs infrastructure"
+    },
+    "changes": [
+      "Retained all policy details",
+      "Traced cascading effects of fixed gender markers through SFI systems",
+      "Named administrative burden as unique to genderfluid/non-binary people",
+      "Proposed flexible gender markers as a technical infrastructure fix"
+    ],
+    "inclusivityMeta": [
+      { "change": "Traced how fixed gender markers 'cascade' through SFI systems", "reason": "Shows that one binary default at registration creates friction at every subsequent touchpoint" },
+      { "change": "Named 'administrative burden that cisgender applicants never encounter'", "reason": "Makes the privilege gap explicit — cisgender people don't experience this friction, so it's invisible to policy designers" },
+      { "change": "Proposed 'flexible or non-binary gender markers' as a technical fix", "reason": "Frames the solution as a systems architecture change, not a policy debate — making it more actionable" },
+      { "change": "Used 'genderfluid individuals whose identity doesn't conform to a single permanent category'", "reason": "Precise definition centres genderfluid experience rather than collapsing it into a generic 'non-binary' category" }
+    ],
+    "stats": {
+      "wordCount": 162,
+      "readingLevel": "Expert",
+      "avgSentenceLength": 22
+    }
+  },
+  {
+    "id": "housing-en-senior-expert-genderfluid",
+    "sourceId": "housing",
+    "profile": {
+      "language": "en",
+      "languageLabel": "English",
+      "ageGroup": "senior",
+      "readingLevel": "expert",
+      "gender": "genderfluid",
+      "culturalLens": "neutral",
+      "format": "newsletter"
+    },
+    "headline": "Affordable housing for older genderfluid residents: policy silence at the intersection",
+    "body": "Stockholm's 2.4B SEK housing investment — 3,200 units in Järva, Skärholmen, and Farsta, 40% income-linked — addresses economic access but is silent on age-adapted and gender-diverse housing needs. 42,000+ on queue. Construction Q3 2026, applications January 2027.\n\nOlder genderfluid people face a compounding set of challenges absent from the policy: age-related accessibility needs that the allocation doesn't address, housing facilities designed around binary gender (shared spaces, emergency contacts, care coordination), and pension incomes that may reflect career disruptions related to gender identity.\n\nThe income threshold may qualify some older genderfluid residents, but the infrastructure assumes a binary, able-bodied, nuclear-family resident. Without explicit provisions for gender-diverse ageing — inclusive facility design, non-binary care protocols, and flexible household definitions — the allocation perpetuates exclusion through omission rather than intent.",
+    "dimensions": {
+      "tone": "Expert newsletter analysis — intersectional, structural, advocacy-oriented",
+      "vocabulary": "Full policy and gerontological vocabulary: 'compounding challenges', 'non-binary care protocols'",
+      "format": "Expert newsletter: data, intersectional gap analysis, structural proposals",
+      "culturalFraming": "Centres the specific intersectional experience of ageing while genderfluid"
+    },
+    "changes": [
+      "Retained full policy data",
+      "Identified three compounding challenges for older genderfluid people",
+      "Named binary assumptions in housing facilities as specific exclusion mechanisms",
+      "Proposed inclusive facility design and non-binary care protocols"
+    ],
+    "inclusivityMeta": [
+      { "change": "Identified 'career disruptions related to gender identity' affecting pensions", "reason": "Genderfluid people's economic history is shaped by identity — pension calculations don't account for this" },
+      { "change": "Named 'shared spaces, emergency contacts, care coordination' as binary-encoded", "reason": "Concrete housing infrastructure examples show where genderfluid seniors encounter daily exclusion" },
+      { "change": "Proposed 'non-binary care protocols and flexible household definitions'", "reason": "Actionable structural changes that address root causes rather than symptoms" },
+      { "change": "Framed exclusion as 'through omission rather than intent'", "reason": "Names the mechanism precisely — policy designers may not be hostile, but their silence produces harm" }
+    ],
+    "stats": {
+      "wordCount": 160,
+      "readingLevel": "Expert",
+      "avgSentenceLength": 23
+    }
+  },
+  {
+    "id": "immigration-en-senior-expert-genderfluid",
+    "sourceId": "immigration",
+    "profile": {
+      "language": "en",
+      "languageLabel": "English",
+      "ageGroup": "senior",
+      "readingLevel": "expert",
+      "gender": "genderfluid",
+      "culturalLens": "neutral",
+      "format": "newsletter"
+    },
+    "headline": "Age exemptions and gender fluidity: where the language mandate falls short for older residents",
+    "body": "The CEFR B1 mandate (March 2027) exempts applicants over 65, which provides relief for many older genderfluid people. But the exemption operates on age alone — it doesn't address the gender-identity friction embedded in SFI and migration systems.\n\nNon-EU nationals with 3+ years on temporary permits are in scope. ~34,000 affected. Exemptions also cover learning disabilities and subsidiary protection refugees.\n\nFor genderfluid seniors under 65, the SFI system compounds age-related learning barriers with gender-identity friction: fixed markers in registration, binary assumptions in classroom settings, and support services unfamiliar with genderfluid identities. The combination of cognitive load from language learning and emotional labour from navigating misgendering creates a burden that single-axis exemptions cannot address. Age-graduated proficiency levels combined with gender-inclusive SFI infrastructure would serve this intersection far more equitably.",
+    "dimensions": {
+      "tone": "Expert newsletter critique — intersectional age-gender analysis",
+      "vocabulary": "Full technical language: 'single-axis exemptions', 'emotional labour', 'cognitive load'",
+      "format": "Expert newsletter: exemption analysis, systemic barriers, intersectional solution",
+      "culturalFraming": "Centres genderfluid seniors' experience of compounding barriers in SFI systems"
+    },
+    "changes": [
+      "Retained all policy details and exemptions",
+      "Analysed how age exemptions fail to address gender-identity friction",
+      "Named cognitive load + emotional labour as compounding barriers",
+      "Proposed age-graduated levels combined with gender-inclusive infrastructure"
+    ],
+    "inclusivityMeta": [
+      { "change": "Named 'emotional labour from navigating misgendering' alongside cognitive learning load", "reason": "Genderfluid seniors carry a double burden — learning difficulty plus identity-based stress" },
+      { "change": "Identified 'single-axis exemptions' as structurally insufficient", "reason": "Age-only exemptions don't account for how age and gender identity compound each other" },
+      { "change": "Proposed 'age-graduated proficiency levels combined with gender-inclusive SFI'", "reason": "Addresses both axes simultaneously rather than creating separate carve-outs that still exclude" },
+      { "change": "Named 'support services unfamiliar with genderfluid identities'", "reason": "Service provider knowledge gaps create barriers even when policy is nominally inclusive" }
+    ],
+    "stats": {
+      "wordCount": 165,
+      "readingLevel": "Expert",
+      "avgSentenceLength": 23
+    }
+  }
+]

@@ -9,6 +9,7 @@
   ]
 
   let isBaseline = $derived(getSelectedPersonaId() === 'default')
+  let inclusivityMeta = $derived(getSelectedAdaptation()?.inclusivityMeta ?? [])
 </script>
 
 {#if getSelectedAdaptation()}
@@ -25,6 +26,20 @@
       {/each}
     </ul>
   </section>
+
+  {#if inclusivityMeta.length > 0}
+    <section class="inclusivity" aria-label="Inclusivity changes and rationale">
+      <h3 class="inclusivity__title">Inclusivity Changes</h3>
+      <ul class="inclusivity__list">
+        {#each inclusivityMeta as entry}
+          <li class="inclusivity__item">
+            <span class="inclusivity__change">{entry.change}</span>
+            <span class="inclusivity__reason">{entry.reason}</span>
+          </li>
+        {/each}
+      </ul>
+    </section>
+  {/if}
 {/if}
 
 <style>
@@ -93,6 +108,53 @@
     color: var(--text-ui-dim);
   }
 
+  /* Inclusivity Changes */
+  .inclusivity {
+    padding: 4px 20px 12px;
+  }
+
+  .inclusivity__title {
+    font-size: 11px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--green-text, #4ade80);
+    margin: 0 0 6px;
+  }
+
+  .inclusivity__list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+  }
+
+  .inclusivity__item {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    padding: 6px 10px;
+    border-radius: 6px;
+    background: rgba(74, 222, 128, 0.06);
+    border-left: 3px solid var(--green-text, #4ade80);
+  }
+
+  .inclusivity__change {
+    font-size: 12px;
+    font-weight: 600;
+    color: var(--text-bright);
+    line-height: 1.4;
+  }
+
+  .inclusivity__reason {
+    font-size: 11px;
+    color: var(--text-ui);
+    line-height: 1.4;
+    font-style: italic;
+  }
+
   @media (max-width: 480px) {
     .changes {
       padding: 6px 8px 10px;
@@ -106,6 +168,14 @@
 
     .changes__label {
       min-width: unset;
+    }
+
+    .inclusivity {
+      padding: 4px 8px 10px;
+    }
+
+    .inclusivity__item {
+      padding: 4px 8px;
     }
   }
 </style>

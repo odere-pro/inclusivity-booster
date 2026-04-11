@@ -1,11 +1,35 @@
 import sources from '../data/sources.json'
-import adaptations from '../data/adaptations.json'
-import personas from '../data/personas.json'
+import adaptEnWoman from '../data/adaptations-en-woman.json'
+import adaptEnMan from '../data/adaptations-en-man.json'
+import adaptEnNonBinary from '../data/adaptations-en-non-binary.json'
+import adaptEnGenderfluid from '../data/adaptations-en-genderfluid.json'
+import adaptUkrWoman from '../data/adaptations-ukr-woman.json'
+import adaptUkrMan from '../data/adaptations-ukr-man.json'
+import adaptUkrNonBinary from '../data/adaptations-ukr-non-binary.json'
+import adaptUkrGenderfluid from '../data/adaptations-ukr-genderfluid.json'
+import enWoman from '../data/personas-en-woman.json'
+import enMan from '../data/personas-en-man.json'
+import enNonBinary from '../data/personas-en-non-binary.json'
+import enGenderfluid from '../data/personas-en-genderfluid.json'
+import ukrWoman from '../data/personas-ukr-woman.json'
+import ukrMan from '../data/personas-ukr-man.json'
+import ukrNonBinary from '../data/personas-ukr-non-binary.json'
+import ukrGenderfluid from '../data/personas-ukr-genderfluid.json'
+
+const adaptations = [
+  ...adaptEnWoman, ...adaptEnMan, ...adaptEnNonBinary, ...adaptEnGenderfluid,
+  ...adaptUkrWoman, ...adaptUkrMan, ...adaptUkrNonBinary, ...adaptUkrGenderfluid
+]
+
+const personas = [
+  ...enWoman, ...enMan, ...enNonBinary, ...enGenderfluid,
+  ...ukrWoman, ...ukrMan, ...ukrNonBinary, ...ukrGenderfluid
+]
 
 const adaptationMap = new Map(adaptations.map(a => [a.id, a]))
 const sourceMap = new Map(sources.map(s => [s.id, s]))
 
-let selectedPersonaId = $state('default')
+let selectedPersonaId = $state(personas[0]?.id ?? 'default')
 let selectedSourceId = $state('housing')
 let activeFilters = $state({})
 
@@ -26,7 +50,7 @@ export function setSelectedSourceId(id) {
 }
 
 export function getSelectedPersona() {
-  return personas.find(p => p.id === selectedPersonaId) ?? personas[personas.length - 1]
+  return personas.find(p => p.id === selectedPersonaId) ?? personas[0]
 }
 
 export function getSelectedSource() {
@@ -85,7 +109,14 @@ export function getFilteredPersonas() {
       if (key === 'language' && profile.language !== value) return false
       if (key === 'readingLevel' && profile.readingLevel !== value) return false
       if (key === 'ageGroup' && profile.ageGroup !== value) return false
-      if (key === 'culturalLens' && profile.culturalLens !== value) return false
+      if (key === 'gender' && profile.gender !== value) return false
+      // child/teen personas lack culturalLens and format — exclude them when those filters are active
+      if (key === 'culturalLens') {
+        if (!profile.culturalLens || profile.culturalLens !== value) return false
+      }
+      if (key === 'format') {
+        if (!profile.format || profile.format !== value) return false
+      }
     }
     return true
   })
@@ -97,7 +128,9 @@ export function getFilterOptions() {
     language: new Map(),
     readingLevel: new Set(),
     ageGroup: new Set(),
-    culturalLens: new Set()
+    culturalLens: new Set(),
+    gender: new Set(),
+    format: new Set()
   }
 
   for (const p of personas) {
@@ -106,14 +139,20 @@ export function getFilterOptions() {
     options.language.set(profile.language, profile.languageLabel)
     options.readingLevel.add(profile.readingLevel)
     options.ageGroup.add(profile.ageGroup)
-    options.culturalLens.add(profile.culturalLens)
+    if (profile.culturalLens) options.culturalLens.add(profile.culturalLens)
+    if (profile.gender) options.gender.add(profile.gender)
+    if (profile.format) options.format.add(profile.format)
   }
+
+  const formatLabel = (v) => v.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ')
 
   return {
     language: [...options.language.entries()].map(([v, l]) => ({ value: v, label: l })),
     readingLevel: [...options.readingLevel].map(v => ({ value: v, label: v.charAt(0).toUpperCase() + v.slice(1) })),
-    ageGroup: [...options.ageGroup].map(v => ({ value: v, label: v.charAt(0).toUpperCase() + v.slice(1) })),
-    culturalLens: [...options.culturalLens].map(v => ({ value: v, label: v.charAt(0).toUpperCase() + v.slice(1) }))
+    ageGroup: [...options.ageGroup].map(v => ({ value: v, label: formatLabel(v) })),
+    culturalLens: [...options.culturalLens].map(v => ({ value: v, label: v.charAt(0).toUpperCase() + v.slice(1) })),
+    gender: [...options.gender].map(v => ({ value: v, label: formatLabel(v) })),
+    format: [...options.format].map(v => ({ value: v, label: formatLabel(v) }))
   }
 }
 

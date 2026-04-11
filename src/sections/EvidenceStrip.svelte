@@ -1,7 +1,7 @@
 <script>
   import { getSelectedSource, getSelectedAdaptation, getSelectedPersonaId } from '../lib/state.svelte.js'
 
-  const readingLevelScale = { 'Simple': 1, 'Standard': 2, 'Advanced': 3, 'Expert': 4 }
+  const readingLevelScale = { 'Simple': 1, 'Standard': 2, 'Expert': 3 }
 
   let source = $derived(getSelectedSource())
   let adaptation = $derived(getSelectedAdaptation())
@@ -47,8 +47,8 @@
         label: 'Reading level',
         original: origLevel,
         adapted: adaptLevel,
-        origPct: (origLevelNum / 4) * 100,
-        adaptPct: (adaptLevelNum / 4) * 100,
+        origPct: (origLevelNum / 3) * 100,
+        adaptPct: (adaptLevelNum / 3) * 100,
         delta: levelDiff === 0 ? 'No change' : `${levelDiff > 0 ? '+' : ''}${levelDiff} ${Math.abs(levelDiff) === 1 ? 'step' : 'steps'}`
       }
     ]
