@@ -11,7 +11,7 @@
   <!-- Original -->
   <div class="pane">
     <div class="pane__header">
-      <span class="pane__label" aria-hidden="true">Original</span>
+      <span class="pane__label">Original</span>
     </div>
     {#if getSelectedSource()}
       <article class="pane__content">
@@ -29,11 +29,11 @@
   <!-- Adapted -->
   <div class="pane pane--adapted" aria-live="polite">
     <div class="pane__header">
-      <span class="pane__label pane__label--adapted" aria-hidden="true">Adapted</span>
+      <span class="pane__label pane__label--adapted">Adapted</span>
     </div>
     {#if getSelectedAdaptation()}
       {#key adaptationKey}
-        <article class="pane__content" in:fade={{ duration: 200 }}>
+        <article class="pane__content" lang={getSelectedAdaptation().profile.language} in:fade={{ duration: 200 }}>
           <h2 class="pane__headline pane__headline--adapted">{getSelectedAdaptation().headline}</h2>
           <div class="pane__body" use:typewriter={{ speed: 10 }}>{getSelectedAdaptation().body}</div>
           <div class="pane__stats">
@@ -157,7 +157,15 @@
     }
 
     .pane-wrapper .pane:first-child {
-      display: none;
+      position: absolute;
+      width: 1px;
+      height: 1px;
+      padding: 0;
+      margin: -1px;
+      overflow: hidden;
+      clip: rect(0, 0, 0, 0);
+      white-space: nowrap;
+      border: 0;
     }
 
     .mobile-original {

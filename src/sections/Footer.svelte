@@ -4,6 +4,7 @@
     target="_blank"
     rel="noopener noreferrer"
     class="footer__link"
+    aria-label="Read the full article on Medium (opens in new tab)"
   >
     Read the full article on Medium
   </a>
@@ -13,6 +14,7 @@
     target="_blank"
     rel="noopener noreferrer"
     class="footer__link"
+    aria-label="GitHub repository (opens in new tab)"
   >
     GitHub
   </a>

@@ -3,10 +3,16 @@ export function typewriter(node, { speed = 12, delay = 0 } = {}) {
   node.textContent = ''
   node.style.visibility = 'visible'
 
+  const prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches
+
   let i = 0
   let timeoutId
 
   function type() {
+    if (prefersReducedMotion) {
+      node.textContent = text
+      return
+    }
     if (i <= text.length) {
       node.textContent = text.slice(0, i)
       i++
@@ -21,6 +27,10 @@ export function typewriter(node, { speed = 12, delay = 0 } = {}) {
       clearTimeout(timeoutId)
       i = 0
       node.textContent = ''
+      if (prefersReducedMotion) {
+        node.textContent = text
+        return
+      }
       timeoutId = setTimeout(() => {
         function typeUpdated() {
           if (i <= text.length) {
