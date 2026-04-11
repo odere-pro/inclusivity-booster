@@ -1,23 +1,8 @@
 <script>
   import PersonaCard from '../components/PersonaCard.svelte'
-  import personas from '../data/personas.json'
-  import { getSelectedPersonaId, setSelectedPersonaId } from '../lib/state.svelte.js'
+  import { getSelectedPersonaId, setSelectedPersonaId, getFilteredPersonas } from '../lib/state.svelte.js'
 
-  const categoryLabels = {
-    language: 'Language',
-    generation: 'Generation',
-    role: 'Role',
-    baseline: 'Baseline'
-  }
-
-  const grouped = Object.groupBy
-    ? Object.groupBy(personas, p => p.category)
-    : personas.reduce((acc, p) => {
-        ;(acc[p.category] ??= []).push(p)
-        return acc
-      }, {})
-
-  const categories = ['language', 'generation', 'role', 'baseline']
+  let filteredPersonas = $derived(getFilteredPersonas())
 
   function handleKeydown(e) {
     const cards = [...e.currentTarget.querySelectorAll('button')]
@@ -47,70 +32,61 @@
 
 <!-- svelte-ignore a11y_no_noninteractive_element_interactions -->
 <div class="persona-bar" role="group" aria-label="Persona selection" onkeydown={handleKeydown}>
-  {#each categories as cat}
-    {#if grouped[cat]?.length}
-      <div class="persona-group">
-        <span class="persona-group__label" id="persona-group-{cat}">{categoryLabels[cat]}</span>
-        <div class="persona-group__cards" role="group" aria-labelledby="persona-group-{cat}">
-          {#each grouped[cat] as persona}
-            <PersonaCard
-              {persona}
-              selected={getSelectedPersonaId() === persona.id}
-              onclick={() => setSelectedPersonaId(persona.id)}
-              tabindex={getSelectedPersonaId() === persona.id ? 0 : -1}
-            />
-          {/each}
-        </div>
-      </div>
-    {/if}
-  {/each}
+  {#if filteredPersonas.length === 0}
+    <p class="persona-bar__empty">No readers match these filters. Try removing a filter.</p>
+  {:else}
+    <div class="persona-bar__chips">
+      {#each filteredPersonas as persona}
+        <PersonaCard
+          {persona}
+          selected={getSelectedPersonaId() === persona.id}
+          onclick={() => setSelectedPersonaId(persona.id)}
+          tabindex={getSelectedPersonaId() === persona.id ? 0 : -1}
+        />
+      {/each}
+    </div>
+  {/if}
 </div>
 
 <style>
   .persona-bar {
-    display: flex;
-    flex-direction: column;
-    gap: 12px;
-    padding: 8px 20px 16px;
+    padding: 2px 20px 10px;
   }
 
-  .persona-group {
+  .persona-bar__chips {
     display: flex;
-    align-items: center;
-    gap: 10px;
+    gap: 6px;
+    flex-wrap: wrap;
   }
 
-  .persona-group__label {
-    font-size: 11px;
-    font-weight: 600;
+  .persona-bar__empty {
+    margin: 0;
+    font-size: 12px;
     color: var(--text-ui-dim);
-    text-transform: uppercase;
-    letter-spacing: 0.06em;
-    min-width: 80px;
-    flex-shrink: 0;
-  }
-
-  .persona-group__cards {
-    display: flex;
-    gap: 8px;
-    overflow-x: auto;
-    padding-bottom: 2px;
-    scrollbar-width: none;
-  }
-
-  .persona-group__cards::-webkit-scrollbar {
-    display: none;
+    font-style: italic;
+    padding: 4px 0;
   }
 
   @media (max-width: 768px) {
-    .persona-group {
-      flex-direction: column;
-      align-items: flex-start;
-      gap: 6px;
+    .persona-bar {
+      padding: 2px 12px 8px;
     }
 
-    .persona-group__label {
-      min-width: unset;
+    .persona-bar__chips {
+      overflow-x: auto;
+      flex-wrap: nowrap;
+      scrollbar-width: none;
+      padding-bottom: 2px;
+    }
+
+    .persona-bar__chips::-webkit-scrollbar {
+      display: none;
+    }
+  }
+
+  @media (max-width: 480px) {
+    .persona-bar {
+      padding: 2px 8px 6px;
     }
   }
 </style>

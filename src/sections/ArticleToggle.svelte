@@ -20,9 +20,16 @@
 <style>
   .article-toggle {
     display: flex;
-    gap: 10px;
+    gap: 8px;
     justify-content: center;
     flex-wrap: wrap;
     padding: 0 20px;
+  }
+
+  @media (max-width: 480px) {
+    .article-toggle {
+      padding: 0 8px;
+      gap: 6px;
+    }
   }
 </style>

@@ -6,7 +6,7 @@
 
 <style>
   .hero {
-    padding: 32px 20px 24px;
+    padding: 16px 20px 10px;
     text-align: center;
   }
 
@@ -18,11 +18,17 @@
 
   .hero__quote p {
     margin: 0;
-    font-size: clamp(18px, 3vw, 26px);
+    font-size: clamp(16px, 3vw, 24px);
     font-weight: 300;
     font-style: italic;
     color: var(--text-bright);
     line-height: 1.5;
     letter-spacing: -0.01em;
+  }
+
+  @media (max-width: 480px) {
+    .hero {
+      padding: 10px 12px 6px;
+    }
   }
 </style>

@@ -17,8 +17,7 @@
     border-radius: 10px;
     background: var(--surface-2);
     border: 1px solid var(--border);
-    min-width: 180px;
-    flex-shrink: 0;
+    min-width: 0;
   }
 
   .ev-card__stat {

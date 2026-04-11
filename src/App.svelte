@@ -1,6 +1,7 @@
 <script>
   import HeroQuote from './sections/HeroQuote.svelte'
   import ArticleToggle from './sections/ArticleToggle.svelte'
+  import FilterBar from './sections/FilterBar.svelte'
   import PersonaBar from './sections/PersonaBar.svelte'
   import ArticlePane from './sections/ArticlePane.svelte'
   import DimensionBreakdown from './sections/DimensionBreakdown.svelte'
@@ -32,14 +33,6 @@
     </div>
     <nav class="app-header__nav">
       <a
-        href="https://medium.com/@alex-derechei"
-        target="_blank"
-        rel="noopener noreferrer"
-        aria-label="About — read on Medium (opens in new tab)"
-      >
-        About
-      </a>
-      <a
         href="https://github.com/odere-pro/inclusivity-booster"
         target="_blank"
         rel="noopener noreferrer"
@@ -53,6 +46,7 @@
   <main id="main-content" class="app-main">
     <HeroQuote />
     <ArticleToggle />
+    <FilterBar />
     <PersonaBar />
     <ArticlePane />
     <DimensionBreakdown />
@@ -69,6 +63,7 @@
     min-height: 100dvh;
     max-width: 1280px;
     margin: 0 auto;
+    overflow-x: hidden;
   }
 
   .app-header {
@@ -109,5 +104,15 @@
     flex-direction: column;
     gap: 4px;
     overflow-y: auto;
+  }
+
+  @media (max-width: 480px) {
+    .app-header {
+      padding: 8px 12px;
+    }
+
+    .app-header__title {
+      font-size: 13px;
+    }
   }
 </style>
