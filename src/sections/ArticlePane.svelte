@@ -2,7 +2,6 @@
   import { fade } from 'svelte/transition'
   import StatBadge from '../components/StatBadge.svelte'
   import { getSelectedSource, getSelectedAdaptation } from '../lib/state.svelte.js'
-  import { typewriter } from '../lib/typewriter.js'
 
   let adaptationKey = $derived(getSelectedAdaptation()?.id ?? '')
 </script>
@@ -35,7 +34,7 @@
       {#key adaptationKey}
         <article class="pane__content" lang={getSelectedAdaptation().profile.language} in:fade={{ duration: 200 }}>
           <h2 class="pane__headline pane__headline--adapted">{getSelectedAdaptation().headline}</h2>
-          <div class="pane__body" use:typewriter={{ speed: 10 }}>{getSelectedAdaptation().body}</div>
+          <div class="pane__body">{getSelectedAdaptation().body}</div>
           <div class="pane__stats">
             <StatBadge icon="\ud83d\udcca" label="words" value={getSelectedAdaptation().stats.wordCount} variant="accent" />
             <StatBadge icon="\ud83c\udf93" label="" value={getSelectedAdaptation().stats.readingLevel} variant="accent" />
