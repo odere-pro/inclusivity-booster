@@ -1,0 +1,26 @@
+[
+  {
+    "id": "housing",
+    "topic": "Housing policy",
+    "headline": "Stockholm allocates 2.4B SEK for affordable housing across Järva, Skärholmen, and Farsta",
+    "body": "Stockholm City Council voted Thursday to allocate 2.4 billion SEK over five years to construct 3,200 new affordable housing units across Järva, Skärholmen, and Farsta. The policy requires that 40% of units be reserved for households earning below the median income threshold. Construction is expected to begin in Q3 2026.\n\nCritics argue the allocation is insufficient given current demand, with over 42,000 households on the city's housing queue. Proponents say the earmarking mechanism — tying units to income thresholds rather than lottery — represents a structural shift in how Stockholm addresses housing inequality.\n\nResidents in affected areas will be eligible to apply starting January 2027. Non-Swedish citizens with permanent residency permits qualify equally.",
+    "metadata": {
+      "wordCount": 118,
+      "readingLevel": "Expert",
+      "language": "en",
+      "avgSentenceLength": 22
+    }
+  },
+  {
+    "id": "immigration",
+    "topic": "Immigration policy",
+    "headline": "Sweden introduces new language requirements for permanent residency applications",
+    "body": "The Swedish Migration Agency announced Friday that permanent residency applicants must demonstrate Swedish language proficiency at CEFR B1 level starting March 2027. The requirement applies to all non-EU nationals who have held temporary residence permits for at least three years.\n\nApplicants will be assessed through a standardised test administered at SFI centres nationwide. Exemptions apply to applicants over 65, those with documented learning disabilities, and refugees granted subsidiary protection.\n\nThe policy aims to support integration outcomes. Critics argue it creates a barrier for working-age adults whose employment leaves limited time for formal study. An estimated 34,000 current permit holders would be affected.",
+    "metadata": {
+      "wordCount": 108,
+      "readingLevel": "Expert",
+      "language": "en",
+      "avgSentenceLength": 21
+    }
+  }
+]
