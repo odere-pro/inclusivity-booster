@@ -1,12 +1,14 @@
 <script>
-  let { persona, selected = false, onclick } = $props()
+  let { persona, selected = false, onclick, tabindex = 0 } = $props()
 </script>
 
 <button
   class="persona-card"
   class:persona-card--selected={selected}
   aria-pressed={selected}
+  aria-label="{persona.name} — {persona.description}"
   onclick={onclick}
+  {tabindex}
 >
   <span class="persona-card__avatar" aria-hidden="true">{persona.avatar}</span>
   <span class="persona-card__info">

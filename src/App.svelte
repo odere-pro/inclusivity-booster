@@ -6,6 +6,14 @@
   import DimensionBreakdown from './sections/DimensionBreakdown.svelte'
   import EvidenceStrip from './sections/EvidenceStrip.svelte'
   import Footer from './sections/Footer.svelte'
+  import { getSelectedPersona, getSelectedAdaptation } from './lib/state.svelte.js'
+
+  let announcement = $state('')
+
+  export function announce(message) {
+    announcement = ''
+    requestAnimationFrame(() => { announcement = message })
+  }
 </script>
 
 <a
@@ -14,6 +22,8 @@
 >
   Skip to main content
 </a>
+
+<div role="status" aria-live="assertive" aria-atomic="true" class="sr-only">{announcement}</div>
 
 <div class="app-shell">
   <header class="app-header">
@@ -25,6 +35,7 @@
         href="https://medium.com/@alex-derechei"
         target="_blank"
         rel="noopener noreferrer"
+        aria-label="About — read on Medium (opens in new tab)"
       >
         About
       </a>
@@ -32,6 +43,7 @@
         href="https://github.com/odere-pro/inclusivity-booster"
         target="_blank"
         rel="noopener noreferrer"
+        aria-label="GitHub repository (opens in new tab)"
       >
         GitHub
       </a>
