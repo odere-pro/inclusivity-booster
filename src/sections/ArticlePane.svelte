@@ -15,7 +15,6 @@
         {#if getSelectedSource()}
           <StatBadge label="Words" value={getSelectedSource().metadata.wordCount} />
           <StatBadge label="Level" value={getSelectedSource().metadata.readingLevel} />
-          <StatBadge label="Lang" value={getSelectedSource().metadata.language.toUpperCase()} />
         {/if}
       </div>
     </div>
@@ -33,19 +32,9 @@
       <span class="pane__label pane__label--adapted">Adapted</span>
       <div class="pane__header-stats">
         {#if getSelectedAdaptation()}
-          {@const p = getSelectedAdaptation().profile}
           {@const s = getSelectedAdaptation().stats}
-          <StatBadge label="Lang" value={p.languageLabel} variant="accent" />
-          <StatBadge label="Level" value={s.readingLevel} variant="accent" />
-          <StatBadge label="Age" value={p.ageGroup.split('-').map(w => w[0].toUpperCase() + w.slice(1)).join(' ')} variant="accent" />
-          <StatBadge label="Gender" value={p.gender[0].toUpperCase() + p.gender.slice(1)} variant="accent" />
-          {#if p.culturalLens}
-            <StatBadge label="Lens" value={p.culturalLens[0].toUpperCase() + p.culturalLens.slice(1)} variant="accent" />
-          {/if}
-          {#if p.format}
-            <StatBadge label="Format" value={p.format.split('-').map(w => w[0].toUpperCase() + w.slice(1)).join(' ')} variant="accent" />
-          {/if}
           <StatBadge label="Words" value={s.wordCount} variant="accent" />
+          <StatBadge label="Level" value={s.readingLevel} variant="accent" />
         {/if}
       </div>
     </div>

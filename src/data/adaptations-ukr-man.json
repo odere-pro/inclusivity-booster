@@ -12,22 +12,22 @@
     "headline": "У Стокгольмі будують нові будинки для родин!",
     "body": "Стокгольм збирається побудувати 3 200 нових будинків! Вони будуть у місцях, що називаються Ярва, Шерхольмен і Фарста. Ці будинки не будуть дуже дорогими, щоб більше родин могли там жити. Майже половина — для родин, які заробляють не так багато.\n\nБудувати почнуть наступного року. Ти знаєш, що більше 42 000 родин зараз чекають на житло? Це дуже багато! Неважливо, звідки твоя родина — хлопчики та дівчатка з будь-якої країни, включаючи Україну, можуть подати заявку.",
     "dimensions": {
-      "tone": "Дружній та розмовний, використовує запитання для залучення",
-      "vocabulary": "Замінено 'доступне житло' на 'будинки, що не дуже дорогі'",
-      "format": "Короткі абзаци, риторичне запитання",
-      "culturalFraming": "Інклюзивний — згадує Україну, підтверджує право хлопчиків та дівчаток подавати заявки"
+      "tone": "Friendly and conversational, uses questions for engagement",
+      "vocabulary": "Replaced 'affordable housing' with 'homes that aren't too expensive'",
+      "format": "Short paragraphs, rhetorical question",
+      "culturalFraming": "Inclusive — mentions Ukraine, confirms boys and girls can apply"
     },
     "changes": [
-      "Спрощена лексика для віку 8-12",
-      "Додано риторичне запитання для залучення",
-      "Видалено жаргон",
-      "Пряме згадування України як батьківщини"
+      "Simplified vocabulary for ages 8-12",
+      "Added rhetorical question for engagement",
+      "Removed jargon",
+      "Direct mention of Ukraine as home country"
     ],
     "inclusivityMeta": [
-      { "change": "Додано 'включаючи Україну' у перелік країн", "reason": "Пряме згадування батьківщини знижує тривогу у хлопчика-переселенця і підтверджує приналежність" },
-      { "change": "Використано 'хлопчики та дівчатка з будь-якої країни'", "reason": "Нормалізує різноманітність сімей — всі діти мають рівне право" },
-      { "change": "Риторичне запитання 'Ти знаєш, що..?'", "reason": "Залучає хлопчиків як активних учасників, а не пасивних отримувачів інформації" },
-      { "change": "Текст українською мовою", "reason": "Рідна мова забезпечує доступність для дітей, які ще не вільно володіють шведською" }
+      { "change": "Added 'including Ukraine' to list of countries", "reason": "Direct mention of home country reduces anxiety for refugee boy and confirms belonging" },
+      { "change": "Used 'boys and girls from any country'", "reason": "Normalizes diverse families — all children have equal rights" },
+      { "change": "Rhetorical question 'Did you know that..?'", "reason": "Engages boys as active participants rather than passive recipients of information" },
+      { "change": "Text in Ukrainian language", "reason": "Native language ensures accessibility for children not yet fluent in Swedish" }
     ],
     "stats": {
       "wordCount": 85,
@@ -48,22 +48,22 @@
     "headline": "Нове правило: дорослим потрібно вивчити шведську",
     "body": "У Швеції є нове правило. Дорослі, які хочуть жити тут довго, мають навчитися говорити шведською. У 2027 році вони складатимуть тест.\n\nГарна новина — дітям не потрібно складати тест! Також люди старше 65 або ті, кому дуже важко вчитися, не мають його складати.\n\nБлизько 34 000 людей мають скласти цей тест. Деякі дорослі кажуть, що це складно, бо вони працюють цілий день. Але правило однакове для всіх — тата, мами, дідусі та всі дорослі з України та інших країн.",
     "dimensions": {
-      "tone": "Заспокійливий, використовує 'гарна новина' для позитивного початку",
-      "vocabulary": "Замінено 'CEFR B1' на 'говорити шведською'",
-      "format": "Короткі абзаци, заспокоєння на початку",
-      "culturalFraming": "Згадує Україну, перераховує різних членів родини включно з дідусями"
+      "tone": "Reassuring, uses 'good news' for a positive start",
+      "vocabulary": "Replaced 'CEFR B1' with 'speak Swedish'",
+      "format": "Short paragraphs, reassurance at the start",
+      "culturalFraming": "Mentions Ukraine, lists different family members including grandparents"
     },
     "changes": [
-      "Спрощено для читачів 8-12 років",
-      "Видалено бюрократичну мову",
-      "Заспокоєння про звільнення дітей від тесту",
-      "Перераховано різних членів сім'ї з Україні"
+      "Simplified for readers 8-12 years old",
+      "Removed bureaucratic language",
+      "Reassurance that children are exempt from the test",
+      "Listed different family members from Ukraine"
     ],
     "inclusivityMeta": [
-      { "change": "Перераховано 'тата, мами, дідусі та всі дорослі'", "reason": "Представляє різні структури сімей — хлопчики з різних родин бачать своїх близьких" },
-      { "change": "Додано 'з України та інших країн'", "reason": "Пряме згадування батьківщини знижує відчуття ізоляції у хлопчика-переселенця" },
-      { "change": "Заспокоєння 'дітям не потрібно' на початку", "reason": "Знімає тривогу, що тест може вплинути на хлопчика або його сім'ю" },
-      { "change": "Текст українською мовою", "reason": "Доступність рідною мовою для дітей, які ще вивчають шведську" }
+      { "change": "Listed 'dads, moms, grandparents and all adults'", "reason": "Represents diverse family structures — boys from different families see their loved ones" },
+      { "change": "Added 'from Ukraine and other countries'", "reason": "Direct mention of home country reduces sense of isolation for refugee boy" },
+      { "change": "Reassurance 'children don't need to' at the start", "reason": "Removes anxiety that the test might affect the boy or his family" },
+      { "change": "Text in Ukrainian language", "reason": "Accessibility in native language for children still learning Swedish" }
     ],
     "stats": {
       "wordCount": 82,
@@ -84,22 +84,22 @@
     "headline": "Стокгольм виділяє 2,4 мільярда крон на будівництво доступного житла",
     "body": "Міська рада Стокгольма затвердила витрати 2,4 мільярда крон протягом п'яти років на будівництво 3 200 доступних квартир у Ярві, Шерхольмені та Фарсті. 40% квартир зарезервовано для родин із доходом нижче медіанного рівня.\n\nПонад 42 000 домогосподарств стоять у черзі на житло. Будівництво починається наступного року, заявки — з січня 2027. Система не розрізняє за національністю — всі з дозволом на постійне проживання мають рівні права.\n\nДля хлопців-підлітків з українських родин стабільне житло напряму пов'язане з можливостями в навчанні та працевлаштуванні. Дохідний підхід замість лотереї означає, що розподіл ґрунтується на реальних потребах, а не на випадковості.",
     "dimensions": {
-      "tone": "Прямий та інформативний, поважає інтелект підлітка",
-      "vocabulary": "Зберігає 'медіанний рівень', пояснює дохідний підхід",
-      "format": "Три абзаци: план, хто може, чому це важливо для хлопців",
-      "culturalFraming": "Пов'язує житло з освітніми можливостями для хлопців з діаспори"
+      "tone": "Direct and informative, respects teenager's intelligence",
+      "vocabulary": "Keeps 'median level', explains income approach",
+      "format": "Three paragraphs: plan, who can apply, why it matters for boys",
+      "culturalFraming": "Connects housing to educational opportunities for diaspora boys"
     },
     "changes": [
-      "Адаптовано для підліткового розуміння",
-      "Пов'язано стабільне житло з навчанням та працевлаштуванням для хлопців",
-      "Пояснено дохідний vs лотерейний підхід",
-      "Діаспорний контекст — 'хлопці з українських родин'"
+      "Adapted for teenage comprehension",
+      "Connected stable housing to education and employment for boys",
+      "Explained income vs lottery approach",
+      "Diaspora context — 'boys from Ukrainian families'"
     ],
     "inclusivityMeta": [
-      { "change": "Звернення до 'хлопців-підлітків з українських родин'", "reason": "Пряме визнання діаспорної ідентичності підтверджує приналежність у новій країні" },
-      { "change": "Пов'язано житло з 'навчанням та працевлаштуванням'", "reason": "Абстрактна політика стає особисто значущою для підлітка-хлопця" },
-      { "change": "Пояснено різницю між лотереєю та дохідним розподілом", "reason": "Прозорість системи формує громадянську грамотність і довіру" },
-      { "change": "Текст українською мовою", "reason": "Забезпечує доступність для підлітків, які краще розуміють рідну мову" }
+      { "change": "Addressed 'teenage boys from Ukrainian families'", "reason": "Direct recognition of diaspora identity confirms belonging in new country" },
+      { "change": "Connected housing to 'education and employment'", "reason": "Abstract policy becomes personally relevant for a teenage boy" },
+      { "change": "Explained difference between lottery and income distribution", "reason": "System transparency builds civic literacy and trust" },
+      { "change": "Text in Ukrainian language", "reason": "Ensures accessibility for teenagers who understand their native language better" }
     ],
     "stats": {
       "wordCount": 122,
@@ -120,22 +120,22 @@
     "headline": "Швеція запроваджує тест зі шведської для постійного проживання",
     "body": "З березня 2027 року всі, хто подає заявку на постійне проживання в Швеції, повинні скласти тест зі шведської на розмовному рівні. Тести проводитимуть у центрах SFI (Шведська для іммігрантів) по всій країні.\n\nВимога стосується громадян поза ЄС з тимчасовими дозволами від трьох років. Люди старше 65, з труднощами у навчанні та деякі біженці звільнені.\n\nБлизько 34 000 власників дозволів підпадають. Критики зазначають, що чоловіки на фізичних роботах з нерегулярним графіком мають особливі труднощі з пошуком часу на навчання. Для хлопців-підлітків з українських сімей розуміння цих правил допомагає підтримати своїх батьків і родичів, яких це стосується.",
     "dimensions": {
-      "tone": "Прямий та наділяючий відповідальністю",
-      "vocabulary": "Пояснено 'CEFR B1' як 'розмовний рівень', 'SFI' розшифровано",
-      "format": "Три абзаци: правило, винятки, вплив",
-      "culturalFraming": "Позиціонує хлопців як здатних підтримати свої родини через знання"
+      "tone": "Direct and empowering",
+      "vocabulary": "Explained 'CEFR B1' as 'conversational level', 'SFI' spelled out",
+      "format": "Three paragraphs: rule, exceptions, impact",
+      "culturalFraming": "Positions boys as capable of supporting their families through knowledge"
     },
     "changes": [
-      "Спрощено CEFR B1 до 'розмовний рівень'",
-      "Виділено бар'єри для чоловіків на фізичних роботах",
-      "Позиціонує підлітків як агентів підтримки для родин",
-      "Діаспорний контекст — 'хлопці з українських сімей'"
+      "Simplified CEFR B1 to 'conversational level'",
+      "Highlighted barriers for men in physical labor",
+      "Positions teenagers as support agents for families",
+      "Diaspora context — 'boys from Ukrainian families'"
     ],
     "inclusivityMeta": [
-      { "change": "Виділено бар'єри для 'чоловіків на фізичних роботах з нерегулярним графіком'", "reason": "Класовий бар'єр — робітники фізичної праці не мають доступу до денних годин для навчання" },
-      { "change": "Позиціонує хлопців як тих, хто може 'підтримати батьків і родичів'", "reason": "Визнає хлопців як активних агентів турботи, а не пасивних спостерігачів" },
-      { "change": "Розшифровано абревіатуру SFI", "reason": "Абревіатури виключають людей без інституційного досвіду" },
-      { "change": "Текст українською мовою", "reason": "Доступність рідною мовою для підлітків із сімей переселенців" }
+      { "change": "Highlighted barriers for 'men in physical labor with irregular schedules'", "reason": "Class barrier — manual workers lack access to daytime study hours" },
+      { "change": "Positions boys as those who can 'support parents and relatives'", "reason": "Recognizes boys as active caregivers, not passive observers" },
+      { "change": "Spelled out SFI abbreviation", "reason": "Abbreviations exclude people without institutional experience" },
+      { "change": "Text in Ukrainian language", "reason": "Accessibility in native language for teenagers from refugee families" }
     ],
     "stats": {
       "wordCount": 120,
@@ -158,22 +158,22 @@
     "headline": "Інвестиція Стокгольма у житло: що це означає для молодих фахівців",
     "body": "Міська рада Стокгольма проголосувала за інвестицію 2,4 мільярда крон протягом п'яти років у 3 200 нових доступних квартир у Ярві, Шерхольмені та Фарсті. 40% одиниць зарезервовано для домогосподарств із доходом нижче медіани.\n\nПонад 42 000 домогосподарств у черзі. Будівництво — третій квартал 2026, заявки — січень 2027. Усі постійні резиденти мають рівні права незалежно від національності.\n\nДля молодих українців, які будують кар'єру в Стокгольмі, житлова стабільність безпосередньо пов'язана з професійною мобільністю. Дохідна модель означає, що ваш рівень заробітку — а не зв'язки чи везіння — визначає доступ. Це може вирівняти можливості для резидентів першого покоління.",
     "dimensions": {
-      "tone": "Професійний LinkedIn стиль, кар'єрний фокус",
-      "vocabulary": "Використовує 'дохідну модель', 'професійну мобільність'",
-      "format": "LinkedIn стаття: факти, контекст, кар'єрне значення",
-      "culturalFraming": "Діаспорний контекст — 'молоді українці' та 'резиденти першого покоління'"
+      "tone": "Professional LinkedIn style, career focus",
+      "vocabulary": "Uses 'income model', 'professional mobility'",
+      "format": "LinkedIn article: facts, context, career significance",
+      "culturalFraming": "Diaspora context — 'young Ukrainians' and 'first-generation residents'"
     },
     "changes": [
-      "Кар'єрний контекст для LinkedIn формату",
-      "Пов'язано житлову стабільність з професійною мобільністю",
-      "Виділено меритократичний аспект дохідної моделі",
-      "Діаспорне звернення до 'молодих українців'"
+      "Career context for LinkedIn format",
+      "Connected housing stability to professional mobility",
+      "Highlighted meritocratic aspect of income model",
+      "Diaspora appeal to 'young Ukrainians'"
     ],
     "inclusivityMeta": [
-      { "change": "Пов'язано житло з 'професійною мобільністю' для молодих українців", "reason": "Житлова політика стає релевантною для кар'єрних прагнень молодих чоловіків з діаспори" },
-      { "change": "Наголошено 'рівень заробітку — а не зв'язки чи везіння'", "reason": "Структурна справедливість важлива для чоловіків без сімейного багатства або соціальних мереж" },
-      { "change": "Згадано 'резидентів першого покоління'", "reason": "Визнає іммігрантів-фахівців без стигматизації, нормалізуючи різні кар'єрні шляхи" },
-      { "change": "Текст українською мовою", "reason": "Професійний зміст доступний рідною мовою" }
+      { "change": "Connected housing to 'professional mobility' for young Ukrainians", "reason": "Housing policy becomes relevant to career aspirations of young diaspora men" },
+      { "change": "Emphasized 'income level — not connections or luck'", "reason": "Structural fairness matters for men without family wealth or social networks" },
+      { "change": "Mentioned 'first-generation residents'", "reason": "Recognizes immigrant professionals without stigmatization, normalizing different career paths" },
+      { "change": "Text in Ukrainian language", "reason": "Professional content accessible in native language" }
     ],
     "stats": {
       "wordCount": 130,
@@ -196,22 +196,22 @@
     "headline": "Мовна вимога для постійного проживання: кар'єрні наслідки",
     "body": "З березня 2027 заявники на постійне проживання мають підтвердити розмовний рівень шведської (CEFR B1). Вимога для громадян поза ЄС з тимчасовими дозволами від трьох років. Тестування в центрах SFI.\n\nВинятки для осіб 65+, з труднощами навчання та біженців із додатковим захистом. ~34 000 у межах дії.\n\nДля молодих українців, які будують кар'єру в Швеції, мовні навички безпосередньо впливають на професійне зростання. Критики відзначають, що чоловіки на фізичних або змінних роботах мають особливі труднощі з навчанням. Програми мовної підтримки від роботодавців могли б перетворити вимогу з бар'єра на можливість професійного розвитку.",
     "dimensions": {
-      "tone": "Професійний та орієнтований на рішення, LinkedIn стиль",
-      "vocabulary": "Використовує 'CEFR B1' з поясненням, професійна лексика",
-      "format": "LinkedIn стаття: правило, обсяг, кар'єрні наслідки",
-      "culturalFraming": "Мовне навчання як професійний розвиток для чоловіків з діаспори"
+      "tone": "Professional and solution-oriented, LinkedIn style",
+      "vocabulary": "Uses 'CEFR B1' with explanation, professional vocabulary",
+      "format": "LinkedIn article: rule, scope, career implications",
+      "culturalFraming": "Language learning as professional development for diaspora men"
     },
     "changes": [
-      "Кар'єрний контекст мовної вимоги",
-      "Виділено бар'єри для чоловіків на фізичних роботах",
-      "Запропоновано програми від роботодавців як рішення",
-      "Діаспорне звернення до 'молодих українців'"
+      "Career context for language requirement",
+      "Highlighted barriers for men in physical labor",
+      "Proposed employer-based programs as solution",
+      "Diaspora appeal to 'young Ukrainians'"
     ],
     "inclusivityMeta": [
-      { "change": "Фреймінг мовної вимоги як 'можливості професійного розвитку'", "reason": "Зменшує стигму тестування, позиціонуючи навчання як кар'єрну інвестицію" },
-      { "change": "Виділено бар'єри для 'чоловіків на фізичних або змінних роботах'", "reason": "Класовий бар'єр, що непропорційно впливає на робітників-чоловіків" },
-      { "change": "Запропоновано 'програми від роботодавців'", "reason": "Перекладає частину відповідальності на роботодавців — індивідуальних зусиль недостатньо" },
-      { "change": "Текст українською мовою", "reason": "Професійний зміст доступний рідною мовою для молодих фахівців" }
+      { "change": "Framing language requirement as 'professional development opportunity'", "reason": "Reduces stigma of testing, positioning learning as career investment" },
+      { "change": "Highlighted barriers for 'men in physical or shift work'", "reason": "Class barrier disproportionately affecting male workers" },
+      { "change": "Proposed 'employer-based programs'", "reason": "Shifts part of responsibility to employers — individual effort is insufficient" },
+      { "change": "Text in Ukrainian language", "reason": "Professional content accessible in native language for young professionals" }
     ],
     "stats": {
       "wordCount": 125,
@@ -234,22 +234,22 @@
     "headline": "Дохідний розподіл житла Стокгольма: структурна реформа чи недостатній крок?",
     "body": "Міська рада Стокгольма виділила 2,4 мільярда крон на 3 200 доступних квартир (Ярва, Шерхольмен, Фарста). 40% зарезервовано для домогосподарств нижче медіанного порогу — структурний перехід від лотереї до дохідного розподілу.\n\nЧерга — 42 000+ домогосподарств, виділення покриває ледве 8% попиту. Будівництво — третій квартал 2026, заявки — січень 2027.\n\nДля чоловіків-переселенців з України, які утримують родини на одному доході, дохідна модель надає більшу передбачуваність, ніж лотерея. Проте політика не враховує склад домогосподарства — одинокі батьки та чоловіки у нетрадиційних ролях опікунів потенційно опиняються в гіршій позиції. Війна та міграція створили нові моделі домогосподарств, які бінарні категорії політики не охоплюють.",
     "dimensions": {
-      "tone": "Експертний LinkedIn аналіз з діаспорним контекстом",
-      "vocabulary": "Повна термінологія: 'дохідний розподіл', 'склад домогосподарства'",
-      "format": "LinkedIn експертна стаття: реформа, критика, діаспорна специфіка",
-      "culturalFraming": "Війна та міграція як контекст нових моделей домогосподарств"
+      "tone": "Expert LinkedIn analysis with diaspora context",
+      "vocabulary": "Full terminology: 'income distribution', 'household composition'",
+      "format": "LinkedIn expert article: reform, critique, diaspora specifics",
+      "culturalFraming": "War and migration as context for new household models"
     },
     "changes": [
-      "Збережено технічну складність",
-      "Кількісна критика: покриття ледве 8% попиту",
-      "Виділено одиноких батьків-чоловіків як невидиму групу",
-      "Контекст війни — нові моделі домогосподарств"
+      "Technical complexity preserved",
+      "Quantitative critique: coverage barely 8% of demand",
+      "Highlighted single fathers as invisible group",
+      "War context — new household models"
     ],
     "inclusivityMeta": [
-      { "change": "Виділено 'одиноких батьків та чоловіків у нетрадиційних ролях опікунів'", "reason": "Чоловіки-опікуни невидимі у житловій політиці — називання їх кидає виклик гендерним стереотипам" },
-      { "change": "Згадано 'нові моделі домогосподарств' через війну та міграцію", "reason": "Війна зруйнувала традиційні сімейні структури — політика має відображати нову реальність" },
-      { "change": "Кількісна критика: 'ледве 8% попиту'", "reason": "Прозорість обмежень запобігає хибній впевненості у вирішенні нерівності" },
-      { "change": "Текст українською мовою", "reason": "Експертний аналіз доступний без мовного бар'єру" }
+      { "change": "Highlighted 'single fathers and men in non-traditional caregiver roles'", "reason": "Male caregivers are invisible in housing policy — naming them challenges gender stereotypes" },
+      { "change": "Mentioned 'new household models' from war and migration", "reason": "War disrupted traditional family structures — policy must reflect new reality" },
+      { "change": "Quantitative critique: 'barely 8% of demand'", "reason": "Transparency about limitations prevents false confidence that inequality has been resolved" },
+      { "change": "Text in Ukrainian language", "reason": "Expert analysis accessible without language barrier" }
     ],
     "stats": {
       "wordCount": 148,
@@ -272,22 +272,22 @@
     "headline": "Вимога CEFR B1: інтеграція чи бар'єр для працюючих чоловіків-переселенців?",
     "body": "Вимога Міграційного агентства щодо CEFR B1 (березень 2027) стосується всіх громадян поза ЄС з 3+ роками на тимчасових дозволах. Тестування SFI, ~34 000 підпадають. Винятки: 65+, труднощі навчання, додатковий захист.\n\nДані ринку праці показують, що чоловіки у будівництві, логістиці та сфері обслуговування — галузях з високим представництвом іммігрантів — мають найвищі бар'єри для формального навчання через змінний графік і фізичну втому.\n\nДля українських чоловіків-переселенців ці бар'єри посилюються: багато хто працює на кількох роботах для утримання родини, одночасно адаптуючись до нової країни. Вимога ризикує створити двоярусну систему проживання. Мовні програми на робочому місці та право на навчальну відпустку могли б перетворити бар'єр на інфраструктуру інтеграції.",
     "dimensions": {
-      "tone": "Експертний LinkedIn аналіз з класовою та діаспорною перспективою",
-      "vocabulary": "Повна технічна мова: 'CEFR B1', 'двоярусна система', 'інфраструктура інтеграції'",
-      "format": "LinkedIn експертна стаття: обсяг, аналіз ринку праці, рішення",
-      "culturalFraming": "Класовий та діаспорний контекст — кілька робіт та адаптація"
+      "tone": "Expert LinkedIn analysis with class and diaspora perspective",
+      "vocabulary": "Full technical language: 'CEFR B1', 'two-tier system', 'integration infrastructure'",
+      "format": "LinkedIn expert article: scope, labor market analysis, solutions",
+      "culturalFraming": "Class and diaspora context — multiple jobs and adaptation"
     },
     "changes": [
-      "Збережено технічну мову",
-      "Аналіз секторних бар'єрів для чоловіків",
-      "Контекст українських переселенців — кілька робіт",
-      "Запропоновано мовні програми на робочому місці"
+      "Technical language preserved",
+      "Sector-specific barrier analysis for men",
+      "Ukrainian refugee context — multiple jobs",
+      "Proposed workplace language programs"
     ],
     "inclusivityMeta": [
-      { "change": "Виділено 'будівництво, логістику та сферу обслуговування' як галузі з найвищими бар'єрами", "reason": "Секторний аналіз розкриває класову нерівність, приховану за універсальною політикою" },
-      { "change": "Контекст 'кількох робіт для утримання родини'", "reason": "Специфіка чоловіків-переселенців — подвійне навантаження роботи та адаптації" },
-      { "change": "Визначено ризик 'двоярусної системи проживання'", "reason": "Показує, як формально рівна політика створює нерівні результати за класовою ознакою" },
-      { "change": "Текст українською мовою", "reason": "Експертний зміст доступний рідною мовою" }
+      { "change": "Highlighted 'construction, logistics, and service industries' as highest-barrier sectors", "reason": "Sectoral analysis reveals class inequality hidden behind universal policy" },
+      { "change": "Context of 'multiple jobs to support family'", "reason": "Male refugee specifics — double burden of work and adaptation" },
+      { "change": "Identified risk of 'two-tier residency system'", "reason": "Shows how formally equal policy creates unequal outcomes along class lines" },
+      { "change": "Text in Ukrainian language", "reason": "Expert content accessible in native language" }
     ],
     "stats": {
       "wordCount": 148,
@@ -310,22 +310,22 @@
     "headline": "Житлова політика Стокгольма: що відсутнє для літніх чоловіків-переселенців",
     "body": "Виділення 2,4 мільярда крон на 3 200 квартир (Ярва, Шерхольмен, Фарста), 40% за дохідним критерієм. Дохідний розподіл замість лотереї. 42 000+ у черзі. Будівництво — третій квартал 2026.\n\nДля літніх чоловіків на фіксованих пенсіях дохідний поріг може кваліфікувати їх, але політика не передбачає інфраструктуру для старіння: близькість до медичних закладів, протидію соціальній ізоляції, доступний дизайн будівель.\n\nЛітні українські чоловіки-переселенці — особливо ті, хто приїхав без родини або розлучений з нею через війну — представляють недодокументований сегмент. Соціальна ізоляція непропорційно впливає на літніх чоловіків і рідко розглядається як питання житлової політики. Мовчання політики щодо гендерних моделей старіння залишає цю групу без цільової підтримки.",
     "dimensions": {
-      "tone": "Експертний аналіз з геронтологічним фокусом на чоловіків",
-      "vocabulary": "Повна термінологія: 'дохідний розподіл', 'протидія соціальній ізоляції'",
-      "format": "LinkedIn експертна стаття: прогалини для літніх чоловіків-переселенців",
-      "culturalFraming": "Діаспорна перспектива — розлука з родиною через війну"
+      "tone": "Expert analysis with gerontological focus on men",
+      "vocabulary": "Full terminology: 'income distribution', 'combating social isolation'",
+      "format": "LinkedIn expert article: gaps for senior male refugees",
+      "culturalFraming": "Diaspora perspective — family separation due to war"
     },
     "changes": [
-      "Збережено технічну складність",
-      "Виділено відсутність інфраструктури для старіння",
-      "Згадано розлуку з родиною через війну",
-      "Соціальна ізоляція як питання житлової політики для чоловіків"
+      "Technical complexity preserved",
+      "Highlighted absence of aging infrastructure",
+      "Mentioned family separation due to war",
+      "Social isolation as a housing policy issue for men"
     ],
     "inclusivityMeta": [
-      { "change": "Згадано 'літніх чоловіків, які приїхали без родини через війну'", "reason": "Вимушена розлука з родиною створює унікальну вразливість для літніх чоловіків-переселенців" },
-      { "change": "Виділено соціальну ізоляцію як питання житлової політики", "reason": "Ізоляція непропорційно впливає на літніх чоловіків і рідко визнається в контексті житла" },
-      { "change": "Згадано 'недодокументований сегмент'", "reason": "Невидимість літніх чоловіків у даних означає невидимість у політиці" },
-      { "change": "Текст українською мовою", "reason": "Критична інформація доступна літнім чоловікам без мовного бар'єру" }
+      { "change": "Mentioned 'senior men who arrived without family due to war'", "reason": "Forced family separation creates unique vulnerability for senior male refugees" },
+      { "change": "Highlighted social isolation as a housing policy issue", "reason": "Isolation disproportionately affects senior men and is rarely recognized in housing context" },
+      { "change": "Mentioned 'underdocumented segment'", "reason": "Invisibility of senior men in data means invisibility in policy" },
+      { "change": "Text in Ukrainian language", "reason": "Critical information accessible to senior men without language barrier" }
     ],
     "stats": {
       "wordCount": 152,
@@ -348,22 +348,22 @@
     "headline": "Мовна вимога для 60+: прихована прогалина для літніх чоловіків-переселенців",
     "body": "Вимога CEFR B1 (березень 2027) звільняє заявників 65+. Але чоловіки 60-64, які мігрували пізніше в житті, опиняються в критичній прогалині: все ще у межах дії, але з віковими когнітивними змінами та обмеженим доступом до формальної освіти.\n\nТестування SFI для громадян поза ЄС з 3+ роками. ~34 000 підпадають. Додаткові винятки: труднощі навчання, додатковий захист.\n\nДля літніх українських чоловіків, які працювали в неангломовному/нешведськомовному середовищі, показники складання на 35% нижчі за середній. Війна та пізня міграція посилюють бар'єри — багато хто не мав можливості вивчати шведську до переїзду. Без поступових порогів або портфельної оцінки бінарне звільнення у 65 створює нерівність для старших чоловіків-переселенців.",
     "dimensions": {
-      "tone": "Експертна критика з віково-гендерним фокусом",
-      "vocabulary": "Повна технічна мова: 'когнітивні зміни', 'портфельна оцінка'",
-      "format": "LinkedIn експертна стаття: прогалина, дані, діаспорний контекст",
-      "culturalFraming": "Діаспорна перспектива — пізня міграція та війна як додаткові фактори"
+      "tone": "Expert critique with age-gender focus",
+      "vocabulary": "Full technical language: 'cognitive changes', 'portfolio assessment'",
+      "format": "LinkedIn expert article: gap, data, diaspora context",
+      "culturalFraming": "Diaspora perspective — late migration and war as additional factors"
     },
     "changes": [
-      "Збережено технічну термінологію",
-      "Виявлено прогалину 60-64 для чоловіків",
-      "Контекст війни та пізньої міграції",
-      "Запропоновано поступові пороги та портфельну оцінку"
+      "Technical terminology preserved",
+      "Identified 60-64 gap for men",
+      "War and late migration context",
+      "Proposed graduated thresholds and portfolio assessment"
     ],
     "inclusivityMeta": [
-      { "change": "Виявлено прогалину для чоловіків 60-64", "reason": "Бінарне звільнення у 65 ігнорує когнітивні та обставинні бар'єри літніх чоловіків" },
-      { "change": "Контекст 'війни та пізньої міграції' як додаткових бар'єрів", "reason": "Специфіка українських переселенців — відсутність попереднього контакту зі шведською" },
-      { "change": "Дані: на 35% нижчі показники складання", "reason": "Доказова база запобігає відкиданню вікових бар'єрів як небажання вчитися" },
-      { "change": "Текст українською мовою", "reason": "Критична інформація доступна літнім чоловікам рідною мовою" }
+      { "change": "Identified gap for men aged 60-64", "reason": "Binary exemption at 65 ignores cognitive and circumstantial barriers for older men" },
+      { "change": "Context of 'war and late migration' as additional barriers", "reason": "Ukrainian refugee specifics — no prior contact with Swedish language" },
+      { "change": "Data: 35% lower pass rates", "reason": "Evidence base prevents dismissing age barriers as unwillingness to learn" },
+      { "change": "Text in Ukrainian language", "reason": "Critical information accessible to senior men in their native language" }
     ],
     "stats": {
       "wordCount": 150,

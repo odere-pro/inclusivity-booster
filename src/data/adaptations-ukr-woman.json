@@ -12,23 +12,23 @@
     "headline": "Стокгольм будує нові будинки для родин!",
     "body": "Стокгольм будує 3 200 нових будинків! Вони будуть у Ярві, Шерхольмені та Фарсті. Ці будинки будуть дешевшими, щоб більше родин могли там жити. Майже половина будинків піде родинам, які заробляють не так багато.\n\nБудівництво почнеться наступного року. Зараз понад 42 000 родин чекають на житло в Стокгольмі. Це дуже довга черга! Навіть якщо твоя родина приїхала з іншої країни — як з України — ви все одно можете подати заявку. Кожна дівчинка заслуговує на безпечний дім.",
     "dimensions": {
-      "tone": "Привітний та підбадьорливий, використовує прості слова для дітей",
-      "vocabulary": "Замінено 'доступне житло' на 'будинки, що дешевші'",
-      "format": "Короткі абзаци, 2-3 речення, знаки оклику для теплоти",
-      "culturalFraming": "Згадує Україну як країну походження, підтверджує право на подачу заявки"
+      "tone": "Welcoming and encouraging, uses simple words for children",
+      "vocabulary": "Replaced 'affordable housing' with 'homes that are cheaper'",
+      "format": "Short paragraphs, 2-3 sentences, exclamation marks for warmth",
+      "culturalFraming": "Mentions Ukraine as country of origin, confirms right to apply"
     },
     "changes": [
-      "Спрощена лексика для віку 8-12",
-      "Скорочені речення до ~10 слів",
-      "Видалено юридичний жаргон",
-      "Додано посилання на Україну як батьківщину",
-      "Підтверджено, що дівчатка заслуговують безпечного дому"
+      "Simplified vocabulary for ages 8-12",
+      "Shortened sentences to ~10 words",
+      "Removed legal jargon",
+      "Added reference to Ukraine as home country",
+      "Confirmed that girls deserve a safe home"
     ],
     "inclusivityMeta": [
-      { "change": "Додано 'навіть якщо родина приїхала з України'", "reason": "Пряме згадування України як батьківщини знижує тривогу у дітей-переселенців і підтверджує їхню приналежність" },
-      { "change": "Замінено 'доступне житло' на 'будинки, що дешевші'", "reason": "Юридична термінологія виключає молодших читачів з розуміння їхніх прав" },
-      { "change": "Додано 'кожна дівчинка заслуговує на безпечний дім'", "reason": "Підтверджує гендерну ідентичність читачки та її право на житло" },
-      { "change": "Переклад українською мовою", "reason": "Рідна мова забезпечує доступність для дітей, які ще не вільно володіють шведською" }
+      { "change": "Added 'even if the family came from Ukraine'", "reason": "Direct mention of Ukraine as home country reduces anxiety for refugee children and confirms belonging" },
+      { "change": "Replaced 'affordable housing' with 'homes that are cheaper'", "reason": "Legal terminology excludes younger readers from understanding their rights" },
+      { "change": "Added 'every girl deserves a safe home'", "reason": "Affirms the reader's gender identity and right to housing" },
+      { "change": "Translated into Ukrainian language", "reason": "Native language ensures accessibility for children not yet fluent in Swedish" }
     ],
     "stats": {
       "wordCount": 82,
@@ -49,22 +49,22 @@
     "headline": "Нове правило: дорослі мають вивчити шведську мову",
     "body": "В Швеції з'явилося нове правило. Дорослі, які хочуть жити тут довго, мають навчитися говорити шведською. У 2027 році вони будуть складати тест.\n\nАле не хвилюйся — дітям не потрібно складати тест! Люди старше 65 або ті, кому важко вчитися, також звільнені від тесту.\n\nПриблизно 34 000 людей мають скласти цей тест. Деякі кажуть, що це важко, бо вони працюють цілий день. Мами, тата та всі дорослі — з України чи з інших країн — мають однакові можливості.",
     "dimensions": {
-      "tone": "Заспокійливий та теплий, звертається безпосередньо до дитини",
-      "vocabulary": "Замінено 'CEFR B1' на 'говорити шведською'",
-      "format": "Короткі абзаци, заспокоєння на початку",
-      "culturalFraming": "Згадує Україну, підтверджує рівні можливості для всіх родин"
+      "tone": "Calming and warm, addresses the child directly",
+      "vocabulary": "Replaced 'CEFR B1' with 'speak Swedish'",
+      "format": "Short paragraphs, reassurance at the start",
+      "culturalFraming": "Mentions Ukraine, confirms equal opportunities for all families"
     },
     "changes": [
-      "Спрощено для читачів 8-12 років",
-      "Видалено бюрократичну мову",
-      "Додано пряме заспокоєння для дітей",
-      "Згадано Україну та інші країни для інклюзивності"
+      "Simplified for readers 8-12 years old",
+      "Removed bureaucratic language",
+      "Added direct reassurance for children",
+      "Mentioned Ukraine and other countries for inclusivity"
     ],
     "inclusivityMeta": [
-      { "change": "Додано 'з України чи з інших країн'", "reason": "Пряме згадування батьківщини знижує відчуття ізоляції у дитини-переселенки" },
-      { "change": "Заспокоєння 'дітям не потрібно складати тест' на початку", "reason": "Знімає тривогу дівчинки, що тест може вплинути на неї чи її сім'ю" },
-      { "change": "Перерахування 'мами, тата та всі дорослі'", "reason": "Визнає різні структури сімей — одинокі матері, одностатеві пари, бабусі-опікуни" },
-      { "change": "Переклад українською мовою", "reason": "Доступність рідною мовою для дітей, які ще не вільно володіють шведською" }
+      { "change": "Added 'from Ukraine or other countries'", "reason": "Direct mention of home country reduces sense of isolation for refugee girl" },
+      { "change": "Reassurance 'children don't need to take the test' at the start", "reason": "Removes girl's anxiety that the test might affect her or her family" },
+      { "change": "Listed 'moms, dads and all adults'", "reason": "Acknowledges diverse family structures — single mothers, same-sex couples, grandparent guardians" },
+      { "change": "Translated into Ukrainian language", "reason": "Accessibility in native language for children not yet fluent in Swedish" }
     ],
     "stats": {
       "wordCount": 78,
@@ -85,22 +85,22 @@
     "headline": "Стокгольм планує 3 200 доступних квартир у трьох районах",
     "body": "Міська рада Стокгольма затвердила план будівництва 3 200 доступних квартир у Ярві, Шерхольмені та Фарсті. Місто витратить 2,4 мільярда крон протягом п'яти років, і 40% квартир будуть зарезервовані для родин з нижчими доходами.\n\nЧерга на житло в Стокгольмі налічує понад 42 000 домогосподарств. Будівництво починається наступного року, подання заявок — з січня 2027. Усі, хто має дозвіл на постійне проживання, можуть подати заявку незалежно від національності.\n\nДля молодих жінок з українських сімей, які ростуть у цих районах, доступне житло може визначити освітні та кар'єрні можливості. Ця політика спрямована на зменшення розриву між тими, хто має житлову безпеку, і тими, хто її не має.",
     "dimensions": {
-      "tone": "Інформативний, поважає інтелект підлітка",
-      "vocabulary": "Зберігає 'доступні квартири', пояснює 'зарезервовані для нижчих доходів'",
-      "format": "Три абзаци: що, хто, чому це важливо",
-      "culturalFraming": "Пов'язує політику з можливостями для молодих жінок з діаспори"
+      "tone": "Informative, respects teenager's intelligence",
+      "vocabulary": "Keeps 'affordable apartments', explains 'reserved for lower incomes'",
+      "format": "Three paragraphs: what, who, why it matters",
+      "culturalFraming": "Connects policy to opportunities for young women from diaspora"
     },
     "changes": [
-      "Адаптовано для підліткового розуміння",
-      "Додано контекст діаспори — 'з українських сімей'",
-      "Пов'язано житлову політику з освітніми та кар'єрними можливостями жінок",
-      "Збережено ключові цифри (2,4 млрд, 3 200, 42 000)"
+      "Adapted for teenage comprehension",
+      "Added diaspora context — 'from Ukrainian families'",
+      "Connected housing policy to educational and career opportunities for women",
+      "Kept key figures (2.4B, 3,200, 42,000)"
     ],
     "inclusivityMeta": [
-      { "change": "Додано 'молоді жінки з українських сімей'", "reason": "Пряме звернення до діаспорної ідентичності підтверджує приналежність підлітка-переселенки" },
-      { "change": "Пов'язано житло з 'освітніми та кар'єрними можливостями'", "reason": "Абстрактна політика стає особисто значущою для дівчини-підлітка" },
-      { "change": "Замінено 'median income threshold' на 'родини з нижчими доходами'", "reason": "Статистична термінологія замінена зрозумілою для підлітків мовою" },
-      { "change": "Українська мова тексту", "reason": "Забезпечує доступність для підлітків, які краще розуміють рідну мову" }
+      { "change": "Added 'young women from Ukrainian families'", "reason": "Direct appeal to diaspora identity confirms belonging for teenage refugee girl" },
+      { "change": "Connected housing to 'educational and career opportunities'", "reason": "Abstract policy becomes personally relevant for a teenage girl" },
+      { "change": "Replaced 'median income threshold' with 'families with lower incomes'", "reason": "Statistical terminology replaced with language understandable for teenagers" },
+      { "change": "Text in Ukrainian language", "reason": "Ensures accessibility for teenagers who understand their native language better" }
     ],
     "stats": {
       "wordCount": 120,
@@ -121,22 +121,22 @@
     "headline": "Швеція вимагатиме знання шведської для постійного проживання",
     "body": "Починаючи з березня 2027 року, ті, хто подає заявку на постійне проживання в Швеції, повинні довести, що можуть розмовляти шведською на розмовному рівні. Тести проводитимуться у центрах SFI по всій країні.\n\nПравило стосується громадян країн поза ЄС, які прожили в Швеції за тимчасовими дозволами щонайменше три роки. Виняток для осіб старше 65 років, людей з труднощами у навчанні та біженців із додатковим захистом.\n\nБлизько 34 000 людей підпадають під це правило. Критики зазначають, що це особливо складно для жінок, які поєднують роботу та догляд за сім'єю. Для молодих жінок з українських сімей розуміння цих правил важливо — адже ваші мами та бабусі можуть бути серед тих, кого це стосується.",
     "dimensions": {
-      "tone": "Чіткий та інформативний, поважає інтелект підлітка",
-      "vocabulary": "Пояснює 'CEFR B1' як 'розмовний рівень'",
-      "format": "Три абзаци: правило, виняток, вплив",
-      "culturalFraming": "Пов'язує політику з родиною читачки — мамами та бабусями"
+      "tone": "Clear and informative, respects teenager's intelligence",
+      "vocabulary": "Explains 'CEFR B1' as 'conversational level'",
+      "format": "Three paragraphs: rule, exception, impact",
+      "culturalFraming": "Connects policy to reader's family — moms and grandmothers"
     },
     "changes": [
-      "Перекладено 'CEFR B1' як 'розмовний рівень'",
-      "Додано гендерний контекст — тягар догляду за сім'єю для жінок",
-      "Пов'язано політику з конкретними членами родини підлітка",
-      "Збережено всі ключові дані"
+      "Translated 'CEFR B1' as 'conversational level'",
+      "Added gender context — caregiving burden for women",
+      "Connected policy to specific family members of teenager",
+      "All key data preserved"
     ],
     "inclusivityMeta": [
-      { "change": "Згадано 'мами та бабусі' як тих, кого стосується правило", "reason": "Конкретизує абстрактну політику через родинні зв'язки підлітка-дівчини" },
-      { "change": "Виділено 'жінок, які поєднують роботу та догляд за сім'єю'", "reason": "Показує гендерну нерівність у розподілі домашніх обов'язків" },
-      { "change": "Замінено 'CEFR B1' на 'розмовний рівень'", "reason": "Коди європейської системи виключають читачів без досвіду мовного тестування" },
-      { "change": "Українська мова тексту", "reason": "Доступність рідною мовою для підлітків із сімей переселенців" }
+      { "change": "Mentioned 'moms and grandmothers' as those affected by the rule", "reason": "Concretizes abstract policy through teenager girl's family connections" },
+      { "change": "Highlighted 'women who balance work and caregiving'", "reason": "Shows gender inequality in domestic responsibility distribution" },
+      { "change": "Replaced 'CEFR B1' with 'conversational level'", "reason": "European language system codes exclude readers without language testing experience" },
+      { "change": "Text in Ukrainian language", "reason": "Accessibility in native language for teenagers from refugee families" }
     ],
     "stats": {
       "wordCount": 118,
@@ -159,22 +159,22 @@
     "headline": "Стокгольм інвестує 2,4 мільярда крон у доступне житло",
     "body": "Міська рада Стокгольма проголосувала за виділення 2,4 мільярда крон протягом п'яти років на будівництво 3 200 нових доступних квартир у Ярві, Шерхольмені та Фарсті. 40% квартир зарезервовано для домогосподарств із доходом нижче медіани.\n\nПонад 42 000 домогосподарств стоять у черзі на житло. Будівництво починається у третьому кварталі 2026 року, подання заявок — з січня 2027. Усі, хто має дозвіл на постійне проживання, мають рівні права незалежно від походження.\n\nДля молодих українок, які шукають перше самостійне житло в Стокгольмі, система розподілу за доходами — замість лотереї — може надати більш передбачуваний шлях до незалежності. Дослідження показують, що жінки до 30 років непропорційно потерпають від нестачі житла.",
     "dimensions": {
-      "tone": "Професійний, інформативний стиль статті",
-      "vocabulary": "Зберігає 'медіану доходу', 'розподіл за доходами'",
-      "format": "Стаття: факти, контекст, значення для молодих жінок з діаспори",
-      "culturalFraming": "Діаспорний контекст — звертається до молодих українок як до конкретної аудиторії"
+      "tone": "Professional, informative article style",
+      "vocabulary": "Keeps 'median income', 'income distribution'",
+      "format": "Article: facts, context, significance for young diaspora women",
+      "culturalFraming": "Diaspora context — addresses young Ukrainian women as specific audience"
     },
     "changes": [
-      "Збережено основну термінологію з контекстом",
-      "Додано діаспорне звернення до 'молодих українок'",
-      "Пов'язано систему розподілу з незалежністю жінок",
-      "Додано статистику про жінок до 30 і нестачу житла"
+      "Core terminology preserved with context",
+      "Added diaspora appeal to 'young Ukrainian women'",
+      "Connected distribution system to women's independence",
+      "Added statistics on women under 30 and housing shortage"
     ],
     "inclusivityMeta": [
-      { "change": "Звернення до 'молодих українок'", "reason": "Пряма адресація діаспорної ідентичності підтверджує приналежність і право на житло" },
-      { "change": "Пов'язано розподіл за доходами з 'передбачуваним шляхом до незалежності'", "reason": "Політичний механізм пов'язано з автономією молодих жінок" },
-      { "change": "Додано дані про жінок до 30 і нестачу житла", "reason": "Гендерний розрив у доступі до житла стає видимим через конкретні дані" },
-      { "change": "Текст українською мовою", "reason": "Забезпечує повне розуміння для жінок, які ще вивчають шведську" }
+      { "change": "Address to 'young Ukrainian women'", "reason": "Direct diaspora identity appeal confirms belonging and right to housing" },
+      { "change": "Connected income distribution to 'predictable path to independence'", "reason": "Policy mechanism linked to young women's autonomy" },
+      { "change": "Added data on women under 30 and housing shortage", "reason": "Gender gap in housing access becomes visible through concrete data" },
+      { "change": "Text in Ukrainian language", "reason": "Ensures full comprehension for women still learning Swedish" }
     ],
     "stats": {
       "wordCount": 130,
@@ -197,22 +197,22 @@
     "headline": "Нова вимога знання мови для постійного проживання з березня 2027",
     "body": "Міграційне агентство Швеції оголосило, що з березня 2027 року заявники на постійне проживання повинні підтвердити знання шведської на розмовному рівні (CEFR B1). Вимога стосується всіх громадян країн поза ЄС, які мали тимчасовий дозвіл щонайменше три роки.\n\nТестування проводитиметься в центрах SFI по всій країні. Винятки для осіб старше 65 років, людей з проблемами у навчанні та біженців із додатковим захистом.\n\nПриблизно 34 000 власників дозволів підпадають під вимогу. Критики наголошують, що жінки часто несуть подвійний тягар — поєднують роботу та догляд за сім'єю. Для молодих українок, які будують нове життя в Швеції, доступ до гнучких програм навчання та підтримки з доглядом за дітьми є критично важливим.",
     "dimensions": {
-      "tone": "Аналітичний стиль статті з гендерним аналізом",
-      "vocabulary": "Використовує 'CEFR B1' з поясненням",
-      "format": "Стаття: правило, процес, вплив на жінок з діаспори",
-      "culturalFraming": "Діаспорний контекст — молоді українки як конкретна аудиторія"
+      "tone": "Analytical article style with gender analysis",
+      "vocabulary": "Uses 'CEFR B1' with explanation",
+      "format": "Article: rule, process, impact on diaspora women",
+      "culturalFraming": "Diaspora context — young Ukrainian women as specific audience"
     },
     "changes": [
-      "Пояснено CEFR B1 як 'розмовний рівень'",
-      "Виділено подвійний тягар для жінок",
-      "Звернення до молодих українок з конкретними потребами",
-      "Збережено всі фактичні дані"
+      "Explained CEFR B1 as 'conversational level'",
+      "Highlighted dual burden for women",
+      "Addressed young Ukrainian women with specific needs",
+      "All factual data preserved"
     ],
     "inclusivityMeta": [
-      { "change": "Виділено 'подвійний тягар' роботи та догляду для жінок", "reason": "Структурна гендерна нерівність ускладнює виконання вимоги для жінок" },
-      { "change": "Згадано потребу в 'гнучких програмах навчання та підтримці з доглядом за дітьми'", "reason": "Конкретні рішення замість простої констатації проблеми" },
-      { "change": "Звернення до 'молодих українок, які будують нове життя'", "reason": "Визнає унікальність міграційного досвіду та підтверджує право на підтримку" },
-      { "change": "Текст українською мовою", "reason": "Доступність рідною мовою для жінок, які ще вивчають шведську" }
+      { "change": "Highlighted 'dual burden' of work and caregiving for women", "reason": "Structural gender inequality complicates meeting the requirement for women" },
+      { "change": "Mentioned need for 'flexible learning programs and childcare support'", "reason": "Concrete solutions rather than just stating the problem" },
+      { "change": "Address to 'young Ukrainian women building new lives'", "reason": "Acknowledges uniqueness of migration experience and affirms right to support" },
+      { "change": "Text in Ukrainian language", "reason": "Accessibility in native language for women still learning Swedish" }
     ],
     "stats": {
       "wordCount": 128,
@@ -235,22 +235,22 @@
     "headline": "Розподіл 2,4 млрд крон на житло: що це означає для жінок-переселенок",
     "body": "Міська рада Стокгольма виділила 2,4 мільярда крон на будівництво 3 200 доступних квартир у Ярві, Шерхольмені та Фарсті. 40% одиниць зарезервовано для домогосподарств із доходом нижче медіанного порогу — структурний перехід від лотерейного до дохідного розподілу.\n\nЧерга на житло перевищує 42 000 домогосподарств. Будівництво — третій квартал 2026, заявки — з січня 2027. Усі постійні резиденти мають рівні права.\n\nГендерно-дезагреговані дані показують, що одинокі матері та домогосподарства, очолювані жінками, чекають на 18% довше за середнє. Для жінок з України, які пережили переміщення та відновлюють життя, відсутність гендерно-специфічних положень у політиці є особливо відчутною прогалиною. Дохідна модель не враховує переривання кар'єри, пов'язані з війною та міграцією.",
     "dimensions": {
-      "tone": "Експертний аналіз із фокусом на жінок-переселенок",
-      "vocabulary": "Повна політична термінологія: 'дохідний розподіл', 'гендерно-дезагреговані дані'",
-      "format": "Експертна стаття: аналіз, дані, прогалини для жінок з діаспори",
-      "culturalFraming": "Діаспорна перспектива — переміщення та відновлення як контекст"
+      "tone": "Expert analysis focused on female refugees",
+      "vocabulary": "Full policy terminology: 'income distribution', 'gender-disaggregated data'",
+      "format": "Expert article: analysis, data, gaps for diaspora women",
+      "culturalFraming": "Diaspora perspective — displacement and recovery as context"
     },
     "changes": [
-      "Збережено повну технічну складність",
-      "Додано гендерно-дезагреговані дані про час очікування",
-      "Виділено прогалину для жінок-переселенок з України",
-      "Зазначено вплив війни та міграції на кар'єрні переривання"
+      "Full technical complexity preserved",
+      "Added gender-disaggregated data on waiting times",
+      "Highlighted gap for Ukrainian female refugees",
+      "Noted impact of war and migration on career interruptions"
     ],
     "inclusivityMeta": [
-      { "change": "Згадано 'жінок з України, які пережили переміщення'", "reason": "Визнає специфічний контекст війни та вимушеної міграції як фактор житлової вразливості" },
-      { "change": "Додано дані: одинокі матері чекають на 18% довше", "reason": "Конкретні дані роблять гендерну нерівність у житлі видимою" },
-      { "change": "Зазначено 'переривання кар'єри через війну та міграцію'", "reason": "Дохідні пороги не враховують обставини, що знизили заробіток через зовнішні фактори" },
-      { "change": "Текст українською мовою", "reason": "Експертний зміст доступний рідною мовою для повного розуміння" }
+      { "change": "Mentioned 'women from Ukraine who experienced displacement'", "reason": "Recognizes specific context of war and forced migration as factor in housing vulnerability" },
+      { "change": "Added data: single mothers wait 18% longer", "reason": "Concrete data makes gender inequality in housing visible" },
+      { "change": "Noted 'career interruptions due to war and migration'", "reason": "Income thresholds don't account for circumstances that reduced earnings through external factors" },
+      { "change": "Text in Ukrainian language", "reason": "Expert content accessible in native language for full comprehension" }
     ],
     "stats": {
       "wordCount": 145,
@@ -273,22 +273,22 @@
     "headline": "Вимога CEFR B1: бар'єри для жінок-переселенок з України",
     "body": "Міграційне агентство Швеції вимагає підтвердження знання шведської на рівні CEFR B1 для отримання постійного проживання з березня 2027 року. Вимога стосується всіх громадян поза ЄС з тимчасовими дозволами від трьох років.\n\nТестування в центрах SFI. Винятки для осіб 65+, з документованими труднощами навчання та біженців із додатковим захистом. ~34 000 власників дозволів підпадають.\n\nДослідження показують, що жінки-заявниці в 2,3 рази частіше називають обов'язки з догляду за сім'єю бар'єром для навчання. Для українських жінок-переселенок ця статистика посилюється: травма війни, розлука з близькими, необхідність фінансово утримувати родину одночасно з вивченням нової мови. Без субсидованого догляду за дітьми та гнучких графіків SFI вимога ризикує стати гендерним бар'єром.",
     "dimensions": {
-      "tone": "Експертний аналіз з діаспорною та гендерною перспективою",
-      "vocabulary": "Повна технічна термінологія: 'CEFR B1', 'гендерний бар'єр'",
-      "format": "Експертна стаття: обсяг, бар'єри, рішення для жінок-переселенок",
-      "culturalFraming": "Діаспорна перспектива — травма війни та розлука як додаткові фактори"
+      "tone": "Expert analysis with diaspora and gender perspective",
+      "vocabulary": "Full technical terminology: 'CEFR B1', 'gender barrier'",
+      "format": "Expert article: scope, barriers, solutions for female refugees",
+      "culturalFraming": "Diaspora perspective — war trauma and separation as additional factors"
     },
     "changes": [
-      "Збережено технічну мову",
-      "Додано статистику: жінки в 2,3 рази частіше називають догляд бар'єром",
-      "Контекст війни та розлуки для українських жінок",
-      "Запропоновано субсидований догляд та гнучкі графіки"
+      "Technical language preserved",
+      "Added statistics: women 2.3x more likely to cite caregiving as barrier",
+      "War and separation context for Ukrainian women",
+      "Proposed subsidized care and flexible schedules"
     ],
     "inclusivityMeta": [
-      { "change": "Додано контекст 'травми війни та розлуки з близькими'", "reason": "Специфіка українських переселенок — гендерний бар'єр посилюється воєнною травмою" },
-      { "change": "Статистика: жінки в 2,3 рази частіше називають догляд бар'єром", "reason": "Доказова база проти ігнорування гендерних бар'єрів у мовній вимозі" },
-      { "change": "Запропоновано 'субсидований догляд за дітьми та гнучкі графіки SFI'", "reason": "Конкретні рішення, а не просто констатація проблеми" },
-      { "change": "Текст українською мовою", "reason": "Експертний зміст доступний без мовного бар'єру" }
+      { "change": "Added context of 'war trauma and separation from loved ones'", "reason": "Ukrainian female refugee specifics — gender barrier compounded by war trauma" },
+      { "change": "Statistics: women 2.3x more likely to cite caregiving as barrier", "reason": "Evidence base against ignoring gender barriers in language requirement" },
+      { "change": "Proposed 'subsidized childcare and flexible SFI schedules'", "reason": "Concrete solutions, not just stating the problem" },
+      { "change": "Text in Ukrainian language", "reason": "Expert content accessible without language barrier" }
     ],
     "stats": {
       "wordCount": 140,
@@ -311,22 +311,22 @@
     "headline": "Житлова політика Стокгольма: що означає для літніх жінок з України",
     "body": "Виділення 2,4 мільярда крон на 3 200 доступних квартир (Ярва, Шерхольмен, Фарста) із 40% резервом для домогосподарств нижче медіанного доходу. Дохідний розподіл замість лотереї. 42 000+ у черзі. Будівництво — третій квартал 2026.\n\nПолітика не передбачає адаптованого для літнього віку житла: доступність, близькість до медичних закладів, одноповерхове планування. Для літніх українок, які переїхали через війну, ці потреби особливо гострі — багато хто залишив пристосоване житло на батьківщині.\n\nПерехрестя віку, гендеру, міграційного статусу та економічної вразливості створює компоненту нерівності, яку дохідний поріг сам по собі не вирішує. Пенсіонерки-переселенки з України — зростаючий сегмент житлово-незабезпечених мешканок Стокгольма.",
     "dimensions": {
-      "tone": "Експертний аналіз з інтерсекціональним фокусом",
-      "vocabulary": "Повна термінологія: 'дохідний розподіл', 'інтерсекціональна вразливість'",
-      "format": "Експертна стаття: дані, прогалини, діаспорна специфіка",
-      "culturalFraming": "Діаспорна перспектива — втрата пристосованого житла через війну"
+      "tone": "Expert analysis with intersectional focus",
+      "vocabulary": "Full terminology: 'income distribution', 'intersectional vulnerability'",
+      "format": "Expert article: data, gaps, diaspora specifics",
+      "culturalFraming": "Diaspora perspective — loss of adapted housing due to war"
     },
     "changes": [
-      "Збережено технічну складність",
-      "Виділено відсутність адаптованого для віку житла",
-      "Згадано втрату житла через війну для літніх українок",
-      "Інтерсекціональний аналіз: вік + гендер + міграція + економіка"
+      "Technical complexity preserved",
+      "Highlighted absence of age-adapted housing",
+      "Mentioned housing loss due to war for senior Ukrainian women",
+      "Intersectional analysis: age + gender + migration + economics"
     ],
     "inclusivityMeta": [
-      { "change": "Згадано 'літніх українок, які переїхали через війну'", "reason": "Визнає вимушене переміщення як специфічний контекст для житлових потреб" },
-      { "change": "Виділено втрату 'пристосованого житла на батьківщині'", "reason": "Літні жінки не просто шукають нове житло — вони втратили адаптоване для себе простір" },
-      { "change": "Інтерсекціональний аналіз чотирьох осей нерівності", "reason": "Показує, що жоден один критерій не охоплює всю складність вразливості" },
-      { "change": "Текст українською мовою", "reason": "Критично важлива інформація доступна рідною мовою для літніх жінок" }
+      { "change": "Mentioned 'senior Ukrainian women who moved due to war'", "reason": "Acknowledges forced displacement as specific context for housing needs" },
+      { "change": "Highlighted loss of 'adapted housing in home country'", "reason": "Senior women didn't just lose housing — they lost space adapted for them" },
+      { "change": "Intersectional analysis of four axes of inequality", "reason": "Shows that no single criterion captures the full complexity of vulnerability" },
+      { "change": "Text in Ukrainian language", "reason": "Critically important information accessible in native language for senior women" }
     ],
     "stats": {
       "wordCount": 138,
@@ -349,22 +349,22 @@
     "headline": "Мовна вимога: прогалини для літніх жінок-переселенок",
     "body": "Вимога CEFR B1 для постійного проживання (березень 2027) звільняє заявників 65+. Але українки 55-64 років потрапляють у 'сліпу зону': надто молоді для звільнення, але з крутішою кривою засвоєння мови через пізній переїзд і обмежену участь у робочій силі.\n\nТестування SFI для громадян поза ЄС з 3+ роками тимчасового дозволу. ~34 000 підпадають. Додаткові винятки: труднощі навчання, додатковий захист.\n\nДані показують, що жінки 55+ мають на 40% нижчий показник складання SFI, частково через переривання освіти та домашню працю. Для українок-переселенок це посилюється травмою, мовною ізоляцією та необхідністю починати з нуля. Без поступових порогів або альтернативних оцінок бінарне звільнення у 65 створює нерівні результати.",
     "dimensions": {
-      "tone": "Експертна критика з інтерсекціональним аналізом",
-      "vocabulary": "Повна технічна мова: 'сліпа зона', 'крива засвоєння мови'",
-      "format": "Експертна стаття: прогалина, дані, діаспорний контекст",
-      "culturalFraming": "Діаспорна перспектива — травма та ізоляція як додаткові бар'єри"
+      "tone": "Expert critique with intersectional analysis",
+      "vocabulary": "Full technical language: 'blind spot', 'language acquisition curve'",
+      "format": "Expert article: gap, data, diaspora context",
+      "culturalFraming": "Diaspora perspective — trauma and isolation as additional barriers"
     },
     "changes": [
-      "Збережено технічну термінологію",
-      "Виявлено 'сліпу зону' 55-64 для літніх жінок",
-      "Додано контекст війни, травми та мовної ізоляції",
-      "Запропоновано поступові пороги як альтернативу"
+      "Technical terminology preserved",
+      "Identified 'blind spot' for women aged 55-64",
+      "Added context of war, trauma, and language isolation",
+      "Proposed graduated thresholds as alternative"
     ],
     "inclusivityMeta": [
-      { "change": "Виявлено 'сліпу зону' для жінок 55-64", "reason": "Бінарне звільнення у 65 ігнорує реальність літніх жінок з серйозними бар'єрами" },
-      { "change": "Контекст 'травми, мовної ізоляції та початку з нуля'", "reason": "Специфіка українських переселенок додає шари вразливості до вікового бар'єру" },
-      { "change": "Дані: жінки 55+ мають на 40% нижчий показник складання", "reason": "Доказова база проти відкидання вікових гендерних бар'єрів як анекдотичних" },
-      { "change": "Текст українською мовою", "reason": "Критична інформація доступна для літніх жінок без мовного бар'єру" }
+      { "change": "Identified 'blind spot' for women aged 55-64", "reason": "Binary exemption at 65 ignores reality of older women with serious barriers" },
+      { "change": "Context of 'trauma, language isolation, and starting from scratch'", "reason": "Ukrainian female refugee specifics add layers of vulnerability to age barrier" },
+      { "change": "Data: women 55+ have 40% lower pass rates", "reason": "Evidence base against dismissing age-gender barriers as anecdotal" },
+      { "change": "Text in Ukrainian language", "reason": "Critical information accessible for senior women without language barrier" }
     ],
     "stats": {
       "wordCount": 142,

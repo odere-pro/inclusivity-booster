@@ -14,22 +14,22 @@
     "headline": "Новий план доступного житла Стокгольма: 3 200 квартир за дохідним критерієм",
     "body": "Міська рада Стокгольма затвердила 2,4 мільярда крон на 3 200 доступних квартир у Ярві, Шерхольмені та Фарсті. Ключова зміна: 40% одиниць розподілятимуться за дохідним критерієм замість старої лотереї.\n\n42 000+ домогосподарств у черзі. Будівництво — наступний рік, заявки — січень 2027. Усі постійні резиденти мають рівні права.\n\nДля гендерфлюїдних людей житлові системи створюють специфічний виклик: форми, співбесіди та оцінки домогосподарств вимагають фіксованих гендерних категорій. Для гендерфлюїдних українців у діаспорі це подвійний тиск — адаптація до нової країни одночасно з навігацією системами, що не визнають їхню ідентичність. Дохідна модель — крок вперед, але процес подачі заявок потребує гендерно-інклюзивних форм.",
     "dimensions": {
-      "tone": "Голос розсилки — інформативний, теплий, спільнотний",
-      "vocabulary": "Доступна стандартна мова з поясненням термінів",
-      "format": "Розсилка: підсумок, контекст, значення для спільноти",
-      "culturalFraming": "Діаспорний контекст — подвійний тиск адаптації та гендерної ідентичності"
+      "tone": "Newsletter voice — informative, warm, community-focused",
+      "vocabulary": "Accessible standard language with term explanations",
+      "format": "Newsletter: summary, context, community significance",
+      "culturalFraming": "Diaspora context — dual pressure of adaptation and gender identity"
     },
     "changes": [
-      "Адаптовано для формату розсилки з фокусом на спільноту",
-      "Названо фіксовані категорії як бар'єр для гендерфлюїдних людей",
-      "Дохідна модель як гендерно-нейтральний прогрес",
-      "Діаспорний контекст — подвійний тиск"
+      "Adapted for newsletter format with community focus",
+      "Named fixed categories as a barrier for genderfluid people",
+      "Income model as gender-neutral progress",
+      "Diaspora context — dual pressure"
     ],
     "inclusivityMeta": [
-      { "change": "Названо 'фіксовані гендерні категорії' у формах як бар'єр", "reason": "Гендерфлюїдні люди унікально постраждали від систем, що вимагають одну фіксовану відповідь" },
-      { "change": "Виділено 'подвійний тиск' адаптації та ідентичності", "reason": "Діаспорний контекст — гендерфлюїдні переселенці одночасно адаптуються і борються за визнання" },
-      { "change": "Заклик до 'гендерно-інклюзивних форм'", "reason": "Конкретне покращення, що робить системи доступними для гендерфлюїдних заявників" },
-      { "change": "Текст українською мовою", "reason": "Доступність рідною мовою для гендерфлюїдних українців у діаспорі" }
+      { "change": "Named 'fixed gender categories' in forms as a barrier", "reason": "Genderfluid people are uniquely harmed by systems requiring one fixed answer" },
+      { "change": "Highlighted 'dual pressure' of adaptation and identity", "reason": "Diaspora context — genderfluid refugees adapt and fight for recognition simultaneously" },
+      { "change": "Called for 'gender-inclusive forms'", "reason": "Concrete improvement that makes systems accessible for genderfluid applicants" },
+      { "change": "Text in Ukrainian language", "reason": "Native language accessibility for genderfluid Ukrainians in diaspora" }
     ],
     "stats": {
       "wordCount": 132,
@@ -52,22 +52,22 @@
     "headline": "Оновлення мовної вимоги: що потрібно знати гендерфлюїдним резидентам",
     "body": "З березня 2027 для постійного проживання потрібен розмовний рівень шведської (CEFR B1). Тестування в центрах SFI для громадян поза ЄС з 3+ роками тимчасового дозволу. Винятки: 65+, труднощі навчання, додатковий захист. ~34 000 підпадають.\n\nСам тест однаковий для всіх — жодних гендерних компонентів. Це позитив. Виклик — у всьому навколо: реєстраційні форми SFI часто вимагають вибору Ч або Ж, класне середовище може не визнавати гендерну флюїдність.\n\nДля гендерфлюїдних українців у діаспорі це вимагає навігації одночасно мовним бар'єром, міграційним статусом та гендерною ідентичністю. Боротьба за інклюзивну реєстрацію та навчання в SFI так само важлива, як і підготовка до тесту.",
     "dimensions": {
-      "tone": "Голос розсилки — підтримуючий, практичний",
-      "vocabulary": "Пояснено CEFR B1 як 'розмовний рівень'",
-      "format": "Розсилка: факти, особиста значущість, заклик до спільноти",
-      "culturalFraming": "Діаспорний контекст — тройний бар'єр: мова, міграція, ідентичність"
+      "tone": "Newsletter voice — supportive, practical",
+      "vocabulary": "Explained CEFR B1 as 'conversational level'",
+      "format": "Newsletter: facts, personal relevance, community call to action",
+      "culturalFraming": "Diaspora context — triple barrier: language, migration, identity"
     },
     "changes": [
-      "Адаптовано для формату розсилки",
-      "Відділено нейтральність тесту від бінарності інфраструктури",
-      "Названо реєстраційні форми SFI як вимагаючі бінарного вибору",
-      "Тройний бар'єр для гендерфлюїдних переселенців"
+      "Adapted for newsletter format",
+      "Separated test neutrality from infrastructure binary",
+      "Named SFI registration forms as requiring binary selection",
+      "Triple barrier for genderfluid refugees"
     ],
     "inclusivityMeta": [
-      { "change": "Названо 'реєстраційні форми SFI, що вимагають вибору Ч або Ж'", "reason": "Бінарні форми змушують гендерфлюїдних людей хибно ідентифікуватися для доступу до публічної послуги" },
-      { "change": "Виділено тройний бар'єр: мова, міграція, ідентичність", "reason": "Інтерсекціональний підхід для гендерфлюїдних переселенців" },
-      { "change": "Адвокація за 'інклюзивну реєстрацію та навчання'", "reason": "Валідує право на інклюзивне середовище, а не лише рівний доступ до тесту" },
-      { "change": "Текст українською мовою", "reason": "Доступність для гендерфлюїдних українців, які ще вивчають шведську" }
+      { "change": "Named 'SFI registration forms requiring M or F selection'", "reason": "Binary forms force genderfluid people to misidentify to access a public service" },
+      { "change": "Highlighted triple barrier: language, migration, identity", "reason": "Intersectional approach for genderfluid refugees" },
+      { "change": "Advocacy for 'inclusive registration and learning environment'", "reason": "Validates right to inclusive environment, not just equal access to the test" },
+      { "change": "Text in Ukrainian language", "reason": "Accessibility for genderfluid Ukrainians still learning Swedish" }
     ],
     "stats": {
       "wordCount": 128,
@@ -90,22 +90,22 @@
     "headline": "Дохідний розподіл житла: прогрес в економіці, мовчання щодо гендерної різноманітності",
     "body": "2,4 мільярда крон на 3 200 квартир (Ярва, Шерхольмен, Фарста), 40% за дохідним критерієм. Дохідний розподіл замість лотереї. 42 000+ у черзі. Будівництво — третій квартал 2026.\n\nДохідний механізм гендерно-нейтральний за дизайном — уникає прямої дискримінації. Проте рівень впровадження — реєстрація домогосподарства, верифікація співмешкання, протоколи оцінки доходу — працює на бінарній гендерній інфраструктурі.\n\nДля гендерфлюїдних українців у діаспорі це посилюється: правові гендерні маркери можуть змінюватися або конфліктувати між документами України та Швеції, створюючи адміністративне тертя на кожному етапі. Справді інклюзивна система мала б розв'язати оцінку домогосподарства від гендерної категоризації повністю.",
     "dimensions": {
-      "tone": "Експертний аналіз розсилки — структурний, точний",
-      "vocabulary": "Повна термінологія: 'бінарна гендерна інфраструктура', 'адміністративне тертя'",
-      "format": "Експертна розсилка: факти, критика впровадження, структурна пропозиція",
-      "culturalFraming": "Діаспорний контекст — конфліктуючі гендерні маркери між країнами"
+      "tone": "Expert newsletter analysis — structural, precise",
+      "vocabulary": "Full terminology: 'binary gender infrastructure', 'administrative friction'",
+      "format": "Expert newsletter: facts, implementation critique, structural proposal",
+      "culturalFraming": "Diaspora context — conflicting gender markers across countries"
     },
     "changes": [
-      "Збережено технічну складність",
-      "Аналіз бінарної інфраструктури у реєстрації та верифікації",
-      "Діаспорний контекст — конфліктуючі документи",
-      "Пропозиція розв'язати оцінку від гендерної категоризації"
+      "Technical complexity preserved",
+      "Analysis of binary infrastructure in registration and verification",
+      "Diaspora context — conflicting documents",
+      "Proposal to decouple assessment from gender categorization"
     ],
     "inclusivityMeta": [
-      { "change": "Виявлено 'реєстрацію домогосподарства та верифікацію співмешкання' як бінарно-кодовані", "reason": "Бінарні дефолти на рівні впровадження підривають нейтральність на рівні політики" },
-      { "change": "Згадано конфліктуючі 'правові гендерні маркери між Україною та Швецією'", "reason": "Діаспорна специфіка — різні правові системи створюють додатковий бар'єр" },
-      { "change": "Запропоновано 'розв'язати оцінку від гендерної категоризації'", "reason": "Структурний редизайн усуває корінну причину замість латання окремих випадків" },
-      { "change": "Текст українською мовою", "reason": "Експертний зміст доступний рідною мовою" }
+      { "change": "Identified 'household registration and cohabitation verification' as binary-coded", "reason": "Binary defaults at implementation level undermine policy-level neutrality" },
+      { "change": "Mentioned conflicting 'legal gender markers between Ukraine and Sweden'", "reason": "Diaspora-specific — different legal systems create additional barriers" },
+      { "change": "Proposed 'decoupling assessment from gender categorization'", "reason": "Structural redesign removes root cause instead of patching individual cases" },
+      { "change": "Text in Ukrainian language", "reason": "Expert content accessible in native language" }
     ],
     "stats": {
       "wordCount": 145,
@@ -128,22 +128,22 @@
     "headline": "Вимога CEFR B1: гендерно-нейтральне тестування зустрічає гендерно-ригідну інфраструктуру",
     "body": "Вимога CEFR B1 (березень 2027) для громадян поза ЄС з 3+ роками. Тестування SFI, ~34 000 підпадають. Винятки: 65+, труднощі навчання, додатковий захист.\n\nОціночний інструмент гендерно-нейтральний — без гендерованого змісту. Проте реєстрація та система відстеження SFI вимагає фіксованого гендерного маркера, створюючи системну невідповідність для гендерфлюїдних людей.\n\nДля гендерфлюїдних українців у діаспорі це каскадується: записи про зарахування можуть конфліктувати з документами, відстеження відвідуваності створює невідповідності, направлення на підтримку за замовчуванням бінарні. Результат — адміністративний тягар, якого цисгендерні заявники ніколи не зазнають. Структурне рішення: підтримка гнучких або небінарних гендерних маркерів у системах SFI — технічна зміна з каскадними позитивними ефектами.",
     "dimensions": {
-      "tone": "Експертна критика розсилки — системна, доказова",
-      "vocabulary": "Повна технічна мова: 'системна невідповідність', 'каскадні ефекти'",
-      "format": "Експертна розсилка: обсяг, системний аналіз, технічне рішення",
-      "culturalFraming": "Діаспорний контекст — конфліктуючі документи у каскадній системі"
+      "tone": "Expert newsletter critique — systemic, evidence-based",
+      "vocabulary": "Full technical language: 'systemic mismatch', 'cascading effects'",
+      "format": "Expert newsletter: scope, systemic analysis, technical solution",
+      "culturalFraming": "Diaspora context — conflicting documents in cascading system"
     },
     "changes": [
-      "Збережено всі деталі політики",
-      "Відстежено каскадні ефекти фіксованих гендерних маркерів",
-      "Названо адміністративний тягар як унікальний для гендерфлюїдних",
-      "Запропоновано гнучкі маркери як технічне рішення"
+      "All policy details preserved",
+      "Tracked cascading effects of fixed gender markers",
+      "Named administrative burden as unique to genderfluid people",
+      "Proposed flexible markers as technical solution"
     ],
     "inclusivityMeta": [
-      { "change": "Відстежено каскад фіксованих маркерів через систему SFI", "reason": "Один бінарний дефолт при реєстрації створює тертя на кожному наступному етапі" },
-      { "change": "Названо 'адміністративний тягар, якого цисгендерні заявники ніколи не зазнають'", "reason": "Привілейний розрив стає явним — цисгендерні люди не відчувають цього тертя" },
-      { "change": "Запропоновано 'гнучкі або небінарні гендерні маркери'", "reason": "Фреймінг як зміна архітектури системи робить рішення більш дієвим" },
-      { "change": "Текст українською мовою", "reason": "Експертний аналіз доступний для гендерфлюїдних українців" }
+      { "change": "Tracked cascade of fixed markers through SFI system", "reason": "One binary default at registration creates friction at every subsequent step" },
+      { "change": "Named 'administrative burden cisgender applicants never face'", "reason": "Privilege gap becomes explicit — cisgender people don't experience this friction" },
+      { "change": "Proposed 'flexible or non-binary gender markers'", "reason": "Framing as system architecture change makes the solution more actionable" },
+      { "change": "Text in Ukrainian language", "reason": "Expert analysis accessible for genderfluid Ukrainians" }
     ],
     "stats": {
       "wordCount": 150,
@@ -166,22 +166,22 @@
     "headline": "Доступне житло для літніх гендерфлюїдних людей: мовчання на перетині",
     "body": "2,4 мільярда крон на 3 200 квартир, 40% за дохідним критерієм. 42 000+ у черзі. Будівництво — третій квартал 2026.\n\nЛітні гендерфлюїдні люди зіштовхуються з компонентами викликів, відсутніми у політиці: вікові потреби доступності, житлові об'єкти, побудовані навколо бінарного гендеру (спільні простори, контакти для екстрених випадків, координація догляду), та пенсійні доходи, що можуть відображати кар'єрні переривання.\n\nДля літніх гендерфлюїдних українців у діаспорі це посилюється: переміщення через війну, втрата адаптованого житла на батьківщині, культурний тиск та документальні невідповідності. Дохідний поріг може кваліфікувати деяких, але інфраструктура припускає бінарного, працездатного мешканця нуклеарної сім'ї. Без інклюзивного дизайну об'єктів, небінарних протоколів догляду та гнучких визначень домогосподарств — виключення продовжується через пропуск.",
     "dimensions": {
-      "tone": "Експертний інтерсекціональний аналіз розсилки",
-      "vocabulary": "Повна термінологія: 'компоненти викликів', 'небінарні протоколи догляду'",
-      "format": "Експертна розсилка: дані, інтерсекціональний аналіз, пропозиції",
-      "culturalFraming": "Діаспорний контекст — втрата житла через війну та культурний тиск"
+      "tone": "Expert intersectional newsletter analysis",
+      "vocabulary": "Full terminology: 'challenge components', 'non-binary care protocols'",
+      "format": "Expert newsletter: data, intersectional analysis, proposals",
+      "culturalFraming": "Diaspora context — housing loss due to war and cultural pressure"
     },
     "changes": [
-      "Збережено дані",
-      "Три компоненти викликів для літніх гендерфлюїдних",
-      "Діаспорний контекст — війна, документальні невідповідності",
-      "Пропозиція інклюзивного дизайну та небінарних протоколів"
+      "Data preserved",
+      "Three challenge components for senior genderfluid people",
+      "Diaspora context — war, document discrepancies",
+      "Proposal for inclusive design and non-binary protocols"
     ],
     "inclusivityMeta": [
-      { "change": "Виявлено 'кар'єрні переривання' як вплив на пенсії", "reason": "Економічна історія гендерфлюїдних людей формується ідентичністю — пенсійні розрахунки цього не враховують" },
-      { "change": "Згадано 'втрату адаптованого житла на батьківщині'", "reason": "Літні переселенці не просто шукають нове житло — вони втратили простір, адаптований для них" },
-      { "change": "Запропоновано 'небінарні протоколи догляду та гнучкі визначення домогосподарств'", "reason": "Дієві структурні зміни, що адресують кореневі причини" },
-      { "change": "Текст українською мовою", "reason": "Критична інформація для літніх гендерфлюїдних українців" }
+      { "change": "Identified 'career interruptions' as impacting pensions", "reason": "Genderfluid people's economic history is shaped by identity — pension calculations don't account for this" },
+      { "change": "Mentioned 'loss of adapted housing in home country'", "reason": "Senior refugees didn't just lose housing — they lost a space adapted for them" },
+      { "change": "Proposed 'non-binary care protocols and flexible household definitions'", "reason": "Actionable structural changes addressing root causes" },
+      { "change": "Text in Ukrainian language", "reason": "Critical information for senior genderfluid Ukrainians" }
     ],
     "stats": {
       "wordCount": 155,
@@ -204,22 +204,22 @@
     "headline": "Вікові звільнення та гендерна флюїдність: де мовна вимога не дотягує",
     "body": "Вимога CEFR B1 (березень 2027) звільняє заявників 65+ — полегшення для багатьох літніх гендерфлюїдних людей. Але звільнення працює лише за віком — не адресуючи гендерно-ідентичне тертя, вбудоване у SFI та міграційні системи.\n\nГромадяни поза ЄС з 3+ роками. ~34 000 підпадають. Додаткові винятки: труднощі навчання, додатковий захист.\n\nДля гендерфлюїдних літніх українців молодше 65 система SFI компонує вікові бар'єри навчання з гендерно-ідентичним тертям: фіксовані маркери, бінарні класні припущення, служби підтримки без досвіду роботи з гендерфлюїдними людьми. Когнітивне навантаження мовного навчання плюс емоційна праця навігації місгендерингу створюють тягар, який одновісні звільнення не можуть адресувати. Поступові рівні володіння у поєднанні з гендерно-інклюзивною інфраструктурою SFI — більш справедливе рішення.",
     "dimensions": {
-      "tone": "Експертна критика розсилки — інтерсекціональна",
-      "vocabulary": "Повна технічна мова: 'одновісні звільнення', 'когнітивне навантаження'",
-      "format": "Експертна розсилка: аналіз звільнення, бар'єри, рішення",
-      "culturalFraming": "Діаспорний контекст — літні гендерфлюїдні українці як специфічна група"
+      "tone": "Expert newsletter critique — intersectional",
+      "vocabulary": "Full technical language: 'single-axis exemptions', 'cognitive load'",
+      "format": "Expert newsletter: exemption analysis, barriers, solutions",
+      "culturalFraming": "Diaspora context — senior genderfluid Ukrainians as specific group"
     },
     "changes": [
-      "Збережено деталі та звільнення",
-      "Аналіз взаємодії вікових звільнень з гендерною ідентичністю",
-      "Компонування когнітивного навантаження та емоційної праці",
-      "Пропозиція поступових рівнів з інклюзивною інфраструктурою"
+      "Details and exemptions preserved",
+      "Analysis of how age exemptions interact with gender identity",
+      "Compounding of cognitive load and emotional labor",
+      "Proposal for graduated levels with inclusive infrastructure"
     ],
     "inclusivityMeta": [
-      { "change": "Названо 'емоційну працю навігації місгендерингу' поряд з когнітивним навантаженням", "reason": "Гендерфлюїдні літні люди несуть подвійний тягар — труднощі навчання плюс стрес від ідентичності" },
-      { "change": "Виявлено 'одновісні звільнення' як структурно недостатні", "reason": "Вікові звільнення не враховують, як вік та гендерна ідентичність компонуються" },
-      { "change": "Запропоновано 'поступові рівні з гендерно-інклюзивною інфраструктурою'", "reason": "Адресує обидві осі одночасно замість окремих виключень" },
-      { "change": "Текст українською мовою", "reason": "Доступність для літніх гендерфлюїдних українців" }
+      { "change": "Named 'emotional labor of navigating misgendering' alongside cognitive load", "reason": "Senior genderfluid people carry double burden — learning difficulties plus identity stress" },
+      { "change": "Identified 'single-axis exemptions' as structurally insufficient", "reason": "Age exemptions don't account for how age and gender identity compound" },
+      { "change": "Proposed 'graduated levels with gender-inclusive infrastructure'", "reason": "Addresses both axes simultaneously rather than separate exclusions" },
+      { "change": "Text in Ukrainian language", "reason": "Accessibility for senior genderfluid Ukrainians" }
     ],
     "stats": {
       "wordCount": 155,
