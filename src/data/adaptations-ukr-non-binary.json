@@ -14,22 +14,22 @@
     "headline": "Стокгольм будує 3 200 доступних квартир — що потрібно знати",
     "body": "Стокгольм виділив 2,4 мільярда крон на 3 200 доступних квартир у Ярві, Шерхольмені та Фарсті. 40% зарезервовано для домогосподарств із нижчим доходом. Система переходить від лотереї до дохідного розподілу.\n\nПонад 42 000 у черзі. Будівництво — наступний рік, заявки — січень 2027. Усі з постійним проживанням мають рівні права.\n\nЖитлова політика зазвичай орієнтована на нуклеарні сім'ї, але це стосується всіх — включаючи небінарних людей, які орієнтуються у системі, що рідко враховує нетрадиційні домогосподарства. Для небінарних українців у діаспорі це подвійний виклик: міграційний статус та гендерна ідентичність одночасно.",
     "dimensions": {
-      "tone": "Розмовний голос соціальних мереж, прямий",
-      "vocabulary": "Доступна мова з поясненнями політичних термінів",
-      "format": "Стиль соціальних мереж: факти, контекст, особиста значущість",
-      "culturalFraming": "Діаспорний та небінарний контекст — подвійний виклик"
+      "tone": "Conversational social media voice, direct",
+      "vocabulary": "Accessible language with political term explanations",
+      "format": "Social media style: facts, context, personal relevance",
+      "culturalFraming": "Diaspora and non-binary context — dual challenge"
     },
     "changes": [
-      "Адаптовано для соціальних мереж",
-      "Оскаржено нуклеарно-сімейні припущення у житловій політиці",
-      "Центровано небінарний досвід у діаспорному контексті",
-      "Збережено всі дані у доступному форматі"
+      "Adapted for social media",
+      "Challenged nuclear family assumptions in housing policy",
+      "Centered non-binary experience in diaspora context",
+      "All data preserved in accessible format"
     ],
     "inclusivityMeta": [
-      { "change": "Згадано 'нетрадиційні домогосподарства' як недообслужені", "reason": "Житлова політика за замовчуванням орієнтована на нуклеарні сім'ї — називання цієї прогалини валідує досвід небінарних людей" },
-      { "change": "Виділено 'подвійний виклик' міграційного статусу та гендерної ідентичності", "reason": "Інтерсекціональний підхід для небінарних людей з діаспори" },
-      { "change": "Гендерно-нейтральна мова throughout", "reason": "Небінарні читачі постійно місгендеруються — нейтральна мова є базовою інклюзією" },
-      { "change": "Текст українською мовою", "reason": "Доступність рідною мовою для небінарних українців у діаспорі" }
+      { "change": "Mentioned 'non-traditional households' as underserved", "reason": "Housing policy defaults to nuclear families — naming this gap validates non-binary people's experience" },
+      { "change": "Highlighted 'dual challenge' of migration status and gender identity", "reason": "Intersectional approach for non-binary people in diaspora" },
+      { "change": "Gender-neutral language throughout", "reason": "Non-binary readers are constantly misgendered — neutral language is basic inclusion" },
+      { "change": "Text in Ukrainian language", "reason": "Accessibility in native language for non-binary Ukrainians in diaspora" }
     ],
     "stats": {
       "wordCount": 118,
@@ -52,22 +52,22 @@
     "headline": "Мовна вимога Швеції для проживання — і що це означає для вас",
     "body": "З березня 2027 для постійного проживання потрібен розмовний рівень шведської (CEFR B1). Тестування у центрах SFI для громадян поза ЄС з 3+ роками тимчасового дозволу.\n\nВинятки: 65+, труднощі навчання, додатковий захист. ~34 000 підпадають.\n\nСам тест гендерно-нейтральний — це добре. Але інфраструктура навколо нього — ні. Реєстраційні форми SFI, класифікація у групах — все побудовано на бінарній гендерній системі. Для небінарних українців у діаспорі кожна інституційна точка контакту може стати місцем місгендерингу. Боротьба за інклюзивне середовище SFI важлива так само, як і підготовка до тесту.",
     "dimensions": {
-      "tone": "Прямий голос соціальних мереж з адвокаційним фреймінгом",
-      "vocabulary": "Пояснено 'CEFR B1', доступна мова",
-      "format": "Соціальні мережі: факти, системна критика, заклик до дії",
-      "culturalFraming": "Діаспорний контекст — бюрократичний тертя для небінарних українців"
+      "tone": "Direct social media voice with advocacy framing",
+      "vocabulary": "Explained 'CEFR B1', accessible language",
+      "format": "Social media: facts, systemic critique, call to action",
+      "culturalFraming": "Diaspora context — bureaucratic friction for non-binary Ukrainians"
     },
     "changes": [
-      "Адаптовано для соціальних мереж",
-      "Названо бюрократичне тертя для небінарних людей",
-      "Відділено нейтральність тесту від бінарності інфраструктури",
-      "Адвокаційний фреймінг для інклюзивного SFI"
+      "Adapted for social media",
+      "Named bureaucratic friction for non-binary people",
+      "Separated test neutrality from infrastructure binary",
+      "Advocacy framing for inclusive SFI"
     ],
     "inclusivityMeta": [
-      { "change": "Названо 'реєстраційні форми SFI' як бінарно-дефолтні", "reason": "Бінарні форми змушують небінарних людей хибно ідентифікуватися для доступу до публічної послуги" },
-      { "change": "Відділено нейтральність тесту від бінарності системи", "reason": "Розрізнення допомагає спрямувати адвокацію на конкретні точки системи" },
-      { "change": "Заклик до 'інклюзивного середовища SFI'", "reason": "Валідує право небінарних людей на інклюзивне оточення, а не лише рівний доступ до тесту" },
-      { "change": "Текст українською мовою", "reason": "Доступність для небінарних українців, які ще вивчають шведську" }
+      { "change": "Named 'SFI registration forms' as binary-default", "reason": "Binary forms force non-binary people to misidentify to access a public service" },
+      { "change": "Separated test neutrality from system binary", "reason": "Distinction helps direct advocacy to specific system points" },
+      { "change": "Call for 'inclusive SFI environment'", "reason": "Validates non-binary people's right to inclusive environment, not just equal test access" },
+      { "change": "Text in Ukrainian language", "reason": "Accessibility for non-binary Ukrainians still learning Swedish" }
     ],
     "stats": {
       "wordCount": 122,
@@ -90,22 +90,22 @@
     "headline": "Житлова політика Стокгольма: структурно справедлива чи структурно сліпа?",
     "body": "2,4 мільярда крон на 3 200 квартир (Ярва, Шерхольмен, Фарста), 40% за дохідним критерієм. Перехід від лотереї до дохідного розподілу адресує одну вісь нерівності — економічну — залишаючи інші неперевіреними.\n\n42 000+ у черзі. Будівництво — третій квартал 2026, заявки — січень 2027.\n\nВизначення домогосподарств у політиці спираються на правові категорії, які часто підводять небінарних людей: реєстри співмешкання, оцінки складу сім'ї та розрахунки розподілу доходу — все базується на бінарних гендерних парах. Для небінарних українців у діаспорі — де правовий гендерний статус може відрізнятися між документами різних країн — це додатковий шар виключення. Справжня справедливість вимагає аудиту цих механізмів.",
     "dimensions": {
-      "tone": "Експертний аналіз соціальних мереж — структурний, критичний",
-      "vocabulary": "Повна термінологія: 'бінарні гендерні пари', 'механізми виключення'",
-      "format": "Експертний пост: дані, структурна критика, заклик до аудиту",
-      "culturalFraming": "Діаспорний інтерсекціональний контекст — документи різних країн"
+      "tone": "Expert social media analysis — structural, critical",
+      "vocabulary": "Full terminology: 'binary gender pairs', 'exclusion mechanisms'",
+      "format": "Expert post: data, structural critique, call for audit",
+      "culturalFraming": "Diaspora intersectional context — documents from different countries"
     },
     "changes": [
-      "Збережено технічну складність",
-      "Аналіз бінарних припущень у визначеннях домогосподарств",
-      "Діаспорний контекст — різні правові гендерні статуси між країнами",
-      "Заклик до аудиту механізмів виключення"
+      "Technical complexity preserved",
+      "Analysis of binary assumptions in household definitions",
+      "Diaspora context — different legal gender statuses across countries",
+      "Call for audit of exclusion mechanisms"
     ],
     "inclusivityMeta": [
-      { "change": "Виявлено 'реєстри співмешкання та оцінки складу сім'ї' як бінарно-кодовані", "reason": "Формальна нейтральність на рівні політики маскує дискримінацію на рівні впровадження" },
-      { "change": "Згадано 'правовий гендерний статус може відрізнятися між документами різних країн'", "reason": "Діаспорна специфіка — небінарні переселенці можуть мати різний гендерний статус у різних системах" },
-      { "change": "Заклик до 'аудиту механізмів виключення'", "reason": "Експертна адвокація — аудит впровадження ефективніший за дебати щодо тексту політики" },
-      { "change": "Текст українською мовою", "reason": "Експертний зміст доступний рідною мовою для небінарних українців" }
+      { "change": "Identified 'cohabitation registries and household composition assessments' as binary-coded", "reason": "Formal neutrality at policy level masks discrimination at implementation level" },
+      { "change": "Mentioned 'legal gender status may differ across documents from different countries'", "reason": "Diaspora specifics — non-binary refugees may have different gender statuses in different systems" },
+      { "change": "Call for 'audit of exclusion mechanisms'", "reason": "Expert advocacy — implementation audit more effective than debates about policy text" },
+      { "change": "Text in Ukrainian language", "reason": "Expert content accessible in native language for non-binary Ukrainians" }
     ],
     "stats": {
       "wordCount": 140,
@@ -128,22 +128,22 @@
     "headline": "Вимога CEFR B1: гендерно-нейтральний тест, гендерно-сліпа інфраструктура",
     "body": "Вимога CEFR B1 для постійного проживання (березень 2027) для громадян поза ЄС з 3+ роками. Тестування SFI, ~34 000 підпадають. Винятки: 65+, труднощі навчання, додатковий захист.\n\nТест не запитує ваш гендер. Але інфраструктура навколо нього — запитує постійно. Реєстраційні форми SFI, класифікація підтримки, навіть групування в класах — все за замовчуванням бінарне. Для небінарних українців кожна точка контакту стає потенційним місцем місгендерингу.\n\nМовчання політики щодо гендерної ідентичності — це не нейтральність, а стирання через пропуск. Для небінарних переселенців з України, де правовий захист гендерної ідентичності обмежений, Швеція повинна забезпечити, щоб її міграційна інфраструктура не відтворювала виключення країни походження.",
     "dimensions": {
-      "tone": "Експертна критика — структурна, гостра, адвокаційна",
-      "vocabulary": "Повна технічна мова: 'стирання через пропуск', 'інституційна точка контакту'",
-      "format": "Експертний пост: факти, системна критика, конкретні вимоги",
-      "culturalFraming": "Діаспорний контекст — порівняння захисту в Україні та Швеції"
+      "tone": "Expert critique — structural, sharp, advocacy-focused",
+      "vocabulary": "Full technical language: 'erasure through omission', 'institutional touchpoint'",
+      "format": "Expert post: facts, systemic critique, concrete demands",
+      "culturalFraming": "Diaspora context — comparing protections in Ukraine and Sweden"
     },
     "changes": [
-      "Збережено технічні деталі",
-      "Аналіз бінарних дефолтів SFI інфраструктури",
-      "Названо мовчання як 'стирання через пропуск'",
-      "Діаспорний контекст — правовий захист гендерної ідентичності"
+      "Technical details preserved",
+      "Analysis of binary defaults in SFI infrastructure",
+      "Named silence as 'erasure through omission'",
+      "Diaspora context — legal protection of gender identity"
     ],
     "inclusivityMeta": [
-      { "change": "Названо 'стирання через пропуск' у політиці", "reason": "Незгадування небінарних людей не є нейтральністю — у бінарних системах це означає виключення" },
-      { "change": "Порівняння захисту в Україні та Швеції", "reason": "Діаспорна специфіка — небінарні переселенці можуть шукати кращий захист, але зустрічати системне виключення" },
-      { "change": "Виявлено бінарні дефолти SFI як конкретні точки тертя", "reason": "Конкретні приклади показують, де небінарні люди стикаються з системним тертям" },
-      { "change": "Текст українською мовою", "reason": "Доступність для небінарних українців без додаткового мовного бар'єру" }
+      { "change": "Named 'erasure through omission' in policy", "reason": "Not mentioning non-binary people is not neutrality — in binary systems it means exclusion" },
+      { "change": "Comparison of protections in Ukraine and Sweden", "reason": "Diaspora specifics — non-binary refugees may seek better protection but encounter systemic exclusion" },
+      { "change": "Identified binary SFI defaults as specific friction points", "reason": "Concrete examples show where non-binary people face systemic friction" },
+      { "change": "Text in Ukrainian language", "reason": "Accessibility for non-binary Ukrainians without additional language barrier" }
     ],
     "stats": {
       "wordCount": 145,
@@ -166,22 +166,22 @@
     "headline": "Доступне житло для літніх: перетин віку, гендерної ідентичності та діаспори",
     "body": "2,4 мільярда крон на 3 200 квартир, 40% за дохідним критерієм. 42 000+ у черзі. Будівництво — третій квартал 2026.\n\nДля літніх небінарних людей ця політика стоїть на потрійному перетині: вікові потреби доступності, дохідні обмеження пенсійних систем та житлові системи, що категоризують мешканців за бінарним гендером.\n\nДля небінарних літніх українців у діаспорі це посилюється: пенсійні системи можуть не відображати повну кар'єру (особливо при пізньому переїзді), документи різних країн можуть конфліктувати, а культурний контекст створює додатковий тиск. Політика мовчить щодо всіх трьох перетинів — припущення, що дохідне прив'язування само по собі створює справедливість, ігнорує компоненти нерівності.",
     "dimensions": {
-      "tone": "Експертний інтерсекціональний аналіз",
-      "vocabulary": "Повна термінологія: 'потрійний перетин', 'компоненти нерівності'",
-      "format": "Експертний пост: факти, інтерсекціональний аналіз, прогалини",
-      "culturalFraming": "Діаспорний інтерсекціональний контекст — три осі вразливості"
+      "tone": "Expert intersectional analysis",
+      "vocabulary": "Full terminology: 'triple intersection', 'inequality components'",
+      "format": "Expert post: facts, intersectional analysis, gaps",
+      "culturalFraming": "Diaspora intersectional context — three axes of vulnerability"
     },
     "changes": [
-      "Збережено дані у стислому форматі",
-      "Виявлено потрійний перетин: вік, гендерна ідентичність, доход",
-      "Діаспорний контекст — пенсійні прогалини та конфліктуючі документи",
-      "Бінарна категоризація у житлових об'єктах"
+      "Data preserved in concise format",
+      "Identified triple intersection: age, gender identity, income",
+      "Diaspora context — pension gaps and conflicting documents",
+      "Binary categorization in housing facilities"
     ],
     "inclusivityMeta": [
-      { "change": "Виявлено 'потрійний перетин' віку, гендерної ідентичності та доходу", "reason": "Інтерсекціональний аналіз показує компоненти нерівності, невидимі при розгляді кожної осі окремо" },
-      { "change": "Згадано 'конфліктуючі документи різних країн'", "reason": "Діаспорна специфіка — небінарні переселенці мають різні правові статуси у різних системах" },
-      { "change": "Згадано 'пенсійні системи, що не відображають повну кар'єру'", "reason": "Кар'єрні переривання через міграцію впливають на пенсійні доходи" },
-      { "change": "Текст українською мовою", "reason": "Критично важлива інформація доступна рідною мовою для літніх небінарних людей" }
+      { "change": "Identified 'triple intersection' of age, gender identity, and income", "reason": "Intersectional analysis reveals inequality components invisible when each axis is examined separately" },
+      { "change": "Mentioned 'conflicting documents from different countries'", "reason": "Diaspora specifics — non-binary refugees have different legal statuses in different systems" },
+      { "change": "Mentioned 'pension systems not reflecting full career'", "reason": "Career interruptions from migration affect pension income" },
+      { "change": "Text in Ukrainian language", "reason": "Critically important information accessible in native language for senior non-binary people" }
     ],
     "stats": {
       "wordCount": 142,
@@ -204,22 +204,22 @@
     "headline": "Мовна вимога для 70+: перетин вікових звільнень та стирання гендерної ідентичності",
     "body": "Вимога CEFR B1 (березень 2027) звільняє заявників 65+ — це покриває багатьох літніх небінарних людей. Але фреймінг звільнення розкриває глибшу проблему: вік розглядається як ізольована категорія, ігноруючи вплив гендерної ідентичності на досвід старіння у міграційних системах.\n\nГромадяни поза ЄС з 3+ роками. ~34 000 підпадають. Додаткові винятки: труднощі навчання, додатковий захист.\n\nДля небінарних літніх українців, які підпадають під вимогу (молодше 65), система SFI створює компоненти бар'єрів: бінарні реєстрації, гендерована класна динаміка, середовище без врахування небінарних людей. Для переселенців з України, де правовий захист обмежений, Швеція повинна забезпечити, щоб звільнення від тесту не залишало без уваги бінарну архітектуру системи.",
     "dimensions": {
-      "tone": "Експертна інтерсекціональна критика",
-      "vocabulary": "Повна технічна мова: 'бінарна архітектура', 'компоненти бар'єрів'",
-      "format": "Експертний пост: аналіз звільнення, системна критика",
-      "culturalFraming": "Діаспорний контекст — обмежений захист в Україні як контекст"
+      "tone": "Expert intersectional critique",
+      "vocabulary": "Full technical language: 'binary architecture', 'barrier components'",
+      "format": "Expert post: exemption analysis, systemic critique",
+      "culturalFraming": "Diaspora context — limited protection in Ukraine as context"
     },
     "changes": [
-      "Збережено деталі політики та звільнень",
-      "Аналіз взаємодії вікових звільнень з гендерною ідентичністю",
-      "Виявлено бар'єри SFI для небінарних літніх",
-      "Діаспорний контекст — правовий захист в Україні"
+      "Policy details and exemptions preserved",
+      "Analysis of how age exemptions interact with gender identity",
+      "Identified SFI barriers for senior non-binary people",
+      "Diaspora context — legal protection in Ukraine"
     ],
     "inclusivityMeta": [
-      { "change": "Аналіз вікового звільнення як 'ізольованої категорії'", "reason": "Одновісні звільнення не враховують, як вік та гендерна ідентичність взаємодіють" },
-      { "change": "Виявлено 'бінарні реєстрації та гендеровану класну динаміку' в SFI", "reason": "Конкретні проблеми інфраструктури для небінарних літніх людей" },
-      { "change": "Порівняння правового захисту в Україні та Швеції", "reason": "Діаспорна специфіка — очікування кращого захисту vs реальність системного виключення" },
-      { "change": "Текст українською мовою", "reason": "Доступність для небінарних літніх українців без мовного бар'єру" }
+      { "change": "Analysis of age exemption as 'isolated category'", "reason": "Single-axis exemptions don't account for how age and gender identity interact" },
+      { "change": "Identified 'binary registrations and gendered classroom dynamics' in SFI", "reason": "Concrete infrastructure issues for senior non-binary people" },
+      { "change": "Comparison of legal protections in Ukraine and Sweden", "reason": "Diaspora specifics — expectation of better protection vs reality of systemic exclusion" },
+      { "change": "Text in Ukrainian language", "reason": "Accessibility for senior non-binary Ukrainians without language barrier" }
     ],
     "stats": {
       "wordCount": 148,
