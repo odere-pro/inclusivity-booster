@@ -29,7 +29,7 @@
 <div class="app-shell">
   <header class="app-header">
     <div class="app-header__left">
-      <h1 class="app-header__title">inclusivity-booster</h1>
+      <h1 class="app-header__title">Inclusivity Booster</h1>
     </div>
     <nav class="app-header__nav">
       <a
